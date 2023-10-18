@@ -1,0 +1,70 @@
+{
+  "name": "svc-reports",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/svc-reports/src",
+  "projectType": "application",
+  "targets": {
+    "build": {
+      "executor": "@nx/webpack:webpack",
+      "outputs": ["{options.outputPath}"],
+      "defaultConfiguration": "production",
+      "options": {
+        "target": "node",
+        "compiler": "tsc",
+        "outputPath": "dist/apps/svc-reports",
+        "main": "apps/svc-reports/src/main.ts",
+        "tsConfig": "apps/svc-reports/tsconfig.app.json",
+        "assets": ["apps/svc-reports/src/assets"],
+        "isolatedConfig": true,
+        "webpackConfig": "apps/svc-reports/webpack.config.js",
+        "generatePackageJson": true,
+        "generateLockFile": true
+      },
+      "configurations": {
+        "development": {},
+        "production": {}
+      }
+    },
+    "serve": {
+      "executor": "@nx/js:node",
+      "defaultConfiguration": "development",
+      "options": {
+        "buildTarget": "svc-reports:build"
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "svc-reports:build:development"
+        },
+        "production": {
+          "buildTarget": "svc-reports:build:production"
+        }
+      }
+    },
+    "lint": {
+      "executor": "@nx/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["apps/svc-reports/**/*.ts"]
+      }
+    },
+    "test": {
+      "executor": "@nx/jest:jest",
+      "outputs": ["{workspaceRoot}/coverage/{projectRoot}"],
+      "options": {
+        "jestConfig": "apps/svc-reports/jest.config.ts",
+        "passWithNoTests": true
+      },
+      "configurations": {
+        "ci": {
+          "ci": true,
+          "codeCoverage": true
+        }
+      }
+    },
+    "docker-build": {
+      "dependsOn": ["build"],
+      "command": "docker build -f apps/svc-reports/Dockerfile . -t svc-reports"
+    }
+  },
+  "tags": []
+}

@@ -1,0 +1,64 @@
+{
+  "name": "svc-exercise",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/svc-exercise/src",
+  "projectType": "application",
+  "targets": {
+    "build": {
+      "executor": "@nx/webpack:webpack",
+      "outputs": ["{options.outputPath}"],
+      "defaultConfiguration": "production",
+      "options": {
+        "target": "node",
+        "compiler": "tsc",
+        "outputPath": "dist/apps/svc-exercise",
+        "main": "apps/svc-exercise/src/main.ts",
+        "tsConfig": "apps/svc-exercise/tsconfig.app.json",
+        "assets": ["apps/svc-exercise/src/assets"],
+        "isolatedConfig": true,
+        "webpackConfig": "apps/svc-exercise/webpack.config.js"
+      },
+      "configurations": {
+        "development": {},
+        "production": {}
+      }
+    },
+    "serve": {
+      "executor": "@nx/js:node",
+      "defaultConfiguration": "development",
+      "options": {
+        "buildTarget": "svc-exercise:build"
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "svc-exercise:build:development"
+        },
+        "production": {
+          "buildTarget": "svc-exercise:build:production"
+        }
+      }
+    },
+    "lint": {
+      "executor": "@nx/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["apps/svc-exercise/**/*.ts"]
+      }
+    },
+    "test": {
+      "executor": "@nx/jest:jest",
+      "outputs": ["{workspaceRoot}/coverage/{projectRoot}"],
+      "options": {
+        "jestConfig": "apps/svc-exercise/jest.config.ts",
+        "passWithNoTests": true
+      },
+      "configurations": {
+        "ci": {
+          "ci": true,
+          "codeCoverage": true
+        }
+      }
+    }
+  },
+  "tags": []
+}

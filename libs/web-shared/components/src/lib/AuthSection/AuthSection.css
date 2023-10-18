@@ -1,0 +1,12 @@
+.signinlink{
+    width: 144px; 
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 13px;
+    line-height: 131%;
+    display: flex;
+    align-items: center;
+    text-decoration-line: underline;
+    color: #40A9FF;
+
+}

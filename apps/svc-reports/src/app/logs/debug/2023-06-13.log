@@ -1,0 +1,24 @@
+2023-06-13 19:48:12 info: ../logs
+2023-06-13 19:48:12 info: D:\practice\microserv\athena\apps\svc-reports\src\app\util
+2023-06-13 19:48:13 info: [0mGET /api/reports/adminmetrics/adminPerformanceChart?view=month [32m200[0m 50.874 ms - 99[0m
+2023-06-13 19:48:55 info: ../logs
+2023-06-13 19:48:55 info: D:\practice\microserv\athena\apps\svc-reports\src\app\util
+2023-06-13 19:48:55 info: [0mGET /api/reports/adminmetrics/adminPerformanceChart?view=week [32m200[0m 42.672 ms - 99[0m
+2023-06-13 19:50:46 info: ../logs
+2023-06-13 19:50:46 info: D:\practice\microserv\athena\apps\svc-reports\src\app\util
+2023-06-13 19:50:46 info: [0mGET /api/reports/adminmetrics/adminPerformanceChart?view=week [32m200[0m 40.181 ms - 99[0m
+2023-06-13 19:51:01 info: ../logs
+2023-06-13 19:51:01 info: D:\practice\microserv\athena\apps\svc-reports\src\app\util
+2023-06-13 19:51:01 info: [0mGET /api/reports/adminmetrics/adminPerformanceChart?view=week [32m200[0m 41.642 ms - 99[0m
+2023-06-13 19:51:24 info: ../logs
+2023-06-13 19:51:24 info: D:\practice\microserv\athena\apps\svc-reports\src\app\util
+2023-06-13 19:51:24 info: [0mGET /api/reports/adminmetrics/adminPerformanceChart?view=week [32m200[0m 39.727 ms - 99[0m
+2023-06-13 19:52:02 info: ../logs
+2023-06-13 19:52:02 info: D:\practice\microserv\athena\apps\svc-reports\src\app\util
+2023-06-13 19:52:02 info: [0mGET /api/reports/adminmetrics/adminPerformanceChart?view=week [32m200[0m 175.858 ms - -[0m
+2023-06-13 19:52:12 info: ../logs
+2023-06-13 19:52:12 info: D:\practice\microserv\athena\apps\svc-reports\src\app\util
+2023-06-13 19:52:12 info: [0mGET /api/reports/adminmetrics/adminPerformanceChart?view=week [32m200[0m 67.672 ms - 99[0m
+2023-06-13 19:52:54 info: ../logs
+2023-06-13 19:52:54 info: D:\practice\microserv\athena\apps\svc-reports\src\app\util
+2023-06-13 19:52:55 info: [0mGET /api/reports/adminmetrics/adminPerformanceChart?view=week [32m200[0m 439.750 ms - -[0m

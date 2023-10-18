@@ -1,0 +1,71 @@
+2023-06-27 16:02:33 info: ../logs
+2023-06-27 16:02:33 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-27 16:02:36 info: [0mPOST /api/users/signIn [32m200[0m 645.528 ms - 83[0m
+2023-06-27 16:02:36 info: [0mPOST /api/users/signIn [32m200[0m 138.410 ms - 83[0m
+2023-06-27 16:02:36 info: [0mPOST /api/users/signIn [32m200[0m 8.076 ms - 128[0m
+2023-06-27 16:02:36 info: [0mPOST /api/users/signIn [32m200[0m 1.915 ms - 93[0m
+2023-06-27 16:05:12 info: ../logs
+2023-06-27 16:05:12 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-27 16:05:13 info: [0mPOST /api/users/signIn [32m200[0m 647.923 ms - 83[0m
+2023-06-27 16:05:14 info: [0mPOST /api/users/signIn [32m200[0m 142.615 ms - 83[0m
+2023-06-27 16:05:14 info: [0mPOST /api/users/signIn [32m200[0m 9.321 ms - 128[0m
+2023-06-27 16:05:14 info: [0mPOST /api/users/signIn [32m200[0m 2.086 ms - 93[0m
+2023-06-27 16:06:02 info: ../logs
+2023-06-27 16:06:02 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-27 16:06:03 info: [0mPOST /api/users/signIn [32m200[0m 659.701 ms - 83[0m
+2023-06-27 16:06:04 info: [0mPOST /api/users/signIn [32m200[0m 141.614 ms - 83[0m
+2023-06-27 16:06:04 info: [0mPOST /api/users/signIn [32m200[0m 7.662 ms - 128[0m
+2023-06-27 16:06:04 info: [0mPOST /api/users/signIn [32m200[0m 1.541 ms - 93[0m
+2023-06-27 16:06:35 info: ../logs
+2023-06-27 16:06:35 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-27 16:06:36 info: [0mPOST /api/users/signIn [32m200[0m 596.518 ms - 83[0m
+2023-06-27 16:06:37 info: [0mPOST /api/users/signIn [32m200[0m 148.024 ms - 83[0m
+2023-06-27 16:06:37 info: [0mPOST /api/users/signIn [32m200[0m 8.983 ms - 128[0m
+2023-06-27 16:06:37 info: [0mPOST /api/users/signIn [32m200[0m 1.710 ms - 93[0m
+2023-06-27 16:07:57 info: ../logs
+2023-06-27 16:07:57 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-27 16:07:58 info: [0mPOST /api/users/signIn [32m200[0m 579.172 ms - 83[0m
+2023-06-27 16:08:46 info: ../logs
+2023-06-27 16:08:46 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-27 16:08:48 info: [0mPOST /api/users/signIn [32m200[0m 662.043 ms - -[0m
+2023-06-27 16:09:39 info: ../logs
+2023-06-27 16:09:39 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-27 16:09:41 info: [0mPOST /api/users/signIn [32m200[0m 617.072 ms - -[0m
+2023-06-27 16:12:52 info: ../logs
+2023-06-27 16:12:52 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-27 16:12:54 info: [0mPOST /api/users/signIn [32m200[0m 574.972 ms - 85[0m
+2023-06-27 16:13:23 info: ../logs
+2023-06-27 16:13:23 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-27 16:13:24 info: [0mPOST /api/users/signIn [32m200[0m 673.416 ms - -[0m
+2023-06-27 16:13:25 info: [0mPOST /api/users/signIn [32m200[0m 187.953 ms - 85[0m
+2023-06-27 16:13:25 info: [0mPOST /api/users/signIn [32m200[0m 6.547 ms - 130[0m
+2023-06-27 16:13:43 info: ../logs
+2023-06-27 16:13:43 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-27 16:13:45 info: [0mPOST /api/users/signIn [32m200[0m 634.689 ms - -[0m
+2023-06-27 16:13:45 info: [0mPOST /api/users/signIn [32m200[0m 145.302 ms - 85[0m
+2023-06-27 16:13:45 info: [0mPOST /api/users/signIn [32m200[0m 6.630 ms - 130[0m
+2023-06-27 16:13:45 info: [0mPOST /api/users/signIn [32m200[0m 1.702 ms - 93[0m
+2023-06-27 16:14:15 info: ../logs
+2023-06-27 16:14:15 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-27 16:14:17 info: [0mPOST /api/users/signIn [32m200[0m 735.211 ms - -[0m
+2023-06-27 16:14:17 info: [0mPOST /api/users/signIn [32m200[0m 148.195 ms - 85[0m
+2023-06-27 16:14:17 info: [0mPOST /api/users/signIn [32m200[0m 7.597 ms - 130[0m
+2023-06-27 16:14:17 info: [0mPOST /api/users/signIn [32m200[0m 1.710 ms - 93[0m
+2023-06-27 16:15:31 info: ../logs
+2023-06-27 16:15:31 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-27 16:15:33 info: [0mPOST /api/users/signIn [32m200[0m 653.999 ms - -[0m
+2023-06-27 16:15:33 info: [0mPOST /api/users/signIn [32m200[0m 134.272 ms - 85[0m
+2023-06-27 16:15:33 info: [0mPOST /api/users/signIn [32m200[0m 7.225 ms - 130[0m
+2023-06-27 16:15:33 info: [0mPOST /api/users/signIn [32m200[0m 1.540 ms - 93[0m
+2023-06-27 16:16:06 info: ../logs
+2023-06-27 16:16:06 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-27 16:16:07 info: [0mPOST /api/users/signIn [32m200[0m 700.244 ms - -[0m
+2023-06-27 16:16:08 info: [0mPOST /api/users/signIn [32m200[0m 142.121 ms - 85[0m
+2023-06-27 16:16:08 info: [0mPOST /api/users/signIn [32m200[0m 7.881 ms - 130[0m
+2023-06-27 16:16:08 info: [0mPOST /api/users/signIn [32m200[0m 1.908 ms - 93[0m
+2023-06-27 16:17:27 info: ../logs
+2023-06-27 16:17:27 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-27 16:17:30 info: [0mPOST /api/users/signIn [32m200[0m 753.161 ms - -[0m
+2023-06-27 16:17:30 info: [0mPOST /api/users/signIn [32m200[0m 136.182 ms - 85[0m
+2023-06-27 16:17:30 info: [0mPOST /api/users/signIn [32m200[0m 2.715 ms - 130[0m
+2023-06-27 16:17:30 info: [0mPOST /api/users/signIn [32m200[0m 2.631 ms - 93[0m

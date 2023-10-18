@@ -1,0 +1,23 @@
+.requiredd:after {
+    display: inline-block;
+    content: '*';
+    color: #d13535;
+    font-size: 20px;
+    line-height: 1;
+    margin: -0.2em 0 0 0.2em;
+  }
+  
+  /* .custom-input label.required:after {
+    display: inline-block;
+    content: '*';
+    color: #d13535;
+    font-size: 20px;
+    line-height: 1;
+    margin: -0.2em 0 0 0.2em;
+  } */
+
+  .design{
+    padding: 0.9em 4em 0.9em 4em;
+    border-radius: 25px;
+    background: #D3D8DE;
+  }

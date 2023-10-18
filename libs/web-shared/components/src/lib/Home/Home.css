@@ -1,0 +1,153 @@
+.landing-page {
+    font-family: 'Poppins';
+    font-style: normal;
+  }
+  .hero-txt {
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 80px;
+    font-family: 'Poppins';
+    font-style: normal;
+    margin-top: 100px;
+    letter-spacing: 1px;
+  }
+  
+  .hero-sub {
+    font-weight: 600;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 19px;
+    line-height: 35px;
+    color: rgba(0, 0, 0, 0.53);
+    letter-spacing: 0.5px;
+  }
+  .card11 {
+    width: fit-content;
+    overflow: hidden;
+    font-family: 'Poppins';
+    font-style: normal;
+    box-shadow: 2px 1px 11px rgba(0, 0, 0, 0.25);
+    border-radius: 35px !important;
+  
+  }
+  .card-over {
+    position: absolute;
+    left: 41.4%;
+    bottom: 235px;
+  }
+  .card-over-2 {
+    position: absolute;
+    left: 46.3%;
+    bottom: 81px;
+  }
+  .meta-overlay {
+    position: absolute;
+    left: 0;
+    top: 430px;
+  }
+  .over-hero {
+    width: 500px;
+    height: 390px;
+  }
+  .sub-hero-head {
+    font-weight: 600;
+  }
+  .descrip-txt {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+    color: rgba(0, 0, 0, 0.53);
+  }
+  .list-title-hom {
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 70px;
+  }
+  .explore-cou {
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 90px;
+    letter-spacing: 1px;
+  }
+  
+  .home-list li {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: rgba(0, 0, 0, 0.53);
+    list-style: disc;
+    list-style-position: inside;
+  }
+  .card-home-ti {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .card-cou-li li {
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 22px;
+  }
+  
+  .last-card-head {
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 70px;
+    text-align: center;
+  }
+  .foot-card {
+    border-radius: 30px !important;
+  }
+  .foot-card:hover {
+    box-shadow: 0px 1px 53px rgba(0, 0, 0, 0.25);
+  }
+  .foot-list li {
+    list-style: disc;
+    margin-left: 12px;
+    color: rgba(0, 0, 0, 0.53);
+    line-height: 30px;
+  }
+  .foot-card-title {
+    font-weight: 500;
+    font-size: 30px;
+  }
+  .sub-foot-head {
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 60px;
+  }
+  .sub-foot-list li {
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 40px;
+    list-style: disc;
+    list-style-position: inside;
+  }
+  .sub-foot-sec {
+    overflow: hidden;
+    background: linear-gradient(
+      262.31deg,
+      rgba(182, 219, 245, 0.38) -0.86%,
+      rgba(255, 255, 255, 0.38) 69.27%
+    );
+  }
+  .card-over-4 {
+    position: absolute;
+    left: 29%;
+    bottom: 145px;
+  }
+  .card-15 {
+    width: 80%;
+    overflow: hidden;
+    background-color: #f2f3f5 !important;
+    border-radius: 20px !important;
+  }
+  .diff-hover:hover {
+    background-color: #006ed4;
+  }
+  .diff-title {
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 22px;
+  }
+  

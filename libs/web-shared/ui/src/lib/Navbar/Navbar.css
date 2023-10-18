@@ -1,0 +1,101 @@
+.nav-custom-header {
+  height: 90px;
+  top: 0;
+  z-index: 99;
+  position: fixed !important;
+  background-color: #fff;
+  width: 100%;
+  padding-left: 35px;
+  padding-right: 35px;
+  border-bottom: 4px solid #fafafa;
+}
+.notification-zindex {
+  z-index: 100;
+  position: relative;
+}
+.notification-menu{
+  width:fit-content;
+  min-width: 35vh;
+}
+.no-notificationtext{
+  text-align: center;
+}
+.scrolled {
+  overflow-y: auto;
+}
+@media (min-width: 768px){
+.auth-dropdown .dropdown-menu {
+    right: 0;
+    left: inherit !important;
+    /* width: 300px; */
+    border: 0px;
+    border-radius: 10px;
+    box-shadow: 0 4px 16px 0 rgb(79 114 205 / 30%);
+}
+}
+/* @media (min-width: 1200px) {
+    .nav-custom-header .container {
+      max-width: 1400px;
+    }
+  } */
+.nav-signup-btn {
+  padding: 7px 28px !important;
+  border-radius: 16px !important;
+  background-color: #40a9ff !important;
+  color: #fff;
+  border: 1px solid #40a9ff !important;
+  font-size: 1vw !important;
+}
+.nav-signin-btn {
+  padding: 7px 28px !important;
+  border-radius: 16px !important;
+  background-color: #fff !important;
+  color: #40a9ff !important;
+  border: 1px solid #40a9ff !important;
+  font-size: 1vw !important;
+}
+
+.navbar-expand-lg .ref-nav .pad-left {
+  padding-left: 1.5rem !important;
+}
+.notificatio_title {
+  font-size: 14px;
+  font-weight: 500;
+  font-family: poppins;
+}
+.notification_para {
+  font-size: 12px;
+  font-family: poppins;
+  white-space: break-spaces;
+}
+.notification_icon {
+  width: 20px;
+  height: 200px;
+}
+.notificationBox {
+  width: 17vw;
+}
+.main-notificationbox {
+  height: fit-content;
+  overflow: auto;
+  max-height: 40vh;
+  overflow-y: scroll;
+}
+.main-zeronotificationbox {
+  height: 10vh;
+  overflow-y: scroll;
+}
+.batchstyle {
+  border-right: 4px solid rgb(226, 220, 220);
+  text-align: center;
+  padding: 7px;
+}
+.notification-title {
+  font-size: 25px;
+  font-weight: bold;
+}
+.nav-prof {
+  width: 35px;
+  height: 35px;
+  border-radius: 75px;
+}

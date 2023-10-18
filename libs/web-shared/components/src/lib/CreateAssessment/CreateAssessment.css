@@ -1,0 +1,12 @@
+.input-DropDown{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+ 
+}
+
+.input-options{
+    width: 100vh !important;
+} 
+

@@ -1,0 +1,239 @@
+2023-06-23 11:09:02 info: ../logs
+2023-06-23 11:09:02 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:09:04 info: [0mPOST /api/users/roles/createRoles [32m200[0m 651.830 ms - 132[0m
+2023-06-23 11:09:04 info: [0mPOST /api/users/roles/createRoles [32m200[0m 61.439 ms - 132[0m
+2023-06-23 11:09:04 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 22.378 ms - 121[0m
+2023-06-23 11:09:04 info: [0mGET /api/users/roles/undefined [32m200[0m 19.923 ms - 121[0m
+2023-06-23 11:09:04 info: [0mGET /api/users/roles/undefined [32m200[0m 27.976 ms - 121[0m
+2023-06-23 11:09:04 info: [0mGET /api/users/roles/a [32m200[0m 26.698 ms - 121[0m
+2023-06-23 11:09:05 info: [0mGET /api/ussser/roles/29 [32m200[0m 35.784 ms - 121[0m
+2023-06-23 11:09:45 info: ../logs
+2023-06-23 11:09:45 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:09:46 info: [0mPOST /api/users/roles/createRoles [32m200[0m 487.877 ms - 132[0m
+2023-06-23 11:09:46 info: [0mPOST /api/users/roles/createRoles [32m200[0m 57.077 ms - 132[0m
+2023-06-23 11:09:46 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 4.827 ms - 121[0m
+2023-06-23 11:09:46 info: [0mGET /api/users/roles/undefined [32m200[0m 4.414 ms - 121[0m
+2023-06-23 11:09:46 info: [0mGET /api/users/roles/undefined [32m200[0m 3.967 ms - 121[0m
+2023-06-23 11:09:46 info: [0mGET /api/users/roles/a [32m200[0m 3.363 ms - 121[0m
+2023-06-23 11:09:46 info: [0mGET /api/ussser/roles/29 [32m200[0m 2.948 ms - 121[0m
+2023-06-23 11:22:13 info: ../logs
+2023-06-23 11:22:13 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:22:14 info: [0mPOST /api/users/roles/createRoles [32m200[0m 471.616 ms - 132[0m
+2023-06-23 11:22:14 info: [0mPOST /api/users/roles/createRoles [32m200[0m 53.258 ms - 132[0m
+2023-06-23 11:22:14 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 5.614 ms - 121[0m
+2023-06-23 11:22:14 info: [0mGET /api/users/roles/undefined [32m200[0m 2.941 ms - 121[0m
+2023-06-23 11:22:14 info: [0mGET /api/users/roles/undefined [32m200[0m 2.485 ms - 121[0m
+2023-06-23 11:22:14 info: [0mGET /api/users/roles/a [32m200[0m 2.156 ms - 121[0m
+2023-06-23 11:22:14 info: [0mGET /api/ussser/roles/29 [32m200[0m 3.200 ms - 121[0m
+2023-06-23 11:22:52 info: ../logs
+2023-06-23 11:22:52 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:22:53 info: [0mPOST /api/users/roles/createRoles [32m200[0m 477.742 ms - 223[0m
+2023-06-23 11:22:53 info: [0mPOST /api/users/roles/createRoles [32m200[0m 51.428 ms - 133[0m
+2023-06-23 11:22:53 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 2.935 ms - 121[0m
+2023-06-23 11:22:53 info: [0mGET /api/users/roles/undefined [32m200[0m 1.744 ms - 121[0m
+2023-06-23 11:22:53 info: [0mGET /api/users/roles/undefined [32m200[0m 1.564 ms - 121[0m
+2023-06-23 11:22:53 info: [0mGET /api/users/roles/a [32m200[0m 2.153 ms - 121[0m
+2023-06-23 11:22:53 info: [0mGET /api/ussser/roles/29 [32m200[0m 1.415 ms - 121[0m
+2023-06-23 11:24:21 info: ../logs
+2023-06-23 11:24:21 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:24:21 info: [0mPOST /api/users/roles/createRoles [32m200[0m 468.396 ms - 224[0m
+2023-06-23 11:24:21 info: [0mPOST /api/users/roles/createRoles [32m200[0m 72.971 ms - 134[0m
+2023-06-23 11:24:22 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 2.740 ms - 121[0m
+2023-06-23 11:24:22 info: [0mGET /api/users/roles/undefined [32m200[0m 2.172 ms - 121[0m
+2023-06-23 11:24:22 info: [0mGET /api/users/roles/undefined [32m200[0m 1.872 ms - 121[0m
+2023-06-23 11:24:22 info: [0mGET /api/users/roles/a [32m200[0m 1.667 ms - 121[0m
+2023-06-23 11:24:22 info: [0mGET /api/ussser/roles/29 [32m200[0m 2.872 ms - 121[0m
+2023-06-23 11:26:45 info: ../logs
+2023-06-23 11:26:45 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:26:46 info: [0mPOST /api/users/roles/createRoles [32m200[0m 480.834 ms - 225[0m
+2023-06-23 11:26:46 info: [0mPOST /api/users/roles/createRoles [32m200[0m 64.979 ms - 135[0m
+2023-06-23 11:26:46 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 5.558 ms - 121[0m
+2023-06-23 11:26:46 info: [0mGET /api/users/roles/10 [32m200[0m 38.191 ms - 219[0m
+2023-06-23 11:26:46 info: [0mGET /api/users/roles/undefined [32m200[0m 1.952 ms - 121[0m
+2023-06-23 11:26:46 info: [0mGET /api/users/roles/a [32m200[0m 2.090 ms - 121[0m
+2023-06-23 11:26:46 info: [0mGET /api/ussser/roles/29 [32m200[0m 1.868 ms - 121[0m
+2023-06-23 11:29:47 info: ../logs
+2023-06-23 11:29:47 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:29:48 info: [0mPOST /api/users/roles/createRoles [32m200[0m 436.403 ms - 134[0m
+2023-06-23 11:29:48 info: [0mPOST /api/users/roles/createRoles [32m200[0m 65.644 ms - 134[0m
+2023-06-23 11:29:48 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 2.933 ms - 121[0m
+2023-06-23 11:29:48 info: [0mGET /api/users/roles/undefined [32m200[0m 2.544 ms - 121[0m
+2023-06-23 11:29:48 info: [0mGET /api/users/roles/undefined [32m200[0m 2.001 ms - 121[0m
+2023-06-23 11:29:48 info: [0mGET /api/users/roles/a [32m200[0m 1.993 ms - 121[0m
+2023-06-23 11:29:48 info: [0mGET /api/ussser/roles/29 [32m200[0m 1.918 ms - 121[0m
+2023-06-23 11:30:03 info: ../logs
+2023-06-23 11:30:03 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:30:04 info: [0mPOST /api/users/roles/createRoles [32m200[0m 520.773 ms - 225[0m
+2023-06-23 11:30:04 info: [0mPOST /api/users/roles/createRoles [32m200[0m 49.932 ms - 135[0m
+2023-06-23 11:30:04 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 5.400 ms - 121[0m
+2023-06-23 11:30:04 info: [0mGET /api/users/roles/undefined [32m200[0m 2.442 ms - 121[0m
+2023-06-23 11:30:04 info: [0mGET /api/users/roles/undefined [32m200[0m 28.006 ms - 121[0m
+2023-06-23 11:30:04 info: [0mGET /api/users/roles/a [32m200[0m 4.040 ms - 121[0m
+2023-06-23 11:30:04 info: [0mGET /api/ussser/roles/29 [32m200[0m 1.474 ms - 121[0m
+2023-06-23 11:33:11 info: ../logs
+2023-06-23 11:33:11 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:33:12 info: [0mPOST /api/users/roles/createRoles [32m200[0m 414.671 ms - 135[0m
+2023-06-23 11:33:12 info: [0mPOST /api/users/roles/createRoles [32m200[0m 40.567 ms - 135[0m
+2023-06-23 11:33:12 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 14.313 ms - 121[0m
+2023-06-23 11:33:12 info: [0mGET /api/users/roles/undefined [32m200[0m 3.189 ms - 121[0m
+2023-06-23 11:33:12 info: [0mGET /api/users/roles/undefined [32m200[0m 2.062 ms - 121[0m
+2023-06-23 11:33:12 info: [0mGET /api/users/roles/a [32m200[0m 1.519 ms - 121[0m
+2023-06-23 11:33:12 info: [0mGET /api/ussser/roles/29 [32m200[0m 1.440 ms - 121[0m
+2023-06-23 11:33:54 info: ../logs
+2023-06-23 11:33:54 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:33:55 info: [0mPOST /api/users/roles/createRoles [32m200[0m 487.921 ms - 228[0m
+2023-06-23 11:33:55 info: [0mPOST /api/users/roles/createRoles [32m200[0m 47.090 ms - 138[0m
+2023-06-23 11:33:55 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 2.436 ms - 121[0m
+2023-06-23 11:33:55 info: [0mGET /api/users/roles/undefined [32m200[0m 1.870 ms - 121[0m
+2023-06-23 11:33:55 info: [0mGET /api/users/roles/undefined [32m200[0m 1.820 ms - 121[0m
+2023-06-23 11:33:55 info: [0mGET /api/users/roles/a [32m200[0m 2.650 ms - 121[0m
+2023-06-23 11:33:55 info: [0mGET /api/ussser/roles/29 [32m200[0m 1.622 ms - 121[0m
+2023-06-23 11:35:33 info: ../logs
+2023-06-23 11:35:33 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:35:34 info: [0mPOST /api/users/roles/createRoles [32m200[0m 480.439 ms - 229[0m
+2023-06-23 11:35:34 info: [0mPOST /api/users/roles/createRoles [32m200[0m 70.858 ms - 139[0m
+2023-06-23 11:35:34 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 3.434 ms - 121[0m
+2023-06-23 11:35:34 info: [0mGET /api/users/roles/2 [32m200[0m 40.873 ms - 258[0m
+2023-06-23 11:35:34 info: [0mGET /api/users/roles/undefined [32m200[0m 2.663 ms - 121[0m
+2023-06-23 11:35:34 info: [0mGET /api/users/roles/a [32m200[0m 2.042 ms - 121[0m
+2023-06-23 11:35:34 info: [0mGET /api/ussser/roles/29 [32m200[0m 1.478 ms - 121[0m
+2023-06-23 11:37:57 info: ../logs
+2023-06-23 11:37:57 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:37:57 info: [0mPOST /api/users/roles/createRoles [32m200[0m 461.610 ms - 139[0m
+2023-06-23 11:37:57 info: [0mPOST /api/users/roles/createRoles [32m200[0m 63.666 ms - 139[0m
+2023-06-23 11:37:57 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 3.052 ms - 121[0m
+2023-06-23 11:37:58 info: [0mGET /api/users/roles/2 [32m200[0m 74.065 ms - 258[0m
+2023-06-23 11:37:58 info: [0mGET /api/users/roles/undefined [32m200[0m 2.232 ms - 121[0m
+2023-06-23 11:37:58 info: [0mGET /api/users/roles/a [32m200[0m 1.869 ms - 121[0m
+2023-06-23 11:37:58 info: [0mGET /api/ussser/roles/29 [32m200[0m 2.081 ms - 121[0m
+2023-06-23 11:37:58 info: [0mPUT /api/users/roles/10 [32m200[0m 394.398 ms - 223[0m
+2023-06-23 11:37:58 info: [0mPUT /api/users/roles/crweateRoles [32m200[0m 2.287 ms - 121[0m
+2023-06-23 11:39:19 info: ../logs
+2023-06-23 11:39:19 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:39:20 info: [0mPOST /api/users/roles/createRoles [32m200[0m 405.175 ms - 139[0m
+2023-06-23 11:39:20 info: [0mPOST /api/users/roles/createRoles [32m200[0m 68.665 ms - 139[0m
+2023-06-23 11:39:20 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 2.827 ms - 121[0m
+2023-06-23 11:39:20 info: [0mGET /api/users/roles/2 [32m200[0m 77.782 ms - 258[0m
+2023-06-23 11:39:20 info: [0mGET /api/users/roles/undefined [32m200[0m 2.461 ms - 121[0m
+2023-06-23 11:39:20 info: [0mGET /api/users/roles/a [32m200[0m 1.665 ms - 121[0m
+2023-06-23 11:39:20 info: [0mGET /api/ussser/roles/29 [32m200[0m 1.972 ms - 121[0m
+2023-06-23 11:39:21 info: [0mPUT /api/users/roles/10 [32m200[0m 390.263 ms - 223[0m
+2023-06-23 11:39:21 info: [0mPUT /api/users/roles/crweateRoles [32m200[0m 3.579 ms - 121[0m
+2023-06-23 11:39:36 info: ../logs
+2023-06-23 11:39:36 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:39:37 info: [0mPOST /api/users/roles/createRoles [32m200[0m 407.108 ms - 139[0m
+2023-06-23 11:39:37 info: [0mPOST /api/users/roles/createRoles [32m200[0m 47.344 ms - 139[0m
+2023-06-23 11:39:37 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 3.160 ms - 121[0m
+2023-06-23 11:39:37 info: [0mGET /api/users/roles/2 [32m200[0m 70.397 ms - 258[0m
+2023-06-23 11:39:37 info: [0mGET /api/users/roles/undefined [32m200[0m 2.339 ms - 121[0m
+2023-06-23 11:39:37 info: [0mGET /api/users/roles/a [32m200[0m 2.028 ms - 121[0m
+2023-06-23 11:39:37 info: [0mGET /api/ussser/roles/29 [32m200[0m 2.038 ms - 121[0m
+2023-06-23 11:39:38 info: [0mPUT /api/users/roles/10 [32m200[0m 352.710 ms - 224[0m
+2023-06-23 11:39:38 info: [0mPUT /api/users/roles/crweateRoles [32m200[0m 3.939 ms - 121[0m
+2023-06-23 11:42:19 info: ../logs
+2023-06-23 11:42:19 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:42:20 info: [0mPOST /api/users/roles/createRoles [32m200[0m 444.156 ms - 215[0m
+2023-06-23 11:42:20 info: [0mPOST /api/users/roles/createRoles [32m200[0m 68.726 ms - 125[0m
+2023-06-23 11:42:20 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 3.110 ms - 121[0m
+2023-06-23 11:42:20 info: [0mGET /api/users/roles/2 [32m200[0m 39.505 ms - 258[0m
+2023-06-23 11:42:20 info: [0mGET /api/users/roles/a [32m200[0m 1.958 ms - 121[0m
+2023-06-23 11:42:20 info: [0mGET /api/ussser/roles/29 [32m200[0m 3.254 ms - 121[0m
+2023-06-23 11:42:21 info: [0mPUT /api/users/roles/10 [32m200[0m 298.438 ms - 224[0m
+2023-06-23 11:42:21 info: [0mPUT /api/users/roles/crweateRoles [32m200[0m 2.469 ms - 121[0m
+2023-06-23 11:42:21 info: [0mGET /api/users/roles/getRoles [32m200[0m 290.088 ms - -[0m
+2023-06-23 11:42:21 info: [0mGET /api/users/roles/10 [32m200[0m 128.634 ms - 220[0m
+2023-06-23 11:42:21 info: [0mGET /api/ussser/roles/29 [32m200[0m 2.422 ms - 121[0m
+2023-06-23 11:42:46 info: ../logs
+2023-06-23 11:42:46 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:42:47 info: [0mPOST /api/users/roles/createRoles [32m200[0m 440.721 ms - 125[0m
+2023-06-23 11:42:47 info: [0mPOST /api/users/roles/createRoles [32m200[0m 58.103 ms - 125[0m
+2023-06-23 11:42:47 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 4.189 ms - 121[0m
+2023-06-23 11:42:47 info: [0mGET /api/users/roles/2 [32m200[0m 84.388 ms - 258[0m
+2023-06-23 11:42:47 info: [0mGET /api/users/roles/a [32m200[0m 3.331 ms - 121[0m
+2023-06-23 11:42:47 info: [0mGET /api/ussser/roles/29 [32m200[0m 2.329 ms - 121[0m
+2023-06-23 11:42:48 info: [0mPUT /api/users/roles/10 [32m200[0m 306.452 ms - 224[0m
+2023-06-23 11:42:48 info: [0mPUT /api/users/roles/crweateRoles [32m200[0m 1.974 ms - 121[0m
+2023-06-23 11:42:48 info: [0mGET /api/users/roles/getRoles [32m200[0m 273.239 ms - -[0m
+2023-06-23 11:42:48 info: [0mGET /api/users/roles/10 [32m200[0m 141.753 ms - 220[0m
+2023-06-23 11:42:48 info: [0mGET /api/ussser/roles/29 [32m200[0m 6.603 ms - 121[0m
+2023-06-23 11:44:07 info: ../logs
+2023-06-23 11:44:07 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:44:07 info: [0mPOST /api/users/roles/createRoles [32m200[0m 449.883 ms - 216[0m
+2023-06-23 11:44:07 info: [0mPOST /api/users/roles/createRoles [32m200[0m 75.708 ms - 126[0m
+2023-06-23 11:44:08 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 2.897 ms - 121[0m
+2023-06-23 11:44:08 info: [0mGET /api/users/roles/2 [32m200[0m 41.685 ms - 258[0m
+2023-06-23 11:44:08 info: [0mGET /api/users/roles/a [32m200[0m 1.963 ms - 121[0m
+2023-06-23 11:44:08 info: [0mGET /api/ussser/roles/29 [32m200[0m 1.496 ms - 121[0m
+2023-06-23 11:44:08 info: [0mPUT /api/users/roles/10 [32m200[0m 272.096 ms - 224[0m
+2023-06-23 11:44:08 info: [0mPUT /api/users/roles/crweateRoles [32m200[0m 2.025 ms - 121[0m
+2023-06-23 11:44:08 info: [0mGET /api/users/roles/getRoles [32m200[0m 328.396 ms - -[0m
+2023-06-23 11:44:08 info: [0mGET /api/users/roles/getRoles [32m200[0m 16.578 ms - 78[0m
+2023-06-23 11:44:08 info: [0mGET /api/ussser/roles/29 [32m200[0m 1.750 ms - 121[0m
+2023-06-23 11:55:02 info: ../logs
+2023-06-23 11:55:02 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:55:02 info: [0mPOST /api/users/roles/createRoles [32m200[0m 505.616 ms - 126[0m
+2023-06-23 11:55:03 info: [0mPOST /api/users/roles/createRoles [32m200[0m 73.008 ms - 126[0m
+2023-06-23 11:55:03 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 2.530 ms - 121[0m
+2023-06-23 11:55:03 info: [0mGET /api/users/roles/2 [32m200[0m 69.825 ms - 258[0m
+2023-06-23 11:55:03 info: [0mGET /api/users/roles/a [32m200[0m 2.366 ms - 121[0m
+2023-06-23 11:55:03 info: [0mGET /api/ussser/roles/29 [32m200[0m 1.336 ms - 121[0m
+2023-06-23 11:55:03 info: [0mPUT /api/users/roles/10 [32m200[0m 409.815 ms - 224[0m
+2023-06-23 11:55:03 info: [0mPUT /api/users/roles/crweateRoles [32m200[0m 2.026 ms - 121[0m
+2023-06-23 11:55:04 info: [0mGET /api/users/roles/getRoles [32m200[0m 298.221 ms - -[0m
+2023-06-23 11:55:04 info: [0mGET /api/users/roles/getRoles [32m200[0m 17.387 ms - 78[0m
+2023-06-23 11:55:04 info: [0mGET /api/ussser/roles/29 [32m200[0m 1.807 ms - 121[0m
+2023-06-23 11:55:23 info: ../logs
+2023-06-23 11:55:23 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:55:26 info: [0mGET /api/users/skillSet [32m200[0m 402.311 ms - 324[0m
+2023-06-23 11:55:26 info: [0mGET /api/ussser/skillSet/29 [32m200[0m 3.775 ms - 121[0m
+2023-06-23 11:56:00 info: ../logs
+2023-06-23 11:56:00 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:56:02 info: [0mGET /api/users/skillSet [32m200[0m 414.716 ms - 324[0m
+2023-06-23 11:56:02 info: [0mGET /api/ussser/skillSet/29 [32m200[0m 3.619 ms - 121[0m
+2023-06-23 11:57:44 info: ../logs
+2023-06-23 11:57:44 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 11:57:46 info: [0mGET /api/users/skillSet [32m200[0m 473.648 ms - 362[0m
+2023-06-23 11:57:46 info: [0mGET /api/ussser/skillSet/29 [32m200[0m 2.936 ms - 121[0m
+2023-06-23 12:33:01 info: ../logs
+2023-06-23 12:33:01 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 12:33:03 info: [0mPOST /api/users/roles/createRoles [32m200[0m 482.066 ms - 126[0m
+2023-06-23 12:33:03 info: [0mPOST /api/users/roles/createRoles [32m200[0m 51.700 ms - 126[0m
+2023-06-23 12:33:03 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 7.417 ms - 121[0m
+2023-06-23 12:33:04 info: [0mGET /api/users/roles/2 [32m200[0m 72.530 ms - 258[0m
+2023-06-23 12:33:04 info: [0mGET /api/users/roles/a [32m200[0m 2.359 ms - 121[0m
+2023-06-23 12:33:04 info: [0mGET /api/ussser/roles/29 [32m200[0m 1.444 ms - 121[0m
+2023-06-23 12:33:04 info: [0mPUT /api/users/roles/10 [32m200[0m 409.311 ms - 224[0m
+2023-06-23 12:33:04 info: [0mPUT /api/users/roles/crweateRoles [32m200[0m 2.141 ms - 121[0m
+2023-06-23 12:33:04 info: [0mGET /api/users/roles/getRoles [32m200[0m 428.698 ms - -[0m
+2023-06-23 12:33:05 info: [0mGET /api/users/roles/getRoles [32m200[0m 21.486 ms - 78[0m
+2023-06-23 12:33:05 info: [0mGET /api/ussser/roles/29 [32m200[0m 3.528 ms - 121[0m
+2023-06-23 15:06:09 info: ../logs
+2023-06-23 15:06:09 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 15:06:09 info: [0mGET /api/users/ [32m200[0m 16.232 ms - 121[0m
+2023-06-23 15:06:09 info: [0mGET /api/users/ [32m200[0m 2.721 ms - 121[0m
+2023-06-23 15:06:09 info: [0mGET /api/users//getAsllmodules [32m200[0m 2.222 ms - 121[0m
+2023-06-23 15:07:20 info: ../logs
+2023-06-23 15:07:20 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 15:07:20 info: [0mGET /api/users/ [32m200[0m 15.090 ms - 121[0m
+2023-06-23 15:07:20 info: [0mGET /api/users/ [32m200[0m 2.156 ms - 121[0m
+2023-06-23 15:07:20 info: [0mGET /api/users//getAsllmodules [32m200[0m 2.597 ms - 121[0m
+2023-06-23 15:07:54 info: ../logs
+2023-06-23 15:07:54 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 15:07:55 info: [0mGET /api/users/ [32m200[0m 7.253 ms - 121[0m
+2023-06-23 15:07:55 info: [0mGET /api/users/ [32m200[0m 3.796 ms - 121[0m
+2023-06-23 15:07:55 info: [0mGET /api/users//getAsllmodules [32m200[0m 2.014 ms - 121[0m
+2023-06-23 15:08:57 info: ../logs
+2023-06-23 15:08:57 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 15:08:58 info: [0mGET /api/users/getAuth [32m200[0m 445.989 ms - -[0m
+2023-06-23 15:08:58 info: [0mGET /api/users/ [32m200[0m 4.335 ms - 121[0m
+2023-06-23 15:08:58 info: [0mGET /api/users//getAsllmodules [32m200[0m 1.747 ms - 121[0m
+2023-06-23 15:09:30 info: ../logs
+2023-06-23 15:09:30 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 15:09:31 info: [0mGET /api/users/getAuth [32m200[0m 459.281 ms - -[0m
+2023-06-23 15:09:31 info: [0mGET /api/users/ [32m200[0m 3.423 ms - 121[0m
+2023-06-23 15:09:31 info: [0mGET /api/users//getAsllmodules [32m200[0m 1.692 ms - 121[0m
+2023-06-23 15:10:27 info: ../logs
+2023-06-23 15:10:27 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-23 15:10:28 info: [0mGET /api/users/getAuth [32m200[0m 439.856 ms - -[0m
+2023-06-23 15:10:28 info: [0mGET /api/users/getAuth [32m200[0m 33.363 ms - 78[0m
+2023-06-23 15:10:28 info: [0mGET /api/users//getAsllmodules [32m200[0m 5.242 ms - 121[0m

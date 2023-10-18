@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "../../../dist/out-tsc",
+    "declaration": true,
+    "types": []
+  },
+  "include": ["**/*.ts", "../../../apps/svc-user/src/app/middleware/auth.middleware.ts"],
+  "exclude": ["jest.config.ts", "**/*.spec.ts"]
+}

@@ -1,0 +1,4 @@
+import './FormContext.css';
+import { createContext } from 'react';
+export const FormContext = createContext({});
+

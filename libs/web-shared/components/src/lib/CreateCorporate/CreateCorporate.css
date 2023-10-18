@@ -1,0 +1,152 @@
+.button-align .addUser-btn .btn {
+  height: 38px;
+  border-radius: 2px;
+  text-align: center;
+  font-size: 1vw;
+  padding: 0.5rem 1.8rem;
+}
+.h1corp {
+  text-align: center;
+  font-size: 15px;
+}
+.primary-span {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.line-primary {
+  border-bottom: 1px solid #000;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+  width: 100%;
+}
+.primary-row {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+hr {
+  width: 100%;
+  border: 1px solid;
+}
+.primary-txt {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 14px;
+  font-weight: 400px;
+  padding: 10px;
+  letter-spacing: 0.5px;
+}
+.primary-btn-span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line-1 {
+  width: 140px;
+}
+.linecorp-1 {
+  width: 200%;
+  transform: translateX(3px);
+}
+.primary-line-1 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: row;
+  transform: translateX(-11px);
+}
+.primary-toggle-btn {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 10px;
+  transform: translateX(-10px);
+}
+.last-line {
+  width: 175px;
+}
+.second-line {
+  transform: translateX(-98px);
+  width: 119%;
+}
+.button-align {
+  right: 15.5rem;
+}
+.secondcorp-line {
+  width: 110%;
+  transform: translateX(-45px);
+}
+.primarycorp-line-1 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: row;
+  transform: translateX(-9px);
+  width: 30%;
+}
+.primarycorp-txt {
+  font-size: 14px;
+  font-weight: 500px;
+  padding: 10px;
+
+  letter-spacing: 0.5px;
+}
+.corporate-line {
+  display: grid;
+  grid-template-columns: 1% 23% 72%;
+  align-items: center;
+}
+.contact-line {
+  display: grid;
+  grid-template-columns:  1% 18% 45% 17% 19%;
+  align-items: center;
+
+}
+.fontt-4 {
+  font-size: 30em;
+}
+.is-error {
+  margin-left: 14em;
+  margin-top: 4em;
+  display: block;
+}
+
+.error {
+  margin-left: 14em;
+  margin-top: 4em;
+  display: none;
+}
+.buttonAdjustment {
+  border: none;
+  background-color: #fff;
+  color: #40a9ff;
+}
+.create-btn {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 6.4px 15px;
+  gap: 10px !important;
+
+  background: #40a9ff;
+  border: 1px solid #40a9ff;
+  box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.043);
+  border-radius: 2px;
+  color: #fff;
+}
+.btnxEditCorporate {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  left: 2.1rem;
+}
+.form-check-input:checked {
+  background-color: #40a9ff;
+  border-color: #40a9ff;
+}

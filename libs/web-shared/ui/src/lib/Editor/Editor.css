@@ -1,0 +1,24 @@
+.editstyle{
+    border-style: solid;
+    border-width: thin;
+    border-color: #dadada;
+  }
+
+.cm-editor .ͼ15{
+    background-color: #FBFCFE;
+} 
+
+.cm-gutters {
+    background-color: #FBFCFE !important;
+}
+
+.cm-scroller{
+    background: #FBFCFE
+}
+
+.cm-content{
+    font-size: medium;
+}
+.cm-gutter.cm-lineNumbers{
+    font-size: medium;
+}

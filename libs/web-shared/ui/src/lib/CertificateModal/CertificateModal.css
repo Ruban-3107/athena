@@ -1,0 +1,106 @@
+.modal.sideNav-modal.fade .modal-dialog {
+    transition: transform .1s ease-out !important;
+    transform: translate(100px, 0px);
+  
+}
+
+.modal.sideNav-modal.show .modal-dialog {
+    transform: none !important;
+}
+
+.modal.sideNav-modal .modal-fullscreen {
+    width: 60vw;
+    max-width: none;
+    min-height: 100vh;
+    margin: 0;
+    margin-left: auto;
+    position: fixed;
+    right: 0;
+   
+}
+
+.modal.sideNav-modal.xl .modal-fullscreen {
+    width: 70vw;
+}
+
+.custom-input .form-control {
+    background: #F5F7FA !important;
+    border: 0px;
+    font-size: 16px;
+    color: rgb(63 63 68 / 90%) !important;
+    min-height: 42px;
+    
+
+    
+}
+
+.custom-input .form-label {
+    /* margin-bottom: 0.5rem; */
+    color: #3F3F44;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.custom-input::-webkit-input-placeholder {
+    color: rgb(63 63 68 / 30%) !important;
+    font-size: 16px !important;
+}
+
+.custom-input:-ms-input-placeholder {
+    color: rgb(63 63 68 / 30%) !important;
+    font-size: 16px !important;
+}
+
+::placeholder {
+    color: rgb(63 63 68 / 30%) !important;
+    font-size: 16px !important;
+}
+
+.upload-wrapper {
+    background: #F5F7FA;
+    padding: 30px !important;
+    border-radius: 4px;
+    border: 1px dashed #9ccbf0;
+}
+
+.upload-info span {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.upload-info {
+    color: #B7B7B7;
+}
+
+.modal-cnt-wrapper {
+    height: calc(100vh - 118px);
+    overflow-y: scroll;
+    padding: 20px;
+}
+
+.am-footer {
+    background-color: #F5F7FA;
+}
+
+@media (max-width:992px) {
+    .modal.sideNav-modal .modal-fullscreen {
+        width: 90vw;
+    }
+}
+
+@media (min-width: 1800px) {
+    .modal.sideNav-modal.xl .modal-fullscreen {
+        width: 60vw !important;
+    }
+}
+
+.btnxCertificate {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    left: 8.8rem;
+    margin-top: 0em;
+    margin-bottom: 1em;
+}
+
+

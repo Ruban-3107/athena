@@ -1,0 +1,66 @@
+{
+  "name": "svc-notification",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/svc-notification/src",
+  "projectType": "application",
+  "targets": {
+    "build": {
+      "executor": "@nx/webpack:webpack",
+      "outputs": ["{options.outputPath}"],
+      "defaultConfiguration": "production",
+      "options": {
+        "target": "node",
+        "compiler": "tsc",
+        "outputPath": "dist/apps/svc-notification",
+        "main": "apps/svc-notification/src/main.ts",
+        "tsConfig": "apps/svc-notification/tsconfig.app.json",
+        "assets": ["apps/svc-notification/src/assets"],
+        "isolatedConfig": true,
+        "webpackConfig": "apps/svc-notification/webpack.config.js",
+        "generatePackageJson": true,
+        "generateLockFile": true
+      },
+      "configurations": {
+        "development": {},
+        "production": {}
+      }
+    },
+    "serve": {
+      "executor": "@nx/js:node",
+      "defaultConfiguration": "development",
+      "options": {
+        "buildTarget": "svc-notification:build"
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "svc-notification:build:development"
+        },
+        "production": {
+          "buildTarget": "svc-notification:build:production"
+        }
+      }
+    },
+    "lint": {
+      "executor": "@nx/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["apps/svc-notification/**/*.ts"]
+      }
+    },
+    "test": {
+      "executor": "@nx/jest:jest",
+      "outputs": ["{workspaceRoot}/coverage/{projectRoot}"],
+      "options": {
+        "jestConfig": "apps/svc-notification/jest.config.ts",
+        "passWithNoTests": true
+      },
+      "configurations": {
+        "ci": {
+          "ci": true,
+          "codeCoverage": true
+        }
+      }
+    }
+  },
+  "tags": []
+}

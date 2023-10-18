@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\Athena_start\\athena\\libs\\shared\\logger\\src\\logs\\error\\.56faf3f80e148927099bd173309ae2e8e9e5d7e6-audit.json",
+    "files": [
+        {
+            "date": 1667455506821,
+            "name": "D:\\Athena_start\\athena\\libs\\shared\\logger\\src\\logs\\error\\2022-11-03.log",
+            "hash": "d63ee91f803488cd9436f173ee5d70f5a6451c1d077ec83a7c50b0d22af2783c"
+        },
+        {
+            "date": 1667526315029,
+            "name": "D:\\Athena_start\\athena\\libs\\shared\\logger\\src\\logs\\error\\2022-11-04.log",
+            "hash": "5051c3f9f46caa587e2a9115d4fb758d681c1b2996241e339c3ef022b893f59b"
+        },
+        {
+            "date": 1667798159282,
+            "name": "D:\\Athena_start\\athena\\libs\\shared\\logger\\src\\logs\\error\\2022-11-07.log",
+            "hash": "451c9bc34911e728e86333dfce15878c689ead0ad13c782d7355f6342715b3d8"
+        }
+    ],
+    "hashType": "sha256"
+}

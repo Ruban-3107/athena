@@ -1,0 +1,35 @@
+import { config } from 'dotenv';
+config({ path: `.env` });
+
+export const CREDENTIALS = process.env.CREDENTIALS === 'true';
+export const {
+  NODE_ENV,
+  DB_HOST,
+  DB_PORT,
+  DB_USER,
+  DB_PASSWORD,
+  DB_DATABASE,
+  SECRET_KEY,
+  LOG_FORMAT,
+  LOG_DIR,
+  ORIGIN,
+  GITHUB_TOKEN,
+  GIT_URL,
+  GIT_LOCAL_PATH,
+  REDIS_HOST,
+  REDIS_PORT,
+  REDIS_DATABASE,
+  COURSES_PORT,
+  MS_TEAMS_SERVICE_PORT,
+  HOST_IP,
+  RESET_PASSWORD_KEY,
+  CLIENT_URL,
+  CLIENT_ID,
+  MS_GRANT_TYPE,
+  MS_CLIENT_SECRET,
+  MS_USERNAME,
+  MS_SCOPE,
+  MS_PASSWORD,
+  MS_TIMEZONE,
+  MS_CLIENT_ID
+} = process.env;

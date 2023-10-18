@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\workspace\\ATHENA\\athena\\libs\\shared\\logger\\src\\logs\\debug\\.87f3ffe9167d1146b34fb3019206e5e029c2f5e8-audit.json",
+    "files": [
+        {
+            "date": 1667546976192,
+            "name": "D:\\workspace\\ATHENA\\athena\\libs\\shared\\logger\\src\\logs\\debug\\2022-11-04.log",
+            "hash": "945b2461658653c12bd4d8893deaaa66d718f793fbbd57ca3194db44a3dc7708"
+        }
+    ],
+    "hashType": "sha256"
+}

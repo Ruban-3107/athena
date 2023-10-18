@@ -1,0 +1,19 @@
+.header-admin {
+    background: #ffff !important;
+    display: flex!important;
+    align-items: center!important;
+    justify-content: space-between!important;
+    min-height: 10vh!important;
+
+  }
+ 
+  #dashboard{
+    color: "#e3e3e3" !important;
+  }
+  
+  #users{
+    color: black !important;
+  }
+  .breadcrumb-item a{
+    color:  black !important;
+  }

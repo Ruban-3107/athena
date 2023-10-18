@@ -1,0 +1,217 @@
+.mmYa-tab.nav.nav-tabs {
+    border: 0px;
+  }
+  
+  .mmYa-tab.nav.nav-tabs .nav-link {
+    padding: 6px 24px !important;
+    border-radius: 30px;
+    background: #f5f7fa;
+    margin-right: 30px;
+  }
+  
+  .mmYa-tab.nav.nav-tabs .nav-link.active {
+    background: #d7ecfc !important;
+  }
+  
+  .fc-daygrid-event-dot {
+    display: none;
+  }
+  
+  #mouseTarget {
+    box-sizing: border-box;
+    width: 15rem;
+    border: 1px solid #333;
+  }
+  
+  .avatar1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    border: 1px red solid;
+    vertical-align: -webkit-baseline-middle;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+  }
+  
+  .first-txt {
+    position: absolute;
+    top: 6px;
+    left: 30px;
+    color: white;
+  }
+  
+  .avatar2 {
+    position: absolute;
+    top: 4px;
+    left: 25px;
+    border: 1px green solid;
+    vertical-align: -webkit-baseline-middle;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+  }
+  
+  .maxLevel {
+    width: 150px !important;
+    height: max-content !important;
+    min-height: 100px;
+  }
+  
+  .lowLevel {
+    width: 9px !important;
+  }
+  
+  ul.calendar-avator {
+    display: flex;
+    margin-left: 6px;
+    margin-bottom: 10px;
+    align-items: center;
+    position: relative;
+  }
+  
+  ul.calendar-avator li {
+    margin-left: -6px;
+    border: 1px solid #212121;
+    border-radius: 50%;
+    width: 34px;
+    height: 34px;
+    display: flex;
+    align-items: center;
+  }
+  
+  ul.calendar-avator li:first-child {
+    margin-left: 0;
+    border: 1px solid;
+  }
+  
+  ul.calendar-avator li:last-child {
+    border: 0px solid;
+    position: absolute;
+    left: 34px;
+    background: rgb(63 81 181 / 48%);
+    justify-content: center;
+    color: #fff;
+  }
+  
+  ul.calendar-avator li img {
+    width: 31px;
+    height: 31px;
+    border-radius: 50%;
+  }
+  
+  .fc-button {
+    background: transparent !important;
+    padding: 0 !important;
+    color: #afadb9 !important;
+    border-color: #afadb9 !important;
+  
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .fc-prev-button,
+  .fc-next-button {
+    width: 36px !important;
+    height: 36px !important;
+  }
+  
+  .fc .fc-button .fc-icon {
+    font-size: 1em !important;
+  }
+  
+  .fc .fc-toolbar-title {
+    font-size: 18px !important;
+    color: #212121 !important;
+  }
+  
+  .calendar-card-trainer .fc-toolbar-chunk {
+    display: flex;
+    align-items: center;
+    padding-right: 3rem;
+  }
+  
+  .fc .fc-toolbar {
+    display: flex;
+    justify-content: inherit !important;
+    align-items: center;
+    grid-gap: 30px;
+  }
+  
+  .fc-button select {
+    border: 0px !important;
+    height: 36px !important;
+    color: #77838f !important;
+    font-size: 14px !important;
+  }
+  
+  button.fc-today-button.fc-button.fc-button-primary {
+    border: 0px !important;
+    margin-left: 30px !important;
+    position: relative;
+    padding-left: 20px !important;
+  }
+  
+  .fc-header-toolbar.fc-toolbar .fc-toolbar-chunk:last-child {
+    margin-left: auto !important;
+  }
+  
+  .fc .fc-button:focus {
+    box-shadow: none !important;
+  }
+  
+  .trainer-view .fc-daygrid-day-frame {
+    min-height: 150px !important;
+  }
+  
+  .status-modal {
+    /* width: 320px; */
+    border: 0px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  }
+  .list-card-txt {
+    font-size: smaller;
+    color: #d0cece;
+  }
+  .trainer-calendar-modal .modal-sm {
+    min-width: 330px !important;
+  }
+  
+  /* .trainer-calendar-modal .modal-md{
+    width: 420px!important;
+  } */
+  
+  .reason-form-txt {
+    font-size: 13px;
+    float: right;
+    font-weight: 600;
+  }
+  .calmodel-btn-cancel {
+    border: 1px solid !important;
+    border-radius: 10px;
+    padding-left: 37px !important;
+    padding-right: 37px !important;
+    font-size: smaller !important;
+  }
+  .calmodel-btn-save {
+    border-radius: 10px;
+    padding-left: 42px !important;
+    padding-right: 42px !important;
+    font-size: smaller !important;
+    background-color: #3b4c99;
+  }
+  .event-join-trainer{
+    border-radius: 10px;
+    background-color: #274cdf;
+    padding-left: 37px !important;
+    padding-right: 37px !important;
+  }
+  .fc-v-event {
+    border: none !important;
+    background-color: #fff !important;
+  }
+  
+  
+  

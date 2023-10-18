@@ -1,0 +1,15 @@
+
+.config-table .rdt_Table .rdt_TableHeadRow{
+  background-color: #E8F5FF;
+
+}
+
+.config-button:hover{
+  cursor: pointer;
+}
+
+.config-table-wrapper {
+  height: 200px; /* Set the desired height for the scrollable container */
+  overflow-y: auto; /* Enable vertical scrolling */
+  /* Add any additional styles as needed */
+}

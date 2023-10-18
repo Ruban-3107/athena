@@ -1,0 +1,105 @@
+.react-pdf__Page {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .react-pdf__Document+div {
+    padding: 20px;
+    text-align: right;
+  }
+  
+  .react-pdf__Document+div button {
+    background: #212529;
+    color: #fff;
+  }
+  
+  .react-pdf__Document+div button+button {
+    margin-left: 15px;
+  }
+  
+  .react-pdf__Document+div button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+  
+  .react-pdf__Page__annotations.annotationLayer {
+    display: none;
+  }
+  
+  .profile-accordian h3 {
+    font-size: 1rem !important;
+  }
+  
+  .align8{
+      margin-top: 1em;
+      border-style: 1px solid #E3E3E3;
+      padding: 3em 2em 2em 2em;
+      border-color: #E3E3E3;
+      box-shadow: 0px 0px 8px #E3E3E3;
+      border-radius: 10px;
+  }
+  
+  .font-14 {
+    font-size: 14px;
+    margin-left: 19em;
+  }
+  
+  .btnxprofileUser{
+      display: flex;
+      align-items: flex-end;
+      justify-content: flex-end;
+      left: 1.8rem;
+  }
+  
+  .saveprofile {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 6.4px 15px;
+    gap: 10px !important;
+  
+    background: #007bff;
+    border: 1px solid #007bff;
+    box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.043);
+    border-radius: 2px;
+    color: #fff;
+  }
+  
+  .img-profilecover {
+    width: 180px;
+    height: 180px;
+    margin-left: 20px;
+    margin-top: 100px;
+  }
+  .alignment1{
+    margin-left: 2.4em;
+  }
+  
+  .iconset{
+    position: absolute;
+    bottom: 35px;
+    right: 80px;
+    cursor: pointer;
+  }
+  
+  /* .element {
+    display: inline-flex;
+    align-items: center;
+  }
+  i.fa-camera {
+    margin: 10px;
+    cursor: pointer;
+    font-size: 30px;
+  }
+  i:hover {
+    opacity: 0.6;
+  } */
+  /* 
+  input {
+    display: none;
+  } */

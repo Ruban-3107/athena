@@ -1,0 +1,136 @@
+.split-pane {
+    flex-grow: 1;
+    display: flex;
+  }
+
+  .split-pane .--split-lhs {
+    background-color: #fbfcfe;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    width: 67%;
+    height: 100%;
+  }
+  
+  .--split-rhs {
+    width: 33%;
+    height: 100%;
+    background: #fff;
+    z-index: 9999;
+    box-shadow: 0 1px 2px 0 rgb(60 64 67 / 30%), 0 1px 3px 1px rgb(60 64 67 / 15%);
+  }
+
+  .lhs-footer {
+    align-items: center;
+    box-shadow: inset 0 24px 24px -24px #fff;
+    display: flex;
+    flex-grow: 0;
+    flex-shrink: 0;
+    justify-content: flex-end;
+    /* padding: 24px 32px; */
+    position: relative;
+  }
+
+  /* .line {
+    font-size: 15px !important;
+  }
+
+  .line-divider{
+    margin-top: 1.5vw;
+  }
+
+  .divider {
+    display: flex;
+    margin-top: 20px; 
+  } 
+   
+  .divider:before {
+    content: "";
+    flex: 1 ;
+  }
+  .divider:after {
+    display: none;
+  }
+  
+  .line {
+    align-items: center !important;
+    margin: 1em -1em !important;
+  }
+  
+ .line:before{
+    height: 1px;
+    margin: 0 1em;
+  }
+  .line:after
+  {
+    display: none;
+  }
+  
+  .one-line:before {
+    background: #d9d9d9;
+  }
+
+  .one-line:after
+  {
+    display: none;
+  } */
+
+  .tab-content section {
+    padding: 15px 0;
+    padding-right: 10px;
+  }
+
+  .--split-rhs .tab-content {
+    border-top: 0px solid gainsboro;
+    padding: 0;
+    max-height: 81.5vh;
+    overflow-y: auto;
+  }
+
+  .tabss{
+     display: flex;
+     align-items: center;
+     flex-wrap: wrap;
+     padding: -1px 10px 1px 10px !important;
+     border-bottom: 1px solid #fff !important;
+     border-width: 1px !important;
+  }
+
+  .tabss .nav-link.active {
+    background-color: #bae7ff;
+    color:'black';
+    border-color:#fff;
+    }
+  
+    .tabss .nav-item .nav-link {
+      color: #1f2020 !important;
+      border-radius: 2px;
+  }
+
+  .nav-tabs .nav-link:hover {
+    isolation: isolate;
+    border-color:#fff
+}
+
+  .results {
+    background-color: #fbfcfe;
+    border-style: solid;
+    border-width: thin;
+    border-color: #dadada;
+    padding: 28.1em 0em 0em 0em;
+    margin-top: -0.8em;
+
+  }
+
+  .adjustt{
+    margin-left: -1em;
+  }
+
+  .adjust1{
+    font-size: medium;
+    font-weight: 400;
+    margin-top: 0.6em;
+    margin-bottom: 0.6em;
+  }
+
+

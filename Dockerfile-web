@@ -1,0 +1,17 @@
+FROM node:16-alpine3.18 AS builder
+WORKDIR /athena-app
+COPY . ./
+RUN rm -r apps
+COPY ./apps/web ./apps/web
+RUN npm cache clear -f
+RUN npm install nx -f
+
+RUN npx nx run web:build
+
+FROM nginx:alpine3.17-slim
+# WORKDIR /athena-app
+COPY --from=builder /athena-app/dist/apps/web /usr/share/nginx/html
+COPY --from=builder /athena-app/conf.d /etc/nginx/conf.d
+
+EXPOSE 4200
+CMD ["nginx", "-g", "daemon off;"]

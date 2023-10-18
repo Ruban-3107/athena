@@ -1,0 +1,73 @@
+.exp-topics{
+    padding:0;
+    margin:0;
+    overflow: hidden;
+    
+    }
+    .topicc-savee-btnn {
+      padding:6.4px 15px !important ;
+      margin: 10px !important  ;
+      border-radius:1.5ch !important;
+      min-width:11vw !important;
+      height: 2.5rem !important;
+      }
+    .chapter-save-btn {
+    padding:6.4px 15px;
+    margin: 10px;
+    border-radius:1.5ch !important;
+    min-width:11vw;
+    height: 2.5rem;
+    }
+    .scrolled {
+      overflow-y: auto;
+    }
+    
+    .chapter-cancel-btn {
+    
+      padding: 4px;
+      margin: 10px;
+      border-radius: 1.5ch !important;
+      min-width:11vw;
+      height: auto;
+    
+    }
+    
+    
+    .chapter-draft-btn {
+    
+      padding: 70px;
+      margin: 10px;
+      border-radius: 1.5ch !important;
+      width: 9rem;
+      height: auto;
+    
+    }
+    
+    
+    .col-md-3 {
+      -ms-flex: 0 0 25%;
+      flex: 0 0 25%;
+      max-width: 25%;
+      margin-top: 0.4em;
+    }
+    
+    .adjust2{
+      margin-top: 0.5em;
+    }
+    .custom-close-button button {
+    
+      border-radius: 2rem;
+      color: white;
+      border: 2.0px solid black;
+      font-size: 10px;
+      font-weight: bold;
+    
+    }
+    
+    .topi-text{
+      cursor: pointer;
+    }
+    .custom-drag-handle {
+      cursor: move;
+    }
+    

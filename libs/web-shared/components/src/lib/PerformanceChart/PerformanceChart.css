@@ -1,0 +1,20 @@
+.activeUsers {
+    width: 20px;
+    height: 15px;
+    display: block;
+    border-radius: 4px;
+    background-image: url('apps/web/src/assets/images/lineChart.svg');
+      background-repeat: no-repeat;
+      background-size: contain;
+  
+  }
+  .completedCourses {
+    width: 20px;
+    height: 15px;
+    display: block;
+    background-image: url('apps/web/src/assets/images/barChart.svg');
+      background-repeat: no-repeat;
+      background-size: contain;
+    border-radius: 4px
+  }
+  

@@ -1,0 +1,19 @@
+.button-box .pos1{
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    background-color: #fff;
+    color: #40A9FF;
+    border-color: #40A9FF;
+}
+.button-box .pos2{
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    background-color: #40A9FF;
+    border-color: #40A9FF;
+}
+.sort_course{
+    margin: -12px 0px 0px 0px;
+}
+.loader-txt{
+    font-size:3vh;
+  }

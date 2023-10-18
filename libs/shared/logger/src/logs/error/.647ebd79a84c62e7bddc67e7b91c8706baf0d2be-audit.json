@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\ahena-new_migration2\\athena\\libs\\shared\\logger\\src\\logs\\error\\.647ebd79a84c62e7bddc67e7b91c8706baf0d2be-audit.json",
+    "files": [
+        {
+            "date": 1685702157145,
+            "name": "D:\\ahena-new_migration2\\athena\\libs\\shared\\logger\\src\\logs\\error\\2023-06-02.log",
+            "hash": "7641cbe37cf83942683b9571b324198faac35c8f7129716c5a1ac4b161873bb2"
+        }
+    ],
+    "hashType": "sha256"
+}

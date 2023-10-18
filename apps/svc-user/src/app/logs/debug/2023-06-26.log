@@ -1,0 +1,43 @@
+2023-06-26 11:23:39 info: ../logs
+2023-06-26 11:23:39 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-26 11:23:44 info: [0mPOST /api/users/signUp [32m200[0m 912.313 ms - 68[0m
+2023-06-26 11:26:05 info: ../logs
+2023-06-26 11:26:05 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-26 11:26:08 info: [0mPOST /api/users/signUp [32m200[0m 422.014 ms - 91[0m
+2023-06-26 11:27:18 info: ../logs
+2023-06-26 11:27:18 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-26 11:27:20 info: [0mPOST /api/users/signUp [32m200[0m 423.905 ms - 91[0m
+2023-06-26 11:29:21 info: ../logs
+2023-06-26 11:29:21 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-26 11:29:23 info: [0mPOST /api/users/signUp [32m200[0m 459.149 ms - 91[0m
+2023-06-26 11:30:02 info: ../logs
+2023-06-26 11:30:02 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-26 11:30:05 info: [0mPOST /api/users/signUp [32m200[0m 1069.632 ms - 70[0m
+2023-06-26 11:31:58 info: ../logs
+2023-06-26 11:31:58 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-26 11:32:00 info: [0mPOST /api/users/signUp [32m200[0m 439.701 ms - 91[0m
+2023-06-26 11:32:01 info: [0mPOST /api/users/signUp [32m200[0m 489.195 ms - 70[0m
+2023-06-26 11:32:01 info: [0mPOST /api/users/signUp [32m200[0m 78.275 ms - 91[0m
+2023-06-26 11:32:01 info: [0mPOST /api/users/crweateRoles [32m200[0m 2.860 ms - 121[0m
+2023-06-26 11:32:33 info: ../logs
+2023-06-26 11:32:33 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-26 11:32:36 info: [0mPOST /api/users/signUp [32m200[0m 1003.566 ms - 70[0m
+2023-06-26 11:32:36 info: [0mPOST /api/users/signUp [32m200[0m 90.218 ms - 91[0m
+2023-06-26 11:32:36 info: [0mPOST /api/users/signUp [32m200[0m 72.937 ms - 91[0m
+2023-06-26 11:32:36 info: [0mPOST /api/users/crweateRoles [32m200[0m 3.124 ms - 121[0m
+2023-06-26 11:33:53 info: ../logs
+2023-06-26 11:33:53 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-26 11:33:56 info: [0mPOST /api/users/signUp [32m200[0m 454.099 ms - 99[0m
+2023-06-26 11:33:56 info: [0mPOST /api/users/signUp [32m200[0m 74.246 ms - 99[0m
+2023-06-26 11:34:51 info: ../logs
+2023-06-26 11:34:51 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-26 11:34:53 info: [0mPOST /api/users/signUp [32m200[0m 461.980 ms - 99[0m
+2023-06-26 11:34:53 info: [0mPOST /api/users/signUp [32m200[0m 85.581 ms - 99[0m
+2023-06-26 11:34:53 info: [0mPOST /api/users/signUp [32m200[0m 73.358 ms - 99[0m
+2023-06-26 11:34:54 info: [0mPOST /api/users/crweateRoles [32m200[0m 2.560 ms - 121[0m
+2023-06-26 11:35:22 info: ../logs
+2023-06-26 11:35:22 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-26 11:35:25 info: [0mPOST /api/users/signUp [32m200[0m 1188.523 ms - 70[0m
+2023-06-26 11:35:25 info: [0mPOST /api/users/signUp [32m200[0m 89.520 ms - 99[0m
+2023-06-26 11:35:25 info: [0mPOST /api/users/signUp [32m200[0m 415.608 ms - 99[0m
+2023-06-26 11:35:25 info: [0mPOST /api/users/crweateRoles [32m200[0m 2.836 ms - 121[0m

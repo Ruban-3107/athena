@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+
+
+*{
+  padding: 0;
+  margin: 0;
+ 
+}
+.loader{
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  min-height: 75vh;
+  flex-direction: column;
+}
+.loaderagain{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 75vh;
+  flex-direction: column;
+}
+
+@keyframes loading {
+  0% {
+      max-width: 0;
+  }
+}
+
+.loader svg{
+  width: 150px !important;
+  height: 150px !important;
+/* transform:  translateX(-0px); */
+}
+
+.loader svg path{
+   fill: transparent;
+stroke: #31aee7 !important;
+stroke-width: 0.5px;
+/* stroke: 0; */
+animation-fill-mode: both;
+stroke-dasharray: 115;
+  stroke-dashoffset: 115;
+/* animation: draw 8s ease-in-out infinite; */
+}
+
+.loader svg path{
+  /* stroke-dasharray: 100;
+  stroke-dashoffset: 100; */
+  animation: animation-draw 4s linear forwards infinite;
+}
+@keyframes animation-draw {
+  0%{
+      stroke-dashoffset: 0;
+  }
+  40%{
+      stroke-dashoffset: 115;
+  }
+  80%{
+stroke-dashoffset: 230;
+fill: transparent;
+  }
+100%{
+  stroke-dashoffset: 230;
+fill: #31aee7;
+}
+}
+
+@keyframes draw {
+  0%{
+       stroke-dashoffset: 4500;
+  }
+  100%{
+      stroke-dashoffset: 0;
+      fill-opacity: 1 !important;
+  }
+}

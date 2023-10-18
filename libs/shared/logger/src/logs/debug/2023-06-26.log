@@ -1,0 +1,24 @@
+2023-06-26 11:23:39 info: ../logs
+2023-06-26 11:23:39 info: D:\athena-microservice\athena\libs\shared\logger\src\lib
+2023-06-26 11:26:05 info: ../logs
+2023-06-26 11:26:05 info: D:\athena-microservice\athena\libs\shared\logger\src\lib
+2023-06-26 11:27:18 info: ../logs
+2023-06-26 11:27:18 info: D:\athena-microservice\athena\libs\shared\logger\src\lib
+2023-06-26 11:29:21 info: ../logs
+2023-06-26 11:29:21 info: D:\athena-microservice\athena\libs\shared\logger\src\lib
+2023-06-26 11:30:02 info: ../logs
+2023-06-26 11:30:02 info: D:\athena-microservice\athena\libs\shared\logger\src\lib
+2023-06-26 11:31:58 info: ../logs
+2023-06-26 11:31:58 info: D:\athena-microservice\athena\libs\shared\logger\src\lib
+2023-06-26 11:32:01 error: [POST] /api/users/crweateRoles >> StatusCode:: 500, Message:: Sorry, HTTP resource you are looking for was not found.
+2023-06-26 11:32:33 info: ../logs
+2023-06-26 11:32:33 info: D:\athena-microservice\athena\libs\shared\logger\src\lib
+2023-06-26 11:32:36 error: [POST] /api/users/crweateRoles >> StatusCode:: 500, Message:: Sorry, HTTP resource you are looking for was not found.
+2023-06-26 11:33:53 info: ../logs
+2023-06-26 11:33:53 info: D:\athena-microservice\athena\libs\shared\logger\src\lib
+2023-06-26 11:34:51 info: ../logs
+2023-06-26 11:34:51 info: D:\athena-microservice\athena\libs\shared\logger\src\lib
+2023-06-26 11:34:54 error: [POST] /api/users/crweateRoles >> StatusCode:: 500, Message:: Sorry, HTTP resource you are looking for was not found.
+2023-06-26 11:35:22 info: ../logs
+2023-06-26 11:35:22 info: D:\athena-microservice\athena\libs\shared\logger\src\lib
+2023-06-26 11:35:25 error: [POST] /api/users/crweateRoles >> StatusCode:: 500, Message:: Sorry, HTTP resource you are looking for was not found.

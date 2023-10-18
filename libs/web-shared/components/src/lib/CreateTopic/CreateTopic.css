@@ -1,0 +1,82 @@
+.inptgroup {
+    margin-right: 95px;
+    background-color: white !important;
+    border: none !important;
+    font-size: 1rem !important;
+    color: black;
+  }
+  .describetxt {
+    margin: 0px 0px 0px 165px;
+  }
+  .durationinpt{
+    align-items: center !important;
+  }
+  
+  .invalid-feedbackkk {
+    display: none;
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 80%;
+    color: #dc3545;
+    display: block;
+    margin-left: 177px;
+  }
+  .linetext {
+    overflow: hidden;
+    text-align: center;
+    font-size: 15px;
+  }
+  .linetext:before,
+  .linetext:after {
+    background-color: #cfcdcd;
+    content: '';
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+  }
+  .linetext:before {
+    right: 0.5em;
+    width: 4%;
+  }
+  .linetext:after {
+    left: 0.5em;
+    width: 86%;
+  }
+  
+  .duration-box{
+      min-width: 44px !important;
+  
+  }
+  .form-control[type=number]::-webkit-inner-spin-button,
+  .form-control[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+  .topic-cancel-btn {
+    padding: 4px;
+    margin: 10px;
+    border-radius: 1.5ch !important;
+    min-width:11vw;
+    height: auto;
+    height: 2.5rem;
+  
+  }
+  .topicc-savee-btnn {
+    padding:6.4px 15px !important ;
+    margin: 10px !important  ;
+    border-radius:1.5ch !important;
+    min-width:11vw !important;
+    height: 2.5rem !important;
+    }
+    .tosavee-btnn {
+      padding:6.4px 15px !important ;
+      margin: 10px !important  ;
+      border-radius:1.5ch !important;
+      min-width:11vw !important;
+      height: 2.5rem !important;
+      }
+      .loader-txt{
+        font-size:3vh;
+      }

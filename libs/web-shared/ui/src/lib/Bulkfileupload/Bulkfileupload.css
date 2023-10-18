@@ -1,0 +1,59 @@
+.d-btn {
+    display: flex;
+   align-items:flex-end;
+    justify-content: flex-end;
+    margin-bottom: 0;
+    min-height: 7vh;
+    padding-bottom: 10px;
+    /* padding-right: 10px; */
+  }
+  
+  .dropbox {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    /* padding-right: 25px; */
+  }
+  
+  .bulk-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 10px;
+  }
+  
+  .d-btn1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding-left: 10px;
+  }
+  
+  .box-btn {
+    /* background-color: #fff; */
+    border: none;
+    font-size: 14px;
+  }
+  
+  #button-tooltip {
+    width: 350px !important;
+    font-size: 12px;
+    border-radius: 4px !important;
+  }
+  
+  .btnx{
+      padding-right: 40px;
+  }
+  
+  
+  .can-btn{
+    padding: 8px 40px !important;
+  }
+  
+  .create-btn{
+    padding: 8px 30px !important;
+  }
+  
+  .text-center{
+    padding: 0px;
+  }

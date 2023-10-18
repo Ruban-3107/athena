@@ -1,0 +1,18 @@
+.content-wrapper {
+    position: absolute;
+    width: calc(100% - 255px);
+    margin-left: 255px;
+    right: 0px;
+    top: 0px;
+    padding: 0px 25px;
+    border-left: 12px solid #fafafa !important;
+    height: 100%;
+    overflow-y: auto;
+    background-color: #fff;
+  }
+  .content-box {
+    height: calc(100vh - 90px);
+    margin-top: 90px;
+    position: relative;
+  }
+  

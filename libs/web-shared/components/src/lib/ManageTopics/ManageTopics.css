@@ -1,0 +1,19 @@
+.managebutton-align {
+  position: absolute;
+  margin: 7px 0px 0px 55%;
+  z-index: 1;
+}
+  
+  .managetopicbutton {
+    border: 1px solid !important;
+    border-radius: 10rem !important;
+  }
+  .topicbar{
+    margin-right: -20px;
+  }
+  .topic-del-btn {
+    position: absolute;
+    left: 113vh;
+    top: 12vh;
+    z-index: 1;
+}

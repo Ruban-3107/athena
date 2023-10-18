@@ -1,0 +1,101 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import 'bs-stepper/dist/css/bs-stepper.min.css';
+@import "react-datepicker/dist/react-datepicker.css";
+
+
+
+.loader-text{
+  color: black;
+  font-size: 15px;
+  font-weight: 600;
+}
+ 
+.step.active button span {
+  color: #40a9ff;
+}
+
+.step.active+div {
+  background-color: #40a9ff;
+}
+
+.batchbuttonnext {
+  padding: 7px 28px !important;
+  border-radius: 16px !important;
+  background-color: #40a9ff !important;
+  color: #fff;
+  border: 1px solid #40a9ff !important;
+  font-size: 1vw !important;
+  width:auto;
+  white-space:nowrap;
+
+}
+.spinner{
+  border: 5px solid #ccc !important; 
+  border-top: 5px solid  #0396FF!important; 
+  border-radius: 50% !important; 
+  width: 30px !important;
+  height: 30px !important;
+  animation: spin 1s linear infinite !important; 
+
+
+}
+.batchbuttonprev {
+  padding: 7px 28px !important;
+  border-radius: 16px !important;
+  background-color: #fff !important;
+  color: #40a9ff !important;
+  border: 1px solid #40a9ff !important;
+  font-size: 1vw !important;
+  width:auto;
+}
+.batchselect{
+  margin: -8px 0px 0px 0px;
+  max-width: 110px;
+
+}
+.fc .fc-button {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: 0.4em 0.65em;
+  font-size: 1em;
+  line-height: 1.5;
+  border-radius: 0.25em;
+}
+.fc .fc-button {
+  -webkit-appearance: button;
+}
+
+.fc .fc-button {
+  border-radius: 0;
+  overflow: visible;
+  text-transform: none;
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.error-required {
+  width: 100%;
+  font-size: 0.8em;
+  color: #dc3545;
+}
+.hide-border{
+  border-width: 0px;
+}
+.listitems{
+  border: 0 solid blue;
+  border-radius: 20px;
+  padding: 1px;
+
+}
+.list-item:hover {
+  cursor: pointer !important;
+}

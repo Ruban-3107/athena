@@ -1,0 +1,40 @@
+.dougnut-tabs .nav-item {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+  }
+  .dougnut-tabs .nav-item .nav-link {
+    width: 100%;
+  }
+  .dougnut-tabs .nav-item .active {
+    background-color: #CCE8FF !important;
+  }
+  .sp canvas {
+    width: 130px !important;
+    height: 130px !important;
+  }
+  .progress1 {
+      width:20px !important;
+      height:15px !important;
+      display:block;
+      background-color: #0396FF;
+      border-radius:4px !important;
+      font-size: smaller !important;
+  }
+  .progress2{
+      width: 20px;
+       height: 15px;
+        display: block;
+        background-color: #A25942;
+         border-radius:4px
+  }
+  .progress3{
+      width: 20px;
+      height: 15px;
+      display: block;
+      background-color:#9371F0;
+      border-radius:4px
+  }
+  
+  
+  

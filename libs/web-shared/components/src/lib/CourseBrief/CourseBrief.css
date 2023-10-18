@@ -1,0 +1,66 @@
+.title-course {
+  position: absolute;
+  color: #fff;
+  top: 50%;
+}
+.hwb-view {
+  font-size: 20px;
+}
+.cbrief {
+  font-family: 'Poppins';
+  font-style: normal;
+}
+.cbjoin {
+  background: #40a9ff;
+  border: 1px solid #40a9ff;
+  border-radius: 12px;
+  font-weight: lighter;
+  font-size: 12px;
+}
+.overview-txt {
+  font-weight: lighter !important;
+  font-size: 13px;
+  line-height: 22px;
+  color: #818fa0;
+  text-align: justify;
+}
+.prerequis-list {
+  font-size: 13px;
+  color: #818fa0;
+}
+.tech-text {
+  background: #d3d8de;
+  border-radius: 12px;
+  font-size: 12px;
+  color: #818fa0;
+}
+.pdf-css {
+  background: #ffffff;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  height: 85vh;
+}
+.cou-tab .nav-link.active {
+  background-color: #bae7ff;
+}
+.cou-tab .nav-item button {
+  border-radius: 0;
+  font-size: 12px;
+  color: #000;
+  padding: 10px 20px;
+}
+.top-tit {
+  margin: 30px 0px !important;
+}
+.expand-btn {
+  border-radius: 12px;
+  font-size: 12px;
+  border: 1px solid #40a9ff;
+  color: #40a9ff;
+}
+.cmp-btn {
+  background: #40a9ff;
+  border: 1px solid #40a9ff;
+  border-radius: 12px;
+  font-size: 12px;
+}

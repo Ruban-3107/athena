@@ -1,0 +1,213 @@
+.fc-prev-button, .fc-next-button {
+  width: 36px !important;
+  height: 36px !important;
+}
+.fc-button {
+  background: transparent !important;
+  padding: 0 !important;
+  color: #afadb9 !important;
+  border-color: #afadb9 !important;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+.fc .fc-toolbar-title {
+  font-size: 18px !important;
+  color: #212121 !important;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  /* font-family: 'Poppins', sans-serif !important; */
+}
+
+.empty-space {
+  min-height: 10vh;
+}
+
+.App {
+  padding: 20px 10px 10px 10px;
+  margin-top: 0;
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px 3px #d9d9d9;
+  border: 1px solid #d9d9d9;
+}
+
+.fc-col-header {
+  min-height: 7vh;
+}
+
+.fc-col-header > thead > tr {
+  background-color: #f8fcff;
+  color: #818fa0;
+}
+
+.fc-col-header-cell-cushion {
+  color: #818fa0 !important;
+}
+
+.fc-daygrid-day-number {
+  color: #333333;
+}
+
+.modal-dialog {
+  /* /* max-width: 75px; */
+  max-height: 450px;
+  max-width: 603px;
+  /* margin: 1.75rem auto; */
+}
+
+.fixed-cell-size {
+  height: 150px;
+  width: 150px;
+  border: 1px solid #ccc;
+}
+
+.fc-timegrid-slot-lane {
+  border-bottom: none !important;
+}
+
+.admin-view .fc-daygrid-day-frame {
+  min-height: 175px !important;
+}
+.admin-view .fc-toolbar-chunk {
+  display: flex;
+  align-items: center;
+}
+.calendar-card-admin .fc-toolbar-chunk {
+  display: flex;
+  align-items: center;
+}
+.fc-v-event {
+  border: none !important;
+  background-color: #fff !important;
+}
+
+.event-box {
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+.titleclass .fc-header-toolbar .fc-toolbar-chunk:nth-child(1) button {
+  border: none !important;
+  background-color: #fff;
+}
+.titleclass .fc-header-toolbar .fc-prev-button {
+  border: 0px solid!important;
+  box-sizing: unset!important;
+  color: black!important;
+  box-shadow: none;
+  background-color: #ffff!important;
+}
+.titleclass .fc-header-toolbar .fc-next-button {
+  border: 0px solid!important;
+  box-sizing: unset!important;
+  color: black!important;
+  box-shadow: none;
+  background-color: #ffff!important;
+}
+.titleclass .fc-header-toolbar .fc-filter-button {
+  border-radius: 20px !important;
+  overflow: hidden !important;
+  color: black;
+  background-color: #fff;
+  
+}
+
+/* .titleclass .fc-toolbar-title {
+  color: #d9d9d9 !important;
+} */
+
+.cross-fade-height {
+  display: contents;
+  overflow: auto !important;
+}
+.fullTime__wrapper div[style] {
+  display: contents;
+  overflow: hidden !important;
+}
+
+.fullTime__wrapper .inputWrapper__dropdown.fullTime {
+}
+.fullTime__wrapper .inputWrapper__dropdown.fullTime span {
+}
+.fullTime__wrapper .inputWrapper__dropdown.fullTime div {
+}
+.titleclass .fc-scrollgrid {
+  border: none !important;
+}
+
+.titleclass .fc-scrollgrid td:last-of-type {
+  border-right: none !important;
+}
+.titleclass .fc-scrollgrid tr:last-of-type td {
+  border-bottom: none !important;
+}
+
+.titleclass .fc-scroller thead tr th:last-of-type {
+  border-right: none !important;
+}
+
+.titleclass .fc-daygrid-day {
+  height: 75px;
+}
+
+.titleclass .fc-toolbar-title {
+  font-size: medium !important;
+}
+
+.titleclass .fc-button select {
+  /* border: 0px !important; */
+  height: 26px !important;
+  color: black !important;
+  font-size: medium !important;
+  padding-top: 0px !important;
+}
+
+.react-time-input-picker-wrapper {
+  border: 1px solid #d6d6d6;
+  border-radius: 4px;
+}
+
+.fullTime__wrapper .cross-fade-height {
+  display: contents !important;
+}
+
+.time_start .inputWrapper__dropdown {
+  z-index: 99;
+}
+
+.time_end .inputWrapper__dropdown {
+  z-index: 99;
+}
+
+.titleclass .fc-col-header {
+  min-height: 2vh;
+  /* width: 100% !important;; */
+}
+
+
+[status-tooltip]::before {
+  content: attr(status-tooltip);
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(209, 113, 113, 0.8);
+  color: #b51414;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 14px;
+  pointer-events: none; /* Prevents the tooltip from blocking underlying elements */
+}
+
+.admin-schedule-modal .modal-content{
+  margin-top: 20vh;
+}
+
+.fc-daygrid-day {
+  height: 100px; /* Adjust the height value as per your preference */
+}

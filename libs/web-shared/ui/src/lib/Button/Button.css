@@ -1,0 +1,46 @@
+.addUser-btny {
+    padding: 7px 32px !important;
+    border-radius: 3px !important;
+    background-color: #40a9ff !important;
+    color: #fff;
+    border: 1px solid #40a9ff;
+    font-size: 14px !important;
+    border-radius: 16px !important;
+  }
+  
+  .mprofie-btn {
+    border: none !important;
+    padding: 8px 35px !important;
+    border-radius: 16px !important;
+    background-color: #40a9ff !important;
+    margin-top: 5px !important;
+  }
+  .batch-addcourse {
+    padding: 2rem;
+    color: blue;
+    background-color: #ffffff;
+    border-color: #40A9FF;
+  }
+  .managetopicbutton {
+    border: 1px solid;
+    border-radius: 10rem;
+    width: 7rem;
+    margin: 0px 0px 0px 25px;
+    background-color: #40A9FF !important;
+  }
+  .managetopicdeletebutton {
+    border: 1px solid;
+    border-radius: 10rem !important;
+    width: 7rem;
+    margin: 0px 20px 0px 20px;
+  }
+  .managechapterpublishbutton {
+  
+    border-radius: 10rem !important;
+    width: 7rem;
+    background-color: #40a9ff !important;
+    color: #fff;
+    border: 1px solid #40a9ff;
+   
+  }
+  

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Shape" transform="translate(1 1)">
+    <circle id="Oval" cx="3.182" cy="3.182" r="3.182" transform="translate(3.818 3.818)" fill="none" stroke="#457efa" strokeLinecap="round" strokeLinejoin="round" strokeMiterlimit="10" strokeWidth="2"/>
+    <path id="Path" d="M.318,0V1.273" transform="translate(6.682)" fill="none" stroke="#457efa" strokeLinecap="round" strokeLinejoin="round" strokeMiterlimit="10" strokeWidth="2"/>
+    <path id="Path-2" data-name="Path" d="M.318,0V1.273" transform="translate(6.682 12.727)" fill="none" stroke="#457efa" strokeLinecap="round" strokeLinejoin="round" strokeMiterlimit="10" strokeWidth="2"/>
+    <path id="Path-3" data-name="Path" d="M0,0,.9.9" transform="translate(2.049 2.049)" fill="none" stroke="#457efa" strokeLinecap="round" strokeLinejoin="round" strokeMiterlimit="10" strokeWidth="2"/>
+    <path id="Path-4" data-name="Path" d="M0,0,.9.9" transform="translate(11.047 11.047)" fill="none" stroke="#457efa" strokeLinecap="round" strokeLinejoin="round" strokeMiterlimit="10" strokeWidth="2"/>
+    <path id="Path-5" data-name="Path" d="M0,.318H1.273" transform="translate(0 6.682)" fill="none" stroke="#457efa" strokeLinecap="round" strokeLinejoin="round" strokeMiterlimit="10" strokeWidth="2"/>
+    <path id="Path-6" data-name="Path" d="M0,.318H1.273" transform="translate(12.727 6.682)" fill="none" stroke="#457efa" strokeLinecap="round" strokeLinejoin="round" strokeMiterlimit="10" strokeWidth="2"/>
+    <path id="Path-7" data-name="Path" d="M0,.9.9,0" transform="translate(2.049 11.047)" fill="none" stroke="#457efa" strokeLinecap="round" strokeLinejoin="round" strokeMiterlimit="10" strokeWidth="2"/>
+    <path id="Path-8" data-name="Path" d="M0,.9.9,0" transform="translate(11.047 2.049)" fill="none" stroke="#457efa" strokeLinecap="round" strokeLinejoin="round" strokeMiterlimit="10" strokeWidth="2"/>
+  </g>
+</svg>

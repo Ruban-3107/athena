@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\practice\\microserv\\athena\\libs\\shared\\logger\\src\\logs\\debug\\.b3bb501299959bed083a848f831aac438afe41aa-audit.json",
+    "files": [
+        {
+            "date": 1686665892944,
+            "name": "D:\\practice\\microserv\\athena\\libs\\shared\\logger\\src\\logs\\debug\\2023-06-13.log",
+            "hash": "709b62effff556f779062b184bd4715e783dcae0d59d320eeff7bf04ccf2f95e"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,32 @@
+.check-list {
+    float: left;
+    width: 150px;
+    margin-right: 5px;
+  }
+  .check-list label {
+    font-size: 13px;
+  }
+  .check-list:nth-child(3) {
+    margin-right: 0px;
+  }
+  .title-role {
+    font-size: 13px;
+    font-weight: bold;
+    color: #000;
+  }
+  .buttonalign {
+    margin-left: 15em;
+  }
+  .role-txt {
+    font-size: 14px;
+    color: #818fa0;
+  }
+  .check-list .form-check {
+    font-size: smaller;
+  }
+  .selectallcheck {
+    font-size: 13px;
+  }
+  .cssselect .css-1dimb5e-singleValue{
+    overflow: visible;
+  }

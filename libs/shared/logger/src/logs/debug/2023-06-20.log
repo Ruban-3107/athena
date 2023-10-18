@@ -1,0 +1,16 @@
+2023-06-20 15:17:30 info: ../logs
+2023-06-20 15:17:30 info: D:\athena-microservice\athena\libs\shared\logger\src\lib
+2023-06-20 15:17:33 error: [POST] /api/users/clients/createClient >> StatusCode:: 401, Message:: Unauthorized
+2023-06-20 15:22:04 info: ../logs
+2023-06-20 15:22:04 info: D:\athena-microservice\athena\libs\shared\logger\src\lib
+2023-06-20 15:22:05 error: [POST] /api/users/clients/createClient >> StatusCode:: 401, Message:: Unauthorized
+2023-06-20 15:30:18 info: ../logs
+2023-06-20 15:30:18 info: D:\athena-microservice\athena\libs\shared\logger\src\lib
+2023-06-20 15:32:55 info: ../logs
+2023-06-20 15:32:55 info: D:\athena-microservice\athena\libs\shared\logger\src\lib
+2023-06-20 15:40:15 info: ../logs
+2023-06-20 15:40:15 info: D:\athena-microservice\athena\libs\shared\logger\src\lib
+2023-06-20 15:41:53 info: ../logs
+2023-06-20 15:41:53 info: D:\athena-microservice\athena\libs\shared\logger\src\lib
+2023-06-20 15:43:25 info: ../logs
+2023-06-20 15:43:25 info: D:\athena-microservice\athena\libs\shared\logger\src\lib

@@ -1,0 +1,33 @@
+.create-account-admin {
+    font-size: 0.8em;
+    display: flex;
+    justify-content: center;
+    color: '#40A9FF';
+  }
+  
+  .create-account-adminBelow {
+    font-size: 0.7em;
+    display: flex;
+    justify-content: center;
+    color: '#40A9FF';
+  }
+  
+  .sign-in-txt {
+    text-decoration: underline;
+    text-decoration-color: '#40A9FF';
+  }
+  .forgotpassfoot-admin {
+    font-size: 0.9em;
+    text-decoration: underline;
+  }
+  .signin-head {
+    font-size: 0.8em;
+    position: absolute;
+    top: 62px;
+    right: 65px;
+  }
+  .signin-head a{
+    text-decoration: underline;
+    text-decoration-color: '#40A9FF';
+  }
+  

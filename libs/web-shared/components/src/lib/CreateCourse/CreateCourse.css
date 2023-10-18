@@ -1,0 +1,78 @@
+.form-select2 {
+  margin: 0px -33px 0px -31px;
+}
+
+.addcourse {
+  display: flex;
+  margin: 0px 0px 0px 74px;
+}
+.course-btn {
+  border-radius: 2rem !important;
+  padding: 4px;
+  margin: 8px;
+  border-radius: 1.5ch !important;
+  min-width: 11vw;
+  height: 2.5rem;
+}
+.scrolled {
+  overflow-y: auto;
+}
+
+#selectAll {
+  color: #818fa0 !important;
+}
+
+.coursecreateline {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 6% 12% 21% 11% 44%;
+}
+.create-course-label {
+  font-size: small;
+}
+.create-form-text {
+  color: #bdc4ca;
+  font-size: 12px;
+}
+
+.custom-close-button button {
+  border-radius: 2rem;
+  color: white;
+  border: 2px solid black;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.custom-delete-button {
+  background-image: url('/apps/web/src/assets/images/deleteButton.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 20px;
+  height: 20px;
+}
+
+.clear-chap {
+  background-color: white !important;
+  color: #40a9ff !important;
+  border: 1px solid #40a9ff !important;
+}
+
+.empty-row {
+  height: 10vh;
+}
+
+.course-cancel-btn {
+  padding: 4px;
+  margin: 10px;
+  border-radius: 1.5ch !important;
+  min-width: 11vw;
+  height: auto;
+  height: 2.5rem;
+}
+.course-savee-btnn {
+  padding: 6.4px 15px !important ;
+  margin: 10px !important  ;
+  border-radius: 1.5ch !important;
+  min-width: 11vw !important;
+  height: 2.5rem !important;
+}

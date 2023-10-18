@@ -1,0 +1,2 @@
+2023-06-20 15:17:33 error: [POST] /api/users/clients/createClient >> StatusCode:: 401, Message:: Unauthorized
+2023-06-20 15:22:05 error: [POST] /api/users/clients/createClient >> StatusCode:: 401, Message:: Unauthorized

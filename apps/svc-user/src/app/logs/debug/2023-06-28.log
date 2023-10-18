@@ -1,0 +1,164 @@
+2023-06-28 12:48:23 info: ../logs
+2023-06-28 12:48:23 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 12:48:29 info: [0mPOST /api/users/sendOtp [32m200[0m 602.366 ms - 108[0m
+2023-06-28 12:49:44 info: ../logs
+2023-06-28 12:49:44 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 12:49:46 info: [0mPOST /api/users/sendOtp [32m200[0m 558.017 ms - 117[0m
+2023-06-28 12:53:18 info: ../logs
+2023-06-28 12:53:18 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 12:53:20 info: [0mPOST /api/users/sendOtp [32m200[0m 673.185 ms - 70[0m
+2023-06-28 12:54:54 info: ../logs
+2023-06-28 12:54:54 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 12:54:57 info: [0mPOST /api/users/sendOtp [32m200[0m 635.601 ms - 70[0m
+2023-06-28 12:58:14 info: ../logs
+2023-06-28 12:58:14 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 12:58:18 info: [0mPOST /api/users/sendOtp [32m200[0m 616.430 ms - 72[0m
+2023-06-28 12:59:46 info: ../logs
+2023-06-28 12:59:46 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 12:59:49 info: [0mPOST /api/users/sendOtp [32m200[0m 613.051 ms - 72[0m
+2023-06-28 13:01:50 info: ../logs
+2023-06-28 13:01:50 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 13:01:53 info: [0mPOST /api/users/sendOtp [32m200[0m 602.616 ms - 72[0m
+2023-06-28 13:01:53 info: [0mPOST /api/users/sendOtp [32m200[0m 86.972 ms - 78[0m
+2023-06-28 13:02:52 info: ../logs
+2023-06-28 13:02:52 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 13:02:56 info: [0mPOST /api/users/sendOtp [32m200[0m 854.096 ms - 72[0m
+2023-06-28 13:02:56 info: [0mPOST /api/users/sendOtp [32m200[0m 75.482 ms - 114[0m
+2023-06-28 13:04:43 info: ../logs
+2023-06-28 13:04:43 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 13:04:46 info: [0mPOST /api/users/sendOtp [32m200[0m 663.475 ms - 72[0m
+2023-06-28 13:04:46 info: [0mPOST /api/users/sendOtp [32m200[0m 92.497 ms - 116[0m
+2023-06-28 13:06:35 info: ../logs
+2023-06-28 13:06:35 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 13:06:38 info: [0mPOST /api/users/sendOtp [32m200[0m 644.958 ms - 72[0m
+2023-06-28 13:06:38 info: [0mPOST /api/users/sendOtp [32m200[0m 84.384 ms - 118[0m
+2023-06-28 13:08:08 info: ../logs
+2023-06-28 13:08:08 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 13:08:11 info: [0mPOST /api/users/sendOtp [32m200[0m 637.393 ms - 72[0m
+2023-06-28 13:08:11 info: [0mPOST /api/users/sendOtp [32m200[0m 92.020 ms - 118[0m
+2023-06-28 13:17:48 info: ../logs
+2023-06-28 13:17:48 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 13:17:50 info: [0mPOST /api/users/sendOtp [32m200[0m 512.047 ms - 72[0m
+2023-06-28 13:17:50 info: [0mPOST /api/users/sendOtp [32m200[0m 61.029 ms - 122[0m
+2023-06-28 13:17:50 info: [0mPOST /api/users/sendOtp [32m200[0m 48.438 ms - 119[0m
+2023-06-28 13:19:47 info: ../logs
+2023-06-28 13:19:47 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 13:19:56 info: [0mPOST /api/users/sendOtp [32m200[0m 2512.720 ms - 122[0m
+2023-06-28 13:19:56 info: [0mPOST /api/users/sendOtp [32m200[0m 7530.417 ms - 72[0m
+2023-06-28 13:19:56 info: [0mPOST /api/users/sendOtp [32m200[0m 46.521 ms - 119[0m
+2023-06-28 13:19:56 info: [0mPOST /api/users/sendOtp [32m200[0m 1.019 ms - 79[0m
+2023-06-28 13:20:14 info: ../logs
+2023-06-28 13:20:14 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 13:20:15 info: [0mPOST /api/users/sendOtp [32m200[0m 483.643 ms - 72[0m
+2023-06-28 13:20:15 info: [0mPOST /api/users/sendOtp [32m200[0m 72.964 ms - 122[0m
+2023-06-28 13:20:15 info: [0mPOST /api/users/sendOtp [32m200[0m 52.447 ms - 119[0m
+2023-06-28 13:20:15 info: [0mPOST /api/users/sendOtp [32m200[0m 0.681 ms - 79[0m
+2023-06-28 13:22:38 info: ../logs
+2023-06-28 13:22:38 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 13:22:39 info: [0mPOST /api/users/sendOtp [32m200[0m 531.225 ms - 72[0m
+2023-06-28 13:22:39 info: [0mPOST /api/users/sendOtp [32m200[0m 65.299 ms - 119[0m
+2023-06-28 13:22:39 info: [0mPOST /api/users/sendOtp [32m200[0m 39.924 ms - 122[0m
+2023-06-28 13:22:40 info: [0mPOST /api/users/sendOtp [32m200[0m 37.308 ms - 119[0m
+2023-06-28 13:22:40 info: [0mPOST /api/users/sendOtp [32m200[0m 0.790 ms - 79[0m
+2023-06-28 13:23:07 info: ../logs
+2023-06-28 13:23:07 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 13:23:08 info: [0mPOST /api/users/sendOtp [32m200[0m 495.444 ms - 72[0m
+2023-06-28 13:23:08 info: [0mPOST /api/users/sendOtp [32m200[0m 57.994 ms - 114[0m
+2023-06-28 13:23:08 info: [0mPOST /api/users/sendOtp [32m200[0m 42.676 ms - 122[0m
+2023-06-28 13:23:08 info: [0mPOST /api/users/sendOtp [32m200[0m 39.378 ms - 119[0m
+2023-06-28 13:23:08 info: [0mPOST /api/users/sendOtp [32m200[0m 0.677 ms - 79[0m
+2023-06-28 15:40:13 info: ../logs
+2023-06-28 15:40:13 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 15:40:15 info: [0mPOST /api/users/verifyOtp [32m200[0m 473.651 ms - 107[0m
+2023-06-28 15:40:45 info: ../logs
+2023-06-28 15:40:45 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 15:40:47 info: [0mPOST /api/users/verifyOtp [32m200[0m 488.160 ms - 81[0m
+2023-06-28 15:42:13 info: ../logs
+2023-06-28 15:42:13 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 15:42:14 info: [0mPOST /api/users/sendOtp [32m200[0m 498.782 ms - 72[0m
+2023-06-28 15:42:14 info: [0mPOST /api/users/sendOtp [32m200[0m 52.510 ms - 114[0m
+2023-06-28 15:42:14 info: [0mPOST /api/users/sendOtp [32m200[0m 40.859 ms - 114[0m
+2023-06-28 15:42:14 info: [0mPOST /api/users/sendOtp [32m200[0m 40.318 ms - 122[0m
+2023-06-28 15:42:14 info: [0mPOST /api/users/sendOtp [32m200[0m 48.396 ms - 119[0m
+2023-06-28 15:42:14 info: [0mPOST /api/users/sendOtp [32m200[0m 0.744 ms - 79[0m
+2023-06-28 15:42:14 info: [0mPOST /api/users/verifyOtp [32m200[0m 123.073 ms - 81[0m
+2023-06-28 15:43:24 info: ../logs
+2023-06-28 15:43:24 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 15:43:25 info: [0mPOST /api/users/sendOtp [32m200[0m 595.076 ms - 72[0m
+2023-06-28 15:43:25 info: [0mPOST /api/users/sendOtp [32m200[0m 62.999 ms - 114[0m
+2023-06-28 15:43:25 info: [0mPOST /api/users/sendOtp [32m200[0m 58.504 ms - 114[0m
+2023-06-28 15:43:25 info: [0mPOST /api/users/sendOtp [32m200[0m 39.126 ms - 122[0m
+2023-06-28 15:43:25 info: [0mPOST /api/users/sendOtp [32m200[0m 47.017 ms - 119[0m
+2023-06-28 15:43:26 info: [0mPOST /api/users/sendOtp [32m200[0m 0.957 ms - 79[0m
+2023-06-28 15:43:26 info: [0mPOST /api/users/verifyOtp [32m200[0m 100.948 ms - 81[0m
+2023-06-28 15:44:11 info: ../logs
+2023-06-28 15:44:11 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 15:44:12 info: [0mPOST /api/users/sendOtp [32m200[0m 541.571 ms - 72[0m
+2023-06-28 15:44:12 info: [0mPOST /api/users/sendOtp [32m200[0m 55.490 ms - 114[0m
+2023-06-28 15:44:12 info: [0mPOST /api/users/sendOtp [32m200[0m 39.549 ms - 114[0m
+2023-06-28 15:44:13 info: [0mPOST /api/users/sendOtp [32m200[0m 43.325 ms - 122[0m
+2023-06-28 15:44:13 info: [0mPOST /api/users/sendOtp [32m200[0m 41.753 ms - 119[0m
+2023-06-28 15:44:13 info: [0mPOST /api/users/sendOtp [32m200[0m 0.766 ms - 79[0m
+2023-06-28 15:44:13 info: [0mPOST /api/users/verifyOtp [32m200[0m 96.836 ms - 81[0m
+2023-06-28 15:44:50 info: ../logs
+2023-06-28 15:44:50 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 15:44:52 info: [0mPOST /api/users/sendOtp [32m200[0m 515.257 ms - 72[0m
+2023-06-28 15:44:52 info: [0mPOST /api/users/sendOtp [32m200[0m 66.672 ms - 114[0m
+2023-06-28 15:44:52 info: [0mPOST /api/users/sendOtp [32m200[0m 50.733 ms - 114[0m
+2023-06-28 15:44:52 info: [0mPOST /api/users/sendOtp [32m200[0m 57.221 ms - 122[0m
+2023-06-28 15:44:52 info: [0mPOST /api/users/sendOtp [32m200[0m 44.593 ms - 119[0m
+2023-06-28 15:44:52 info: [0mPOST /api/users/sendOtp [32m200[0m 0.616 ms - 79[0m
+2023-06-28 15:44:52 info: [0mPOST /api/users/verifyOtp [32m200[0m 197.393 ms - 898[0m
+2023-06-28 15:49:28 info: ../logs
+2023-06-28 15:49:28 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 15:49:30 info: [0mPOST /api/users/verifyOtp [32m200[0m 435.151 ms - 111[0m
+2023-06-28 15:53:34 info: ../logs
+2023-06-28 15:53:34 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 15:53:36 info: [0mPOST /api/users/verifyOtp [32m200[0m 21.562 ms - 74[0m
+2023-06-28 15:55:06 info: ../logs
+2023-06-28 15:55:06 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 15:55:07 info: [0mPOST /api/users/verifyOtp [32m200[0m 22.882 ms - 74[0m
+2023-06-28 15:55:08 info: [0mPOST /api/users/verifyOtp [32m200[0m 437.303 ms - 107[0m
+2023-06-28 15:58:30 info: ../logs
+2023-06-28 15:58:30 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 15:58:32 info: [0mPOST /api/users/verifyOtp [32m200[0m 27.808 ms - 79[0m
+2023-06-28 15:58:32 info: [0mPOST /api/users/verifyOtp [32m200[0m 6.309 ms - 77[0m
+2023-06-28 15:59:27 info: ../logs
+2023-06-28 15:59:27 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 15:59:28 info: [0mPOST /api/users/verifyOtp [32m200[0m 20.613 ms - 79[0m
+2023-06-28 15:59:28 info: [0mPOST /api/users/verifyOtp [32m200[0m 2.470 ms - 77[0m
+2023-06-28 16:08:16 info: ../logs
+2023-06-28 16:08:16 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 16:08:18 info: [0mPUT /api/users/forgotPassword [32m200[0m 472.102 ms - 84[0m
+2023-06-28 16:08:59 info: ../logs
+2023-06-28 16:08:59 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 16:09:01 info: [0mPUT /api/users/forgotPassword [32m200[0m 541.150 ms - 84[0m
+2023-06-28 16:09:33 info: ../logs
+2023-06-28 16:09:33 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 16:09:35 info: [0mPUT /api/users/forgotPassword [32m200[0m 585.637 ms - 122[0m
+2023-06-28 16:11:14 info: ../logs
+2023-06-28 16:11:14 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 16:11:15 info: [0mPUT /api/users/forgotPassword [32m200[0m 58.113 ms - 85[0m
+2023-06-28 16:13:34 info: ../logs
+2023-06-28 16:13:34 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 16:13:36 info: [0mPUT /api/users/forgotPassword [32m200[0m 51.199 ms - 85[0m
+2023-06-28 16:14:15 info: ../logs
+2023-06-28 16:14:15 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 16:14:16 info: [0mPUT /api/users/forgotPassword [32m200[0m 64.807 ms - 85[0m
+2023-06-28 16:15:47 info: ../logs
+2023-06-28 16:15:47 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 16:15:48 info: [0mPUT /api/users/forgotPassword [32m200[0m 46.096 ms - 85[0m
+2023-06-28 16:16:24 info: ../logs
+2023-06-28 16:16:24 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 16:16:27 info: [0mPUT /api/users/forgotPassword [32m200[0m 27.322 ms - 85[0m
+2023-06-28 16:18:16 info: ../logs
+2023-06-28 16:18:16 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 16:18:19 info: [0mPUT /api/users/forgotPassword [32m200[0m 92.036 ms - 79[0m
+2023-06-28 16:20:39 info: ../logs
+2023-06-28 16:20:39 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 16:20:41 info: [0mPUT /api/users/forgotPassword [32m200[0m 26.756 ms - 79[0m
+2023-06-28 16:20:41 info: [0mPUT /api/users/forgotPassword [32m200[0m 401.613 ms - 84[0m
+2023-06-28 16:21:30 info: ../logs
+2023-06-28 16:21:30 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-28 16:21:31 info: [0mPUT /api/users/forgotPassword [32m200[0m 23.383 ms - 79[0m
+2023-06-28 16:21:32 info: [0mPUT /api/users/forgotPassword [32m200[0m 470.293 ms - 84[0m

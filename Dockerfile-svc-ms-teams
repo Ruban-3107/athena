@@ -1,0 +1,16 @@
+FROM node:16-alpine3.18 AS builder
+WORKDIR /athena-app
+COPY . ./
+RUN rm -r apps
+COPY ./apps/svc-ms-teams ./apps/svc-ms-teams
+RUN npm install nx -f
+
+RUN npx nx run svc-ms-teams:build
+
+FROM node:16-alpine3.18
+WORKDIR /athena-app
+COPY --from=builder /athena-app/dist/apps/svc-ms-teams .
+COPY --from=builder /athena-app/.env .env
+RUN npm install -f
+RUN npm install pg
+CMD ["node", "main.js"]

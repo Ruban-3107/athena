@@ -1,0 +1,33 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "esnext",
+    "lib": ["es2020", "dom"],
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@athena/shared/common-functions": [
+        "libs/shared/common-functions/src/index.ts"
+      ],
+      "@athena/shared/exceptions": ["libs/shared/exceptions/src/index.ts"],
+      "@athena/shared/file-upload": ["libs/shared/file-upload/src/index.ts"],
+      "@athena/shared/logger": ["libs/shared/logger/src/index.ts"],
+      "@athena/shared/middleware": ["libs/shared/middleware/src/index.ts"],
+      "@athena/web-shared/components": [
+        "libs/web-shared/components/src/index.js"
+      ],
+      "@athena/web-shared/ui": ["libs/web-shared/ui/src/index.js"],
+      "@athena/web-shared/utils": ["libs/web-shared/utils/src/index.js"]
+    }
+  },
+  "exclude": ["node_modules", "tmp"]
+}

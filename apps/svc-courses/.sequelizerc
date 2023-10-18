@@ -1,0 +1,12 @@
+const path = require('path');
+
+module.exports = {
+    config: path.resolve(
+        process.env.SEQUELIZE_CONFIG_PATH,
+        'config',
+        'config.js'
+    ),
+    'models-path': path.resolve(process.env.SEQUELIZE_CONFIG_PATH, 'models'),
+    'seeders-path': path.resolve(process.env.SEQUELIZE_CONFIG_PATH, 'seeders'),
+    'migrations-path': path.resolve(process.env.SEQUELIZE_CONFIG_PATH, 'migrations')
+};

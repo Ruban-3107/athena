@@ -1,0 +1,55 @@
+
+.dash {
+    display: flex;
+    justify-content: center;
+}
+
+.stepper {
+  padding: 3vh 0 !important;
+}
+
+.stepper__step {
+  border: 1px solid #40A9FF !important;
+  cursor: default !important;
+}
+
+.stepper__step+div>span {
+  color: #40A9FF !important;
+}
+
+.inputflex {
+  flex-wrap: nowrap !important;
+}
+
+.date-column{
+  display: flex;
+  align-items: flex-start;
+
+  flex-direction: row;
+ 
+}
+
+
+.date-flied{
+  width: 9.7vw;
+  height: 40px;
+  padding: 10px 10px 10px 19px;;
+  margin: 0 !important;
+  border-color: #d3d8de;
+  border-style: solid;
+  box-shadow: none !important;
+  
+}
+
+
+.react-datepicker-popper {
+  z-index: 99;
+}
+
+
+
+.second,.first{
+  padding: 0 !important;
+}
+
+

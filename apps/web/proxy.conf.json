@@ -1,0 +1,22 @@
+{
+  "/api/users": {
+    "target": "http://localhost:3000",
+    "secure": false
+  },
+  "/api/courses": {
+    "target": "http://localhost:3001",
+    "secure": false
+  },
+  "/api/reports": {
+    "target": "http://localhost:3002",
+    "secure": false
+  },
+  "/api/batches": {
+    "target": "http://localhost:3003",
+    "secure": false
+  },
+  "/api/bot": {
+    "target": "http://localhost:3004",
+    "secure": false
+  }
+}

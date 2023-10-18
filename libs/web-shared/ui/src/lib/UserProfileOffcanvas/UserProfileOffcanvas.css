@@ -1,0 +1,84 @@
+/* .offcanvas-body {
+    overflow-y: 0px !important;
+  } */
+  .img-cover {
+    width: 170px;
+    height: 170px;
+    margin-left: 114px;
+    margin-top: -50px;
+  }
+  .card-img{
+    width: 45% !important;
+  }
+  .font-a {
+    font-size: 33px;
+  }
+  .personaldetail {
+    font-size: 13px;
+  }
+  .font-c {
+    font-size: 18px;
+  }
+  .font-d {
+    font-size: 12px;
+    margin-left: 0.4em;
+  }
+  .font-e {
+    font-size: 12px;
+  }
+  .font-yy {
+    font-size: 13px;
+  }
+  .a {
+    text-decoration: underline;
+  }
+  .color {
+    background-color: #69c0ff;
+    width: 399px;
+    height: 105px;
+    margin-left: 0px;
+    margin-top: 0px;
+  }
+  .image-border {
+    border-radius: 50% !important;
+    border: 12px solid white !important;
+  }
+  .cardy {
+    --bs-card-spacer-y: 0rem !important;
+  }
+  .form-switch .form-check-input:checked {
+    background-position: right center;
+    width: 35px;
+    height: 18px;
+  }
+  .form-switch .form-check-input {
+    width: 35px;
+    height: 18px;
+  }
+  .ll {
+   color: #818FA0;
+  }
+
+.empty-td{
+  width: 350px;
+}
+
+
+#selectAll{
+color: #d9d9d9;
+
+}
+
+.select-all-group{
+  margin-top: 3vw;
+}
+
+
+.chapter-btn{
+  width: 200px;
+}
+
+
+.search-bar{
+  padding-left: 10px;
+}

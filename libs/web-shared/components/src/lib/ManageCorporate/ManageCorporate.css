@@ -1,0 +1,38 @@
+.delbtn {
+  position: absolute;
+  right: 253px;
+  top: 8rem;
+  z-index: 99;
+  width: 10% !important;
+}
+
+/* .corporate-del-btn {
+  position: relative;
+  right: 267px;
+  z-index: 99;
+  width: 10% !important;
+  top: 90px;
+} */
+.corporatebar {
+  margin-right: -13px;
+}
+
+  .corporatee-del-btn {
+    position: absolute;
+    left: 128vh;
+    top: 12vh;
+    z-index: 1;
+}
+/* .kuTuGf {
+  position: static !important;
+  display: flex !important;
+  flex: 1 1 auto !important;
+  box-sizing: border-box !important;
+  align-items: center !important;
+  padding: 4px 16px 4px 24px !important;
+  width: 100% !important;
+  justify-content: flex-end !important;
+  flex-wrap: wrap !important;
+  background-color: #FFFFFF;
+  min-height: 52px !important;
+} */

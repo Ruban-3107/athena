@@ -1,0 +1,70 @@
+{
+  "name": "svc-courses",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/svc-courses/src",
+  "projectType": "application",
+  "targets": {
+    "build": {
+      "executor": "@nx/webpack:webpack",
+      "outputs": ["{options.outputPath}"],
+      "defaultConfiguration": "production",
+      "options": {
+        "target": "node",
+        "compiler": "tsc",
+        "outputPath": "dist/apps/svc-courses",
+        "main": "apps/svc-courses/src/main.ts",
+        "tsConfig": "apps/svc-courses/tsconfig.app.json",
+        "assets": ["apps/svc-courses/src/assets"],
+        "isolatedConfig": true,
+        "webpackConfig": "apps/svc-courses/webpack.config.js",
+        "generatePackageJson": true,
+        "generateLockFile": true
+      },
+      "configurations": {
+        "development": {},
+        "production": {}
+      }
+    },
+    "serve": {
+      "executor": "@nx/js:node",
+      "defaultConfiguration": "development",
+      "options": {
+        "buildTarget": "svc-courses:build"
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "svc-courses:build:development"
+        },
+        "production": {
+          "buildTarget": "svc-courses:build:production"
+        }
+      }
+    },
+    "lint": {
+      "executor": "@nx/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["apps/svc-courses/**/*.ts"]
+      }
+    },
+    "test": {
+      "executor": "@nx/jest:jest",
+      "outputs": ["{workspaceRoot}/coverage/{projectRoot}"],
+      "options": {
+        "jestConfig": "apps/svc-courses/jest.config.ts",
+        "passWithNoTests": true
+      },
+      "configurations": {
+        "ci": {
+          "ci": true,
+          "codeCoverage": true
+        }
+      }
+    },
+    "docker-build": {
+      "dependsOn": ["build"],
+      "command": "docker build -f apps/svc-courses/Dockerfile . -t svc-courses"
+    }
+  },
+  "tags": []
+}

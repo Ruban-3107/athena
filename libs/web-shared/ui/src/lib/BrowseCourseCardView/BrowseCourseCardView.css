@@ -1,0 +1,27 @@
+.alignleft {
+    float: left;
+    text-align: left;
+    width: 32.33333%;
+    border-right: 1px solid #6c757d;
+    font-size: xx-small;
+  }
+  .aligncenter {
+    float: left;
+    text-align: center;
+    width: 32.33333%;
+    border-right: 1px solid #6c757d;
+    font-size: xx-small;
+  }
+  .alignright {
+    float: left;
+    text-align: right;
+    width: 35.33333%;
+    font-size: xx-small;
+  }
+  .textbox {
+    line-height: 8px;
+  }
+  .embed-responsive .card-img-top {
+    object-fit: cover;
+  }
+  

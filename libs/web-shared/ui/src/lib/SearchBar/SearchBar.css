@@ -1,0 +1,26 @@
+.form-search svg {
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    width: 16px;
+    height: 16px;
+  }
+  .form-search input {
+    padding-left: 45px;
+    border: 1px solid #d9d9d9;
+    border-radius: 2px;
+    /* width: 22rem; */
+  } 
+
+  .search-box::placeholder{
+    font-size: 14px !important;
+    color: #D9D9D9;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+  }
+  
+  .bottom {
+    bottom: 9px;
+  }

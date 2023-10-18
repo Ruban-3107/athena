@@ -1,0 +1,16 @@
+.form-check {
+    position: relative;
+    display: block;
+    /* padding-left: 1.25rem; */
+}
+.prefer-check{
+    padding-left: 2.25rem!important;
+}
+
+.btnxNoticeUser {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    left: 18.8rem;
+    margin-top: 4em;
+}

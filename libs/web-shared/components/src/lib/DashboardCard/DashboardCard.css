@@ -1,0 +1,153 @@
+.attention-line{
+  border-right: 4px solid #40A9FF;
+}
+
+.attention-border{
+      border: 10px solid #f7f7f7;
+
+}
+
+.description-font{
+  font-size: small;
+
+}
+
+.row-border{
+  border-bottom: 1px solid rgb(225, 225, 225);
+}
+
+.recent-image{
+  width: 150%;
+  max-height: 65px;
+}
+
+.admin-card-over{
+  overflow:hidden;
+}
+
+
+.scrollable-needAttention {
+border: 1px;
+height: 260px;
+overflow-y: scroll;
+scrollbar-width: thin;
+overflow-x: hidden;
+}
+
+.scrollable-needAttention::-webkit-scrollbar {
+width: 0;
+height: 0;
+}
+
+.scrollable-needAttention:hover::-webkit-scrollbar {
+width: 5px;
+height: 8px;
+}
+
+.scrollable-needAttention:hover::-webkit-scrollbar-track {
+background-color: #f1f1f1;
+}
+
+.scrollable-needAttention:hover::-webkit-scrollbar-thumb {
+background-color: #888;
+border-radius: 3px;
+}
+
+
+.scrollable-recentActivities {
+border: 1px;
+height: 190px;
+overflow-y: scroll;
+scrollbar-width: thin;
+overflow-x: hidden;
+}
+
+
+
+.scrollable-recentActivities::-webkit-scrollbar {
+width: 0;
+height: 0;
+}
+
+.scrollable-recentActivities:hover::-webkit-scrollbar {
+width: 5px;
+height: 8px;
+}
+
+.scrollable-recentActivities:hover::-webkit-scrollbar-track {
+background-color: #f1f1f1;
+}
+
+.scrollable-recentActivities:hover::-webkit-scrollbar-thumb {
+background-color: #888;
+border-radius: 3px;
+}
+
+
+.learnerContainer {
+display: grid;
+grid-template-columns: repeat(6, 1fr);
+gap: 10px;
+/* Adjust the gap between boxes as needed */
+}
+
+.learnerBox {
+box-sizing: border-box;
+position: relative;
+background: linear-gradient(167.93deg, rgba(171, 158, 246, 0.34) 5.31%, rgba(59, 0, 183, 0.34) 81.32%);
+border: 1px solid #FFFFFF;
+backdrop-filter: blur(12.8px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 8px;
+}
+
+/* Adjust the positioning properties as needed */
+.learnerBox:nth-child(1) {
+left: 0;
+right: 83.33%;
+top: 0;
+bottom: 0;
+}
+
+.learnerBox:nth-child(2) {
+left: 16.67%;
+right: 66.67%;
+top: 0;
+bottom: 0;
+}
+
+.learnerBox:nth-child(3) {
+left: 33.33%;
+right: 50%;
+top: 0;
+bottom: 0;
+}
+
+.learnerBox:nth-child(4) {
+left: 50%;
+right: 33.33%;
+top: 0;
+bottom: 0;
+}
+
+.learnerBox:nth-child(5) {
+left: 66.67%;
+right: 16.67%;
+top: 0;
+bottom: 0;
+}
+
+.learnerBox:nth-child(6) {
+left: 83.33%;
+right: 0;
+top: 0;
+bottom: 0;
+}
+
+
+.something{
+
+background-image: url('apps/web/src/assets/images/deleteButton.png');
+background-repeat: no-repeat;
+background-size: contain;
+}

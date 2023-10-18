@@ -1,0 +1,22 @@
+.tab-filter {
+    position: absolute;
+    right: 0;
+    z-index: 89;
+    width: 400px;
+  }
+
+  .csvbutton{
+    height: 30px;
+  }
+  
+  .dataTable-content :hover {
+    cursor: pointer;
+  }
+  
+.selected {
+    background-color: #d3cdcd !important;
+}
+
+.selectCss .css-1dimb5e-singleValue {
+  overflow: visible;
+}

@@ -1,0 +1,56 @@
+.count-text {
+    font-size: 17px;
+    font-weight: 400;
+    color: #818fa0;
+  }
+  .content-acc .accordion-button:after {
+    order: -1;
+    margin-left: 0;
+    margin-right: 0.5em;
+    color: #000 !important;
+  }
+  .content-acc .accordion-button {
+    border: none !important;
+    background-color: #fff !important;
+    color: #000 !important;
+  }
+  .content-acc .accordion-button:focus {
+    outline: 0 !important;
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0) !important;
+  }
+  
+  .acc-title-cca {
+    font-weight: 500;
+    font-size: 16px;
+  }
+  
+  .ffq {
+    box-shadow: 0px 0px 8px #e3e3e3;
+    border-radius: 10px;
+  }
+  .subtxt-acc {
+    font-size: 14px;
+    line-height: 24px;
+    color: #818fa0;
+  }
+  .topic-under {
+    font-size: 14px;
+    line-height: 34px;
+    text-decoration-line: underline;
+    color: #40a9ff;
+  }
+  .topic-under-ind {
+    font-size: 14px;
+    line-height: 34px;
+    color: #40a9ff;
+  }
+  .topic-under-sub {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 34px;
+    color: #000000;
+  }
+  .topic-under-nam {
+    cursor: pointer;
+  }
+  

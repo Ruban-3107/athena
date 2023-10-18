@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\athena-microservice\\athena\\apps\\svc-user\\src\\app\\logs\\error\\.4030df3be6fbdb04982b316ca24632f176f337e5-audit.json",
+    "files": [
+        {
+            "date": 1687254450694,
+            "name": "D:\\athena-microservice\\athena\\apps\\svc-user\\src\\app\\logs\\error\\2023-06-20.log",
+            "hash": "8fd9111c1c58bc6ab3854433c46a1716b07e9bacfdb157b39b7eb25ecec41238"
+        },
+        {
+            "date": 1687325523326,
+            "name": "D:\\athena-microservice\\athena\\apps\\svc-user\\src\\app\\logs\\error\\2023-06-21.log",
+            "hash": "3e759cb3877a0f17edf76e470e0126c3c90b2f8d4bd19349fd6b80a19a0d109a"
+        },
+        {
+            "date": 1687413219468,
+            "name": "D:\\athena-microservice\\athena\\apps\\svc-user\\src\\app\\logs\\error\\2023-06-22.log",
+            "hash": "c5923a09e7f522b250653a7c2f1c2ba5f435e9c8d2a51980618a84f2abf4e9b8"
+        },
+        {
+            "date": 1687498742719,
+            "name": "D:\\athena-microservice\\athena\\apps\\svc-user\\src\\app\\logs\\error\\2023-06-23.log",
+            "hash": "9dd56724bc0a9c0bc1d9584283fc077cf839d42d4963fcdffceefdf82dd12df8"
+        },
+        {
+            "date": 1687757429646,
+            "name": "D:\\athena-microservice\\athena\\apps\\svc-user\\src\\app\\logs\\error\\2023-06-26.log",
+            "hash": "d09a58444dbbd7ba63c433de1d105f8df43031623a2df6767b4905228c25d373"
+        },
+        {
+            "date": 1687861953247,
+            "name": "D:\\athena-microservice\\athena\\apps\\svc-user\\src\\app\\logs\\error\\2023-06-27.log",
+            "hash": "adec402f5cf1bb3263845e9e85050e00f3acc1473a2cf5ec62f5108eaa69bf1e"
+        },
+        {
+            "date": 1687936703418,
+            "name": "D:\\athena-microservice\\athena\\apps\\svc-user\\src\\app\\logs\\error\\2023-06-28.log",
+            "hash": "4a41b93b654927928c005146fb153b0a8e26c237bcbbee1e8fadef5e460dc5cd"
+        },
+        {
+            "date": 1688016148459,
+            "name": "D:\\athena-microservice\\athena\\apps\\svc-user\\src\\app\\logs\\error\\2023-06-29.log",
+            "hash": "cf4e4912edf54284b81d146ee59515ed6ab5e3864bee8f8acf1402a8662bedd2"
+        }
+    ],
+    "hashType": "sha256"
+}

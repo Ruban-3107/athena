@@ -1,0 +1,21 @@
+2023-06-20 15:17:30 info: ../logs
+2023-06-20 15:17:30 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-20 15:17:33 info: [0mPOST /api/users/clients/createClient [32m200[0m 46.789 ms - 78[0m
+2023-06-20 15:22:04 info: ../logs
+2023-06-20 15:22:04 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-20 15:22:05 info: [0mPOST /api/users/clients/createClient [32m200[0m 35.963 ms - 78[0m
+2023-06-20 15:30:18 info: ../logs
+2023-06-20 15:30:18 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-20 15:30:22 info: [0mPOST /api/users/clients/createClient [32m200[0m 2422.333 ms - 120[0m
+2023-06-20 15:32:55 info: ../logs
+2023-06-20 15:32:55 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-20 15:32:57 info: [0mPOST /api/users/clients/createClient [32m200[0m 893.429 ms - 82[0m
+2023-06-20 15:40:15 info: ../logs
+2023-06-20 15:40:15 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-20 15:40:17 info: [0mPOST /api/users/clients/createClient [32m200[0m 688.719 ms - 850[0m
+2023-06-20 15:41:53 info: ../logs
+2023-06-20 15:41:53 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-20 15:41:57 info: [0mPOST /api/users/clients/createClient [32m200[0m 2978.614 ms - 82[0m
+2023-06-20 15:43:25 info: ../logs
+2023-06-20 15:43:25 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-20 15:43:27 info: [0mPOST /api/users/clients/createClient [32m200[0m 733.011 ms - 853[0m

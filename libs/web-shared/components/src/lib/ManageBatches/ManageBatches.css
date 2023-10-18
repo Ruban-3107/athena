@@ -1,0 +1,29 @@
+.batchDelbutton {
+  padding: 7px 28px !important;
+  border-radius: 16px !important;
+  background-color: #fff !important;
+  color: #40a9ff !important;
+  border: 1px solid #40a9ff !important;
+  font-size: 1vw !important;
+  width: 10%;
+  margin-bottom: 16px;
+}
+
+.batchbar {
+  margin-right: -13px;
+}
+
+.status-dropdown {
+  border: none !important;
+}
+
+.status-dropdwn button {
+  background: none!important;
+}
+
+.status-dropdwn .hover-css {
+  background: none!important;
+}
+.show button .show {
+  background: none!important;
+}

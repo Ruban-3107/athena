@@ -1,0 +1,453 @@
+2023-06-21 11:02:03 info: ../logs
+2023-06-21 11:02:03 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:02:05 info: [0mPOST /api/users/clients/createClient [32m200[0m 679.044 ms - 82[0m
+2023-06-21 11:02:05 info: [0mDELETE /api/users/clients/undefined [32m200[0m 4.189 ms - 121[0m
+2023-06-21 11:03:37 info: ../logs
+2023-06-21 11:03:37 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:03:38 info: [0mDELETE /api/users/clients/[3]/disable [32m200[0m 7.809 ms - 121[0m
+2023-06-21 11:04:50 info: ../logs
+2023-06-21 11:04:50 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:04:51 info: [0mDELETE /api/users/clients/[3]/disable [32m200[0m 9.975 ms - 121[0m
+2023-06-21 11:05:41 info: ../logs
+2023-06-21 11:05:41 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:05:43 info: [0mDELETE /api/users/clients/deleteClient/[3]/disable [32m200[0m 422.636 ms - 86[0m
+2023-06-21 11:06:50 info: ../logs
+2023-06-21 11:06:50 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:06:52 info: [0mDELETE /api/users/clients/deleteClient/[2]/disable [32m200[0m 551.037 ms - 119[0m
+2023-06-21 11:07:18 info: ../logs
+2023-06-21 11:07:18 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:07:20 info: [0mDELETE /api/users/clients/deleteClient/[5]/disable [32m200[0m 504.144 ms - 119[0m
+2023-06-21 11:07:56 info: ../logs
+2023-06-21 11:07:56 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:07:58 info: [0mPOST /api/users/clients/createClient [32m200[0m 666.956 ms - 82[0m
+2023-06-21 11:07:58 info: [0mDELETE /api/users/clients/deleteClient/[5]/disable [32m200[0m 129.982 ms - 119[0m
+2023-06-21 11:09:22 info: ../logs
+2023-06-21 11:09:22 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:09:25 info: [0mPOST /api/users/clients/createClient [32m200[0m 628.721 ms - 854[0m
+2023-06-21 11:10:05 info: ../logs
+2023-06-21 11:10:05 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:10:06 info: [0mPOST /api/users/clients/createClient [32m200[0m 696.247 ms - 854[0m
+2023-06-21 11:10:52 info: ../logs
+2023-06-21 11:10:52 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:10:54 info: [0mPOST /api/users/clients/createClient [32m200[0m 648.142 ms - 854[0m
+2023-06-21 11:11:36 info: ../logs
+2023-06-21 11:11:36 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:11:38 info: [0mPOST /api/users/clients/createClient [32m200[0m 773.365 ms - 854[0m
+2023-06-21 11:19:44 info: ../logs
+2023-06-21 11:19:44 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:19:46 info: [0mPOST /api/users/clients/createClient [32m200[0m 1564.345 ms - 82[0m
+2023-06-21 11:19:47 info: [0mDELETE /api/users/clients/deleteClient/undefined/disable [32m200[0m 159.013 ms - 115[0m
+2023-06-21 11:20:48 info: ../logs
+2023-06-21 11:20:48 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:20:50 info: [0mPOST /api/users/clients/createClient [32m200[0m 639.995 ms - 854[0m
+2023-06-21 11:20:50 info: [0mDELETE /api/users/clients/deleteClient/17/disable [32m200[0m 90.614 ms - 108[0m
+2023-06-21 11:21:35 info: ../logs
+2023-06-21 11:21:35 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:21:37 info: [0mPOST /api/users/clients/createClient [32m200[0m 669.777 ms - 82[0m
+2023-06-21 11:21:37 info: [0mDELETE /api/users/clients/deleteClient/undefined/disable [32m200[0m 35.634 ms - 115[0m
+2023-06-21 11:23:04 info: ../logs
+2023-06-21 11:23:04 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:23:06 info: [0mPOST /api/users/clients/createClient [32m200[0m 613.315 ms - 854[0m
+2023-06-21 11:23:06 info: [0mDELETE /api/users/clients/deleteClient/19/disable [32m200[0m 102.560 ms - 108[0m
+2023-06-21 11:24:08 info: ../logs
+2023-06-21 11:24:08 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:24:10 info: [0mPOST /api/users/clients/createClient [32m200[0m 638.679 ms - 82[0m
+2023-06-21 11:24:10 info: [0mDELETE /api/users/clients/deleteClient/undefined/disable [32m200[0m 43.296 ms - 115[0m
+2023-06-21 11:25:09 info: ../logs
+2023-06-21 11:25:09 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:25:11 info: [0mPOST /api/users/clients/createClient [32m200[0m 659.091 ms - 854[0m
+2023-06-21 11:25:11 info: [0mDELETE /api/users/clients/deleteClient/21/disable [32m200[0m 100.295 ms - 108[0m
+2023-06-21 11:25:54 info: ../logs
+2023-06-21 11:25:54 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 11:25:56 info: [0mPOST /api/users/clients/createClient [32m200[0m 622.406 ms - 854[0m
+2023-06-21 11:25:56 info: [0mDELETE /api/users/clients/deleteClient/[22]/disable [32m200[0m 133.762 ms - 119[0m
+2023-06-21 12:47:20 info: ../logs
+2023-06-21 12:47:20 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 12:47:22 info: [0mPOST /api/users/clients/createClient [32m200[0m 581.886 ms - 854[0m
+2023-06-21 12:47:22 info: [0mPOST /api/users/clients/createClient [32m200[0m 16.026 ms - 78[0m
+2023-06-21 12:47:22 info: [0mPOST /api/users/clients/createClient [32m200[0m 342.198 ms - 82[0m
+2023-06-21 12:47:22 info: [0mPOST /api/users/clients/createClien [32m200[0m 2.983 ms - 121[0m
+2023-06-21 12:47:22 info: [0mDELETE /api/users/clients/deleteClient/[23]/disable [32m200[0m 164.188 ms - 119[0m
+2023-06-21 12:50:17 info: ../logs
+2023-06-21 12:50:17 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 12:50:18 info: [0mPOST /api/users/clients/createClien [32m200[0m 18.505 ms - 121[0m
+2023-06-21 12:51:00 info: ../logs
+2023-06-21 12:51:00 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 12:51:02 info: [0mPOST /api/users/clients/createClient [32m200[0m 521.300 ms - 121[0m
+2023-06-21 12:52:44 info: ../logs
+2023-06-21 12:52:44 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 12:52:46 info: [0mPOST /api/users/clients/createClient [32m200[0m 567.236 ms - 844[0m
+2023-06-21 12:52:46 info: [0mPOST /api/users/clients/createClient [32m200[0m 13.777 ms - 78[0m
+2023-06-21 12:52:46 info: [0mPOST /api/users/clients/createClient [32m200[0m 295.153 ms - 82[0m
+2023-06-21 12:52:46 info: [0mPOST /api/users/clients/createClien [32m200[0m 2.306 ms - 121[0m
+2023-06-21 12:52:47 info: [0mPOST /api/users/clients/createClient [32m200[0m 161.156 ms - 121[0m
+2023-06-21 12:54:19 info: ../logs
+2023-06-21 12:54:19 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 12:54:20 info: [0mPOST /api/users/clients/createClient [32m200[0m 598.827 ms - 82[0m
+2023-06-21 12:54:20 info: [0mPOST /api/users/clients/createClient [32m200[0m 15.679 ms - 78[0m
+2023-06-21 12:54:21 info: [0mPOST /api/users/clients/createClient [32m200[0m 282.734 ms - 82[0m
+2023-06-21 12:54:21 info: [0mPOST /api/users/clients/createClien [32m200[0m 9.583 ms - 121[0m
+2023-06-21 12:54:21 info: [0mPOST /api/users/clients/createClient [32m200[0m 165.509 ms - 121[0m
+2023-06-21 12:54:21 info: [0mDELETE /api/users/clients/deleteClient/[undefined]/disable [32m200[0m 85.911 ms - 117[0m
+2023-06-21 12:58:00 info: ../logs
+2023-06-21 12:58:00 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 12:58:02 info: [0mPOST /api/users/clients/createClient [32m200[0m 655.655 ms - 844[0m
+2023-06-21 12:58:02 info: [0mPOST /api/users/clients/createClient [32m200[0m 56.789 ms - 78[0m
+2023-06-21 12:58:02 info: [0mPOST /api/users/clients/createClient [32m200[0m 292.573 ms - 82[0m
+2023-06-21 12:58:02 info: [0mPOST /api/users/clients/createClien [32m200[0m 3.080 ms - 121[0m
+2023-06-21 12:58:03 info: [0mPOST /api/users/clients/createClient [32m200[0m 188.637 ms - 121[0m
+2023-06-21 12:58:03 info: [0mDELETE /api/users/clients/deleteClient/[29] [32m200[0m 205.074 ms - 119[0m
+2023-06-21 12:58:17 info: ../logs
+2023-06-21 12:58:17 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 12:58:19 info: [0mPOST /api/users/clients/createClient [32m200[0m 669.022 ms - 82[0m
+2023-06-21 12:58:19 info: [0mPOST /api/users/clients/createClient [32m200[0m 20.749 ms - 78[0m
+2023-06-21 12:58:20 info: [0mPOST /api/users/clients/createClient [32m200[0m 325.715 ms - 82[0m
+2023-06-21 12:58:20 info: [0mPOST /api/users/clients/createClien [32m200[0m 3.215 ms - 121[0m
+2023-06-21 12:58:20 info: [0mPOST /api/users/clients/createClient [32m200[0m 193.322 ms - 121[0m
+2023-06-21 12:58:20 info: [0mDELETE /api/users/clients/deleteClient/[undefined] [32m200[0m 96.186 ms - 117[0m
+2023-06-21 12:59:19 info: ../logs
+2023-06-21 12:59:19 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 12:59:20 info: [0mPOST /api/users/clients/createClient [32m200[0m 692.351 ms - 82[0m
+2023-06-21 12:59:21 info: [0mPOST /api/users/clients/createClient [32m200[0m 27.419 ms - 78[0m
+2023-06-21 12:59:21 info: [0mPOST /api/users/clients/createClient [32m200[0m 345.165 ms - 82[0m
+2023-06-21 12:59:21 info: [0mPOST /api/users/clients/createClien [32m200[0m 5.192 ms - 121[0m
+2023-06-21 12:59:21 info: [0mPOST /api/users/clients/createClient [32m200[0m 178.373 ms - 121[0m
+2023-06-21 12:59:21 info: [0mDELETE /api/users/clients/deleteClient/[undefined] [32m200[0m 97.104 ms - 117[0m
+2023-06-21 13:02:03 info: ../logs
+2023-06-21 13:02:03 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:02:05 info: [0mPOST /api/users/clients/createClient [32m200[0m 732.428 ms - 82[0m
+2023-06-21 13:02:05 info: [0mPOST /api/users/clients/createClient [32m200[0m 12.520 ms - 78[0m
+2023-06-21 13:02:05 info: [0mPOST /api/users/clients/createClient [32m200[0m 305.343 ms - 82[0m
+2023-06-21 13:02:06 info: [0mPOST /api/users/clients/createClien [32m200[0m 6.672 ms - 121[0m
+2023-06-21 13:02:06 info: [0mPOST /api/users/clients/createClient [32m200[0m 202.198 ms - 121[0m
+2023-06-21 13:02:06 info: [0mGET /api/users/clients/undefined [32m200[0m 6.119 ms - 121[0m
+2023-06-21 13:02:06 info: [0mDELETE /api/users/clients/deleteClient/[undefined] [32m200[0m 119.469 ms - 117[0m
+2023-06-21 13:03:06 info: ../logs
+2023-06-21 13:03:06 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:03:08 info: [0mPOST /api/users/clients/createClient [32m200[0m 664.424 ms - 82[0m
+2023-06-21 13:03:08 info: [0mPOST /api/users/clients/createClient [32m200[0m 15.405 ms - 78[0m
+2023-06-21 13:03:08 info: [0mPOST /api/users/clients/createClient [32m200[0m 308.310 ms - 82[0m
+2023-06-21 13:03:08 info: [0mPOST /api/users/clients/createClien [32m200[0m 4.371 ms - 121[0m
+2023-06-21 13:03:09 info: [0mPOST /api/users/clients/createClient [32m200[0m 202.226 ms - 121[0m
+2023-06-21 13:03:09 info: [0mGET /api/users/clients/29 [32m200[0m 23.204 ms - 78[0m
+2023-06-21 13:03:09 info: [0mDELETE /api/users/clients/deleteClient/[undefined] [32m200[0m 118.225 ms - 117[0m
+2023-06-21 13:04:14 info: ../logs
+2023-06-21 13:04:14 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:04:16 info: [0mPOST /api/users/clients/createClient [32m200[0m 708.538 ms - 82[0m
+2023-06-21 13:04:16 info: [0mPOST /api/users/clients/createClient [32m200[0m 16.066 ms - 78[0m
+2023-06-21 13:04:16 info: [0mPOST /api/users/clients/createClient [32m200[0m 277.787 ms - 82[0m
+2023-06-21 13:04:16 info: [0mPOST /api/users/clients/createClien [32m200[0m 6.374 ms - 121[0m
+2023-06-21 13:04:17 info: [0mPOST /api/users/clients/createClient [32m200[0m 260.992 ms - 121[0m
+2023-06-21 13:04:17 info: [0mGET /api/users/clients/29 [33m404[0m 208.230 ms - 62[0m
+2023-06-21 13:04:17 info: [0mDELETE /api/users/clients/deleteClient/[undefined] [32m200[0m 113.487 ms - 117[0m
+2023-06-21 13:04:42 info: ../logs
+2023-06-21 13:04:42 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:04:44 info: [0mPOST /api/users/clients/createClient [32m200[0m 705.669 ms - 82[0m
+2023-06-21 13:04:44 info: [0mPOST /api/users/clients/createClient [32m200[0m 24.710 ms - 78[0m
+2023-06-21 13:04:44 info: [0mPOST /api/users/clients/createClient [32m200[0m 324.681 ms - 82[0m
+2023-06-21 13:04:44 info: [0mPOST /api/users/clients/createClien [32m200[0m 5.280 ms - 121[0m
+2023-06-21 13:04:45 info: [0mPOST /api/users/clients/createClient [32m200[0m 241.543 ms - 121[0m
+2023-06-21 13:04:45 info: [0mGET /api/users/clients/29 [33m404[0m 212.476 ms - 62[0m
+2023-06-21 13:04:45 info: [0mDELETE /api/users/clients/deleteClient/[undefined] [32m200[0m 136.371 ms - 117[0m
+2023-06-21 13:05:39 info: ../logs
+2023-06-21 13:05:39 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:05:41 info: [0mPOST /api/users/clients/createClient [32m200[0m 705.512 ms - 82[0m
+2023-06-21 13:05:41 info: [0mPOST /api/users/clients/createClient [32m200[0m 31.764 ms - 78[0m
+2023-06-21 13:05:42 info: [0mPOST /api/users/clients/createClient [32m200[0m 299.573 ms - 82[0m
+2023-06-21 13:05:42 info: [0mPOST /api/users/clients/createClien [32m200[0m 4.021 ms - 121[0m
+2023-06-21 13:05:42 info: [0mPOST /api/users/clients/createClient [32m200[0m 191.589 ms - 121[0m
+2023-06-21 13:05:42 info: [0mGET /api/users/clients/29 [33m404[0m 236.162 ms - 62[0m
+2023-06-21 13:05:42 info: [0mDELETE /api/users/clients/deleteClient/[undefined] [32m200[0m 114.225 ms - 117[0m
+2023-06-21 13:06:05 info: ../logs
+2023-06-21 13:06:05 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:06:07 info: [0mPOST /api/users/clients/createClient [32m200[0m 676.936 ms - 82[0m
+2023-06-21 13:06:07 info: [0mPOST /api/users/clients/createClient [32m200[0m 21.175 ms - 78[0m
+2023-06-21 13:06:08 info: [0mPOST /api/users/clients/createClient [32m200[0m 330.880 ms - 82[0m
+2023-06-21 13:06:08 info: [0mPOST /api/users/clients/createClien [32m200[0m 4.378 ms - 121[0m
+2023-06-21 13:06:08 info: [0mPOST /api/users/clients/createClient [32m200[0m 183.192 ms - 121[0m
+2023-06-21 13:06:08 info: [0mGET /api/users/clients/29 [33m404[0m 192.907 ms - 62[0m
+2023-06-21 13:06:08 info: [0mDELETE /api/users/clients/deleteClient/[undefined] [32m200[0m 130.378 ms - 117[0m
+2023-06-21 13:06:55 info: ../logs
+2023-06-21 13:06:55 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:06:57 info: [0mPOST /api/users/clients/createClient [32m200[0m 665.647 ms - 82[0m
+2023-06-21 13:06:57 info: [0mPOST /api/users/clients/createClient [32m200[0m 13.402 ms - 78[0m
+2023-06-21 13:06:58 info: [0mPOST /api/users/clients/createClient [32m200[0m 368.394 ms - 82[0m
+2023-06-21 13:06:58 info: [0mPOST /api/users/clients/createClien [32m200[0m 3.506 ms - 121[0m
+2023-06-21 13:06:58 info: [0mPOST /api/users/clients/createClient [32m200[0m 186.108 ms - 121[0m
+2023-06-21 13:06:58 info: [0mGET /api/users/clients/29 [33m404[0m 209.929 ms - 62[0m
+2023-06-21 13:10:09 info: ../logs
+2023-06-21 13:10:09 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:10:11 info: [0mPOST /api/users/clients/createClient [32m200[0m 611.704 ms - 844[0m
+2023-06-21 13:10:11 info: [0mPOST /api/users/clients/createClient [32m200[0m 30.498 ms - 78[0m
+2023-06-21 13:10:12 info: [0mPOST /api/users/clients/createClient [32m200[0m 381.886 ms - 82[0m
+2023-06-21 13:10:12 info: [0mPOST /api/users/clients/createClien [32m200[0m 4.675 ms - 121[0m
+2023-06-21 13:10:12 info: [0mPOST /api/users/clients/createClient [32m200[0m 180.143 ms - 121[0m
+2023-06-21 13:10:12 info: [0mGET /api/users/clients/29 [33m404[0m 203.487 ms - 62[0m
+2023-06-21 13:10:13 info: [0mGET /api/users/clients/29 [32m200[0m 26.225 ms - 78[0m
+2023-06-21 13:10:13 info: [0mGET /api/users/clients/a [32m200[0m 9.883 ms - 121[0m
+2023-06-21 13:10:13 info: [0mGET /api/user/clients/29 [32m200[0m 4.272 ms - 121[0m
+2023-06-21 13:11:32 info: ../logs
+2023-06-21 13:11:32 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:11:34 info: [0mPOST /api/users/clients/createClient [32m200[0m 630.506 ms - 844[0m
+2023-06-21 13:11:34 info: [0mPOST /api/users/clients/createClient [32m200[0m 23.706 ms - 78[0m
+2023-06-21 13:11:34 info: [0mPOST /api/users/clients/createClient [32m200[0m 338.375 ms - 82[0m
+2023-06-21 13:11:34 info: [0mPOST /api/users/clients/createClien [32m200[0m 3.684 ms - 121[0m
+2023-06-21 13:11:34 info: [0mPOST /api/users/clients/createClient [32m200[0m 184.384 ms - 121[0m
+2023-06-21 13:11:35 info: [0mGET /api/users/clients/51 [32m200[0m 235.374 ms - 843[0m
+2023-06-21 13:11:35 info: [0mGET /api/users/clients/29 [32m200[0m 29.230 ms - 78[0m
+2023-06-21 13:11:35 info: [0mGET /api/users/clients/a [32m200[0m 2.954 ms - 121[0m
+2023-06-21 13:11:35 info: [0mGET /api/user/clients/29 [32m200[0m 3.189 ms - 121[0m
+2023-06-21 13:13:33 info: ../logs
+2023-06-21 13:13:33 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:13:35 info: [0mPOST /api/users/clients/createClient [32m200[0m 657.933 ms - 844[0m
+2023-06-21 13:13:35 info: [0mPOST /api/users/clients/createClient [32m200[0m 19.839 ms - 78[0m
+2023-06-21 13:13:36 info: [0mPOST /api/users/clients/createClient [32m200[0m 391.622 ms - 82[0m
+2023-06-21 13:13:36 info: [0mPOST /api/users/clients/createClien [32m200[0m 5.562 ms - 121[0m
+2023-06-21 13:13:36 info: [0mPOST /api/users/clients/createClient [32m200[0m 218.342 ms - 121[0m
+2023-06-21 13:13:36 info: [0mGET /api/users/clients/53 [32m200[0m 275.440 ms - 843[0m
+2023-06-21 13:13:36 info: [0mGET /api/users/clients/29 [32m200[0m 29.079 ms - 78[0m
+2023-06-21 13:13:37 info: [0mGET /api/users/clients/a [32m200[0m 6.880 ms - 121[0m
+2023-06-21 13:13:37 info: [0mGET /api/user/clients/29 [32m200[0m 3.895 ms - 121[0m
+2023-06-21 13:14:47 info: ../logs
+2023-06-21 13:14:47 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:14:49 info: [0mPOST /api/users/clients/createClient [32m200[0m 732.174 ms - 82[0m
+2023-06-21 13:14:49 info: [0mPOST /api/users/clients/createClient [32m200[0m 19.444 ms - 78[0m
+2023-06-21 13:14:50 info: [0mPOST /api/users/clients/createClient [32m200[0m 284.525 ms - 82[0m
+2023-06-21 13:14:50 info: [0mPOST /api/users/clients/createClien [32m200[0m 5.347 ms - 121[0m
+2023-06-21 13:14:50 info: [0mPOST /api/users/clients/createClient [32m200[0m 209.923 ms - 121[0m
+2023-06-21 13:14:50 info: [0mGET /api/users/clients/undefined [32m200[0m 15.498 ms - 121[0m
+2023-06-21 13:14:50 info: [0mGET /api/users/clients/29 [32m200[0m 27.135 ms - 78[0m
+2023-06-21 13:14:51 info: [0mGET /api/users/clients/a [32m200[0m 2.227 ms - 121[0m
+2023-06-21 13:14:51 info: [0mGET /api/user/clients/29 [32m200[0m 7.127 ms - 121[0m
+2023-06-21 13:15:24 info: ../logs
+2023-06-21 13:15:24 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:15:26 info: [0mPOST /api/users/clients/createClient [32m200[0m 658.045 ms - 844[0m
+2023-06-21 13:15:26 info: [0mPOST /api/users/clients/createClient [32m200[0m 23.327 ms - 78[0m
+2023-06-21 13:15:27 info: [0mPOST /api/users/clients/createClient [32m200[0m 369.362 ms - 82[0m
+2023-06-21 13:15:27 info: [0mPOST /api/users/clients/createClien [32m200[0m 4.315 ms - 121[0m
+2023-06-21 13:15:27 info: [0mPOST /api/users/clients/createClient [32m200[0m 194.764 ms - 121[0m
+2023-06-21 13:15:27 info: [0mGET /api/users/clients/57 [32m200[0m 205.805 ms - 843[0m
+2023-06-21 13:15:27 info: [0mGET /api/users/clients/29 [32m200[0m 37.260 ms - 78[0m
+2023-06-21 13:15:28 info: [0mGET /api/users/clients/a [32m200[0m 2.614 ms - 121[0m
+2023-06-21 13:15:28 info: [0mGET /api/user/clients/29 [32m200[0m 3.289 ms - 121[0m
+2023-06-21 13:16:24 info: ../logs
+2023-06-21 13:16:24 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:16:26 info: [0mPOST /api/users/clients/createClient [32m200[0m 650.866 ms - 82[0m
+2023-06-21 13:16:26 info: [0mPOST /api/users/clients/createClient [32m200[0m 15.348 ms - 78[0m
+2023-06-21 13:16:27 info: [0mPOST /api/users/clients/createClient [32m200[0m 337.614 ms - 82[0m
+2023-06-21 13:16:27 info: [0mPOST /api/users/clients/createClien [32m200[0m 2.857 ms - 121[0m
+2023-06-21 13:16:27 info: [0mPOST /api/users/clients/createClient [32m200[0m 174.417 ms - 121[0m
+2023-06-21 13:16:27 info: [0mGET /api/users/clients/undefined [32m200[0m 2.585 ms - 121[0m
+2023-06-21 13:16:27 info: [0mGET /api/users/clients/29 [32m200[0m 30.455 ms - 78[0m
+2023-06-21 13:16:27 info: [0mGET /api/users/clients/a [32m200[0m 1.850 ms - 121[0m
+2023-06-21 13:16:27 info: [0mGET /api/user/clients/29 [32m200[0m 2.626 ms - 121[0m
+2023-06-21 13:17:54 info: ../logs
+2023-06-21 13:17:54 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:17:55 info: [0mPOST /api/users/clients/createClient [32m200[0m 633.106 ms - 844[0m
+2023-06-21 13:17:55 info: [0mPOST /api/users/clients/createClient [32m200[0m 41.266 ms - 78[0m
+2023-06-21 13:17:56 info: [0mPOST /api/users/clients/createClient [32m200[0m 363.800 ms - 82[0m
+2023-06-21 13:17:56 info: [0mPOST /api/users/clients/createClien [32m200[0m 3.570 ms - 121[0m
+2023-06-21 13:17:56 info: [0mPOST /api/users/clients/createClient [32m200[0m 199.508 ms - 121[0m
+2023-06-21 13:17:56 info: [0mGET /api/users/clients/ [32m200[0m 4.204 ms - 121[0m
+2023-06-21 13:17:57 info: [0mGET /api/users/clients/29 [32m200[0m 34.666 ms - 78[0m
+2023-06-21 13:17:57 info: [0mGET /api/users/clients/a [32m200[0m 3.128 ms - 121[0m
+2023-06-21 13:17:57 info: [0mGET /api/user/clients/29 [32m200[0m 2.789 ms - 121[0m
+2023-06-21 13:19:01 info: ../logs
+2023-06-21 13:19:01 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:19:03 info: [0mPOST /api/users/clients/createClient [32m200[0m 687.939 ms - 844[0m
+2023-06-21 13:19:03 info: [0mPOST /api/users/clients/createClient [32m200[0m 14.678 ms - 78[0m
+2023-06-21 13:19:04 info: [0mPOST /api/users/clients/createClient [32m200[0m 614.051 ms - 82[0m
+2023-06-21 13:19:04 info: [0mPOST /api/users/clients/createClien [32m200[0m 3.488 ms - 121[0m
+2023-06-21 13:19:04 info: [0mPOST /api/users/clients/createClient [32m200[0m 226.035 ms - 121[0m
+2023-06-21 13:19:04 info: [0mGET /api/users/clients/63 [32m200[0m 255.222 ms - 843[0m
+2023-06-21 13:19:05 info: [0mGET /api/users/clients/29 [32m200[0m 25.812 ms - 78[0m
+2023-06-21 13:19:05 info: [0mGET /api/users/clients/a [32m200[0m 2.608 ms - 121[0m
+2023-06-21 13:19:05 info: [0mGET /api/user/clients/29 [32m200[0m 2.943 ms - 121[0m
+2023-06-21 13:20:12 info: ../logs
+2023-06-21 13:20:12 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:20:13 info: [0mGET /api/users/clients/undefined [32m200[0m 8.281 ms - 121[0m
+2023-06-21 13:21:31 info: ../logs
+2023-06-21 13:21:31 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:21:32 info: [0mPOST /api/users/clients/createClient [32m200[0m 669.474 ms - 844[0m
+2023-06-21 13:21:33 info: [0mGET /api/users/clients/65 [32m200[0m 154.305 ms - 843[0m
+2023-06-21 13:23:54 info: ../logs
+2023-06-21 13:23:54 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:23:57 info: [0mPOST /api/users/clients/createClient [32m200[0m 857.412 ms - 844[0m
+2023-06-21 13:23:57 info: [0mGET /api/users/clients/66 [32m200[0m 101.314 ms - 861[0m
+2023-06-21 13:24:48 info: ../logs
+2023-06-21 13:24:48 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:24:50 info: [0mPOST /api/users/clients/createClient [32m200[0m 666.109 ms - 844[0m
+2023-06-21 13:24:50 info: [0mPOST /api/users/clients/createClient [32m200[0m 30.074 ms - 78[0m
+2023-06-21 13:24:50 info: [0mPOST /api/users/clients/createClient [32m200[0m 420.368 ms - 82[0m
+2023-06-21 13:24:50 info: [0mPOST /api/users/clients/createClien [32m200[0m 3.057 ms - 121[0m
+2023-06-21 13:24:51 info: [0mPOST /api/users/clients/createClient [32m200[0m 273.745 ms - 121[0m
+2023-06-21 13:24:51 info: [0mGET /api/users/clients/67 [32m200[0m 275.425 ms - 861[0m
+2023-06-21 13:24:51 info: [0mGET /api/users/clients/29 [32m200[0m 31.877 ms - 78[0m
+2023-06-21 13:24:51 info: [0mGET /api/users/clients/a [32m200[0m 20.133 ms - 121[0m
+2023-06-21 13:24:52 info: [0mGET /api/user/clients/29 [32m200[0m 6.729 ms - 121[0m
+2023-06-21 13:26:20 info: ../logs
+2023-06-21 13:26:20 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:26:22 info: [0mPOST /api/users/clients/createClient [32m200[0m 829.109 ms - 844[0m
+2023-06-21 13:26:23 info: [0mPOST /api/users/clients/createClient [32m200[0m 22.931 ms - 78[0m
+2023-06-21 13:26:23 info: [0mPOST /api/users/clients/createClient [32m200[0m 383.614 ms - 82[0m
+2023-06-21 13:26:23 info: [0mPOST /api/users/clients/createClien [32m200[0m 6.160 ms - 121[0m
+2023-06-21 13:26:23 info: [0mPOST /api/users/clients/createClient [32m200[0m 203.776 ms - 121[0m
+2023-06-21 13:26:24 info: [0mGET /api/users/clients/69 [32m200[0m 256.353 ms - 861[0m
+2023-06-21 13:26:24 info: [0mGET /api/users/clients/29 [32m200[0m 28.443 ms - 78[0m
+2023-06-21 13:26:24 info: [0mGET /api/users/clients/a [32m200[0m 2.136 ms - 121[0m
+2023-06-21 13:26:24 info: [0mGET /api/user/clients/29 [32m200[0m 2.424 ms - 121[0m
+2023-06-21 13:31:45 info: ../logs
+2023-06-21 13:31:45 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:31:46 info: [0mGET /api/users/clients/getAllClients [32m200[0m 482.213 ms - 863[0m
+2023-06-21 13:31:47 info: [0mGET /api/users/clients/getAllClients [32m200[0m 84.654 ms - 863[0m
+2023-06-21 13:31:47 info: [0mGET /api/users/clients/getAsllClients [32m200[0m 10.672 ms - 121[0m
+2023-06-21 13:32:29 info: ../logs
+2023-06-21 13:32:29 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:32:30 info: [0mGET /api/users/clients/getAllClients [32m200[0m 458.147 ms - 863[0m
+2023-06-21 13:32:30 info: [0mGET /api/users/clients/getAsllClients [32m200[0m 4.871 ms - 121[0m
+2023-06-21 13:33:06 info: ../logs
+2023-06-21 13:33:06 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:33:08 info: [0mGET /api/users/clients/getAllClients [32m200[0m 451.935 ms - 863[0m
+2023-06-21 13:33:08 info: [0mGET /api/users/clients/getAsllClients [32m200[0m 7.028 ms - 121[0m
+2023-06-21 13:40:43 info: ../logs
+2023-06-21 13:40:43 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:40:45 info: [0mPOST /api/users/clients/createClient [32m200[0m 755.389 ms - 844[0m
+2023-06-21 13:40:45 info: [0mPOST /api/users/clients/createClient [32m200[0m 35.499 ms - 78[0m
+2023-06-21 13:40:45 info: [0mPOST /api/users/clients/createClient [32m200[0m 403.927 ms - 82[0m
+2023-06-21 13:40:45 info: [0mPOST /api/users/clients/createClien [32m200[0m 4.333 ms - 121[0m
+2023-06-21 13:40:46 info: [0mPOST /api/users/clients/createClient [32m200[0m 224.038 ms - 121[0m
+2023-06-21 13:40:46 info: [0mPOST /api/users/clients/updateClient/71 [32m200[0m 6.018 ms - 121[0m
+2023-06-21 13:40:46 info: [0mPOST /api/users/clients/updateClient/71 [32m200[0m 6.751 ms - 121[0m
+2023-06-21 13:40:46 info: [0mPOST /api/users/clients/updateClient/71 [32m200[0m 5.343 ms - 121[0m
+2023-06-21 13:40:46 info: [0mPOST /api/users/clients/updateCliesnt/71 [32m200[0m 6.862 ms - 121[0m
+2023-06-21 13:40:46 info: [0mPOST /api/users/clients/updateClient/71 [32m200[0m 5.199 ms - 121[0m
+2023-06-21 13:42:54 info: ../logs
+2023-06-21 13:42:54 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:42:56 info: [0mPOST /api/users/clients/updateClient/71 [32m200[0m 19.430 ms - 121[0m
+2023-06-21 13:42:56 info: [0mPOST /api/users/clients/updateClient/undefined [32m200[0m 4.964 ms - 121[0m
+2023-06-21 13:42:56 info: [0mPOST /api/users/clients/updateClient/undefined [32m200[0m 2.563 ms - 121[0m
+2023-06-21 13:42:56 info: [0mPOST /api/users/clients/updateCliesnt/undefined [32m200[0m 2.429 ms - 121[0m
+2023-06-21 13:42:56 info: [0mPOST /api/users/clients/updateClient/undefined [32m200[0m 2.149 ms - 121[0m
+2023-06-21 13:43:47 info: ../logs
+2023-06-21 13:43:47 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:43:48 info: [0mPOST /api/users/clients/updateClient/71 [32m200[0m 23.168 ms - 121[0m
+2023-06-21 13:43:48 info: [0mPOST /api/users/clients/updateClient/undefined [32m200[0m 3.908 ms - 121[0m
+2023-06-21 13:43:48 info: [0mPOST /api/users/clients/updateClient/undefined [32m200[0m 2.485 ms - 121[0m
+2023-06-21 13:43:48 info: [0mPOST /api/users/clients/updateCliesnt/undefined [32m200[0m 1.787 ms - 121[0m
+2023-06-21 13:43:48 info: [0mPOST /api/users/clients/updateClient/undefined [32m200[0m 2.796 ms - 121[0m
+2023-06-21 13:46:17 info: ../logs
+2023-06-21 13:46:17 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 13:46:19 info: [0mPOST /api/users/clients/updateClient/71 [32m200[0m 21.711 ms - 121[0m
+2023-06-21 15:01:58 info: ../logs
+2023-06-21 15:01:58 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 15:02:00 info: [0mPOST /api/users/clients/createClient [32m200[0m 670.828 ms - 844[0m
+2023-06-21 15:02:00 info: [0mPOST /api/users/clients/createClient [32m200[0m 23.666 ms - 78[0m
+2023-06-21 15:02:01 info: [0mPOST /api/users/clients/createClient [32m200[0m 399.009 ms - 82[0m
+2023-06-21 15:02:01 info: [0mPOST /api/users/clients/createClien [32m200[0m 5.724 ms - 121[0m
+2023-06-21 15:02:01 info: [0mPOST /api/users/clients/createClient [32m200[0m 225.726 ms - 121[0m
+2023-06-21 15:02:01 info: [0mGET /api/users/clients/73 [32m200[0m 260.150 ms - 861[0m
+2023-06-21 15:02:02 info: [0mGET /api/users/clients/29 [32m200[0m 46.113 ms - 78[0m
+2023-06-21 15:02:02 info: [0mGET /api/users/clients/a [32m200[0m 4.602 ms - 121[0m
+2023-06-21 15:02:02 info: [0mGET /api/user/clients/29 [32m200[0m 5.499 ms - 121[0m
+2023-06-21 15:02:02 info: [0mGET /api/users/clients/getAllClients [32m200[0m 166.609 ms - 863[0m
+2023-06-21 15:02:03 info: [0mGET /api/users/clients/getAsllClients [32m200[0m 3.416 ms - 121[0m
+2023-06-21 15:02:03 info: [0mPUT /api/users/clients/updateClient/73 [32m200[0m 594.050 ms - 844[0m
+2023-06-21 15:02:04 info: [0mPUT /api/users/clients/updateClient/73 [32m200[0m 661.741 ms - 844[0m
+2023-06-21 15:02:05 info: [0mPUT /api/users/clients/updateClient/73 [32m200[0m 636.786 ms - 861[0m
+2023-06-21 15:02:05 info: [0mPUT /api/users/clients/updateCliesnt/73 [32m200[0m 4.725 ms - 121[0m
+2023-06-21 15:02:05 info: [0mPUT /api/users/clients/updateClient/73 [32m200[0m 665.447 ms - 861[0m
+2023-06-21 15:07:01 info: ../logs
+2023-06-21 15:07:01 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 15:07:03 info: [0mPOST /api/users/clients/createClient [32m200[0m 784.115 ms - 844[0m
+2023-06-21 15:07:03 info: [0mPOST /api/users/clients/createClient [32m200[0m 20.643 ms - 78[0m
+2023-06-21 15:07:04 info: [0mPOST /api/users/clients/createClient [32m200[0m 662.972 ms - 82[0m
+2023-06-21 15:07:04 info: [0mPOST /api/users/clients/createClien [32m200[0m 6.970 ms - 121[0m
+2023-06-21 15:07:04 info: [0mPOST /api/users/clients/createClient [32m200[0m 293.343 ms - 121[0m
+2023-06-21 15:07:05 info: [0mGET /api/users/clients/75 [32m200[0m 316.699 ms - 861[0m
+2023-06-21 15:07:05 info: [0mGET /api/users/clients/29 [32m200[0m 67.185 ms - 78[0m
+2023-06-21 15:07:05 info: [0mGET /api/users/clients/a [32m200[0m 2.804 ms - 121[0m
+2023-06-21 15:07:05 info: [0mGET /api/user/clients/29 [32m200[0m 3.223 ms - 121[0m
+2023-06-21 15:07:05 info: [0mGET /api/users/clients/getAllClients [32m200[0m 241.691 ms - -[0m
+2023-06-21 15:07:06 info: [0mGET /api/users/clients/getAsllClients [32m200[0m 3.879 ms - 121[0m
+2023-06-21 15:07:06 info: [0mPUT /api/users/clients/updateClient/75 [32m200[0m 595.986 ms - 844[0m
+2023-06-21 15:07:07 info: [0mPUT /api/users/clients/updateClient/75 [32m200[0m 663.058 ms - 844[0m
+2023-06-21 15:07:08 info: [0mPUT /api/users/clients/updateClient/75 [32m200[0m 492.750 ms - 82[0m
+2023-06-21 15:07:08 info: [0mPUT /api/users/clients/updateCliesnt/75 [32m200[0m 6.272 ms - 121[0m
+2023-06-21 15:07:08 info: [0mPUT /api/users/clients/updateClient/75 [32m200[0m 578.653 ms - 82[0m
+2023-06-21 15:09:03 info: ../logs
+2023-06-21 15:09:03 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 15:09:05 info: [0mPOST /api/users/clients/createClient [32m200[0m 743.899 ms - 82[0m
+2023-06-21 15:09:05 info: [0mPOST /api/users/clients/createClient [32m200[0m 20.411 ms - 78[0m
+2023-06-21 15:09:06 info: [0mPOST /api/users/clients/createClient [32m200[0m 360.574 ms - 82[0m
+2023-06-21 15:09:06 info: [0mPOST /api/users/clients/createClien [32m200[0m 4.305 ms - 121[0m
+2023-06-21 15:09:06 info: [0mPOST /api/users/clients/createClient [32m200[0m 238.553 ms - 121[0m
+2023-06-21 15:09:06 info: [0mGET /api/users/clients/undefined [32m200[0m 2.447 ms - 121[0m
+2023-06-21 15:09:06 info: [0mGET /api/users/clients/29 [32m200[0m 41.055 ms - 78[0m
+2023-06-21 15:09:07 info: [0mGET /api/users/clients/a [32m200[0m 3.930 ms - 121[0m
+2023-06-21 15:09:07 info: [0mGET /api/user/clients/29 [32m200[0m 3.431 ms - 121[0m
+2023-06-21 15:09:07 info: [0mGET /api/users/clients/getAllClients [32m200[0m 172.017 ms - -[0m
+2023-06-21 15:09:07 info: [0mGET /api/users/clients/getAsllClients [32m200[0m 3.321 ms - 121[0m
+2023-06-21 15:09:07 info: [0mPUT /api/users/clients/updateClient/undefined [32m200[0m 9.895 ms - 121[0m
+2023-06-21 15:09:07 info: [0mPUT /api/users/clients/updateClient/undefined [32m200[0m 3.248 ms - 121[0m
+2023-06-21 15:09:07 info: [0mPUT /api/users/clients/updateClient/undefined [32m200[0m 16.087 ms - 121[0m
+2023-06-21 15:09:07 info: [0mPUT /api/users/clients/updateCliesnt/undefined [32m200[0m 3.069 ms - 121[0m
+2023-06-21 15:09:07 info: [0mPUT /api/users/clients/updateClient/undefined [32m200[0m 2.835 ms - 121[0m
+2023-06-21 15:09:36 info: ../logs
+2023-06-21 15:09:36 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 15:09:38 info: [0mPOST /api/users/clients/createClient [32m200[0m 650.696 ms - 844[0m
+2023-06-21 15:09:38 info: [0mPOST /api/users/clients/createClient [32m200[0m 35.891 ms - 78[0m
+2023-06-21 15:09:38 info: [0mPOST /api/users/clients/createClient [32m200[0m 361.695 ms - 82[0m
+2023-06-21 15:09:38 info: [0mPOST /api/users/clients/createClien [32m200[0m 3.190 ms - 121[0m
+2023-06-21 15:09:38 info: [0mPOST /api/users/clients/createClient [32m200[0m 219.336 ms - 121[0m
+2023-06-21 15:09:39 info: [0mGET /api/users/clients/79 [32m200[0m 267.174 ms - 861[0m
+2023-06-21 15:09:39 info: [0mGET /api/users/clients/29 [32m200[0m 41.497 ms - 78[0m
+2023-06-21 15:09:39 info: [0mGET /api/users/clients/a [32m200[0m 2.813 ms - 121[0m
+2023-06-21 15:09:39 info: [0mGET /api/user/clients/29 [32m200[0m 4.596 ms - 121[0m
+2023-06-21 15:09:39 info: [0mGET /api/users/clients/getAllClients [32m200[0m 167.071 ms - 863[0m
+2023-06-21 15:09:40 info: [0mGET /api/users/clients/getAsllClients [32m200[0m 3.506 ms - 121[0m
+2023-06-21 15:09:40 info: [0mPUT /api/users/clients/updateClient/79 [32m200[0m 569.253 ms - 844[0m
+2023-06-21 15:09:41 info: [0mPUT /api/users/clients/updateClient/79 [32m200[0m 638.901 ms - 844[0m
+2023-06-21 15:09:42 info: [0mPUT /api/users/clients/updateClient/79 [32m200[0m 741.506 ms - 861[0m
+2023-06-21 15:09:42 info: [0mPUT /api/users/clients/updateCliesnt/79 [32m200[0m 5.469 ms - 121[0m
+2023-06-21 15:09:43 info: [0mPUT /api/users/clients/updateClient/79 [32m200[0m 723.618 ms - 861[0m
+2023-06-21 15:25:12 info: ../logs
+2023-06-21 15:25:12 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 15:25:14 info: [0mPOST /api/users/clients/createClient [32m200[0m 670.213 ms - 844[0m
+2023-06-21 15:25:14 info: [0mPOST /api/users/clients/createClient [32m200[0m 13.505 ms - 78[0m
+2023-06-21 15:25:14 info: [0mPOST /api/users/clients/createClient [32m200[0m 201.882 ms - 121[0m
+2023-06-21 15:25:14 info: [0mPOST /api/users/clients/createClien [32m200[0m 7.610 ms - 121[0m
+2023-06-21 15:25:14 info: [0mPOST /api/users/clients/createClient [32m200[0m 266.200 ms - 121[0m
+2023-06-21 15:25:15 info: [0mGET /api/users/clients/81 [32m200[0m 263.757 ms - 861[0m
+2023-06-21 15:25:15 info: [0mGET /api/users/clients/29 [32m200[0m 110.154 ms - 78[0m
+2023-06-21 15:25:15 info: [0mGET /api/users/clients/a [32m200[0m 2.835 ms - 121[0m
+2023-06-21 15:25:15 info: [0mGET /api/user/clients/29 [32m200[0m 3.188 ms - 121[0m
+2023-06-21 15:25:16 info: [0mGET /api/users/clients/getAllClients [32m200[0m 152.429 ms - -[0m
+2023-06-21 15:25:16 info: [0mGET /api/users/clients/getAsllClients [32m200[0m 10.091 ms - 121[0m
+2023-06-21 15:25:16 info: [0mPUT /api/users/clients/updateClient/81 [32m200[0m 583.060 ms - 844[0m
+2023-06-21 15:25:17 info: [0mPUT /api/users/clients/updateClient/81 [32m200[0m 661.279 ms - 701[0m
+2023-06-21 15:25:17 info: [0mPUT /api/users/clients/updateCliesnt/81 [32m200[0m 4.036 ms - 121[0m
+2023-06-21 15:25:18 info: [0mPUT /api/users/clients/updateClient/81 [32m200[0m 615.042 ms - 82[0m
+2023-06-21 15:39:33 info: ../logs
+2023-06-21 15:39:33 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 15:39:36 info: [0mPOST /api/users/clients/getClients [32m200[0m 672.508 ms - 95[0m
+2023-06-21 15:39:36 info: [0mPOST /api/users/clients/createClien [32m200[0m 8.154 ms - 121[0m
+2023-06-21 15:39:36 info: [0mPOST /api/users/clients/createClient [32m200[0m 185.634 ms - 121[0m
+2023-06-21 15:40:43 info: ../logs
+2023-06-21 15:40:43 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 15:40:46 info: [0mPOST /api/users/clients/getClients [32m200[0m 619.231 ms - 95[0m
+2023-06-21 15:52:12 info: ../logs
+2023-06-21 15:52:12 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 15:52:17 info: [0mPOST /api/users/clients/getClients [32m200[0m 535.070 ms - -[0m
+2023-06-21 15:53:10 info: ../logs
+2023-06-21 15:53:10 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 15:53:14 info: [0mPOST /api/users/clients/getClients [32m200[0m 570.963 ms - -[0m
+2023-06-21 15:56:41 info: ../logs
+2023-06-21 15:56:41 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 15:56:43 info: [0mPOST /api/users/clients/getClients [32m200[0m 493.645 ms - -[0m
+2023-06-21 15:56:43 info: [0mPOST /api/users/clients/getClients [32m200[0m 206.096 ms - -[0m
+2023-06-21 15:56:43 info: [0mPOST /api/users/clients/getSSClients [32m200[0m 3.279 ms - 121[0m
+2023-06-21 15:58:27 info: ../logs
+2023-06-21 15:58:27 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-21 15:58:28 info: [0mPOST /api/users/clients/getClients [32m200[0m 492.368 ms - -[0m
+2023-06-21 15:58:29 info: [0mPOST /api/users/clients/getClients [32m200[0m 130.850 ms - -[0m
+2023-06-21 15:58:29 info: [0mPOST /api/users/clients/getSSClients [32m200[0m 4.228 ms - 121[0m

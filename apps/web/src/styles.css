@@ -1,0 +1,179 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif !important;
+  position: relative;
+}
+
+.MainCard {
+  color: #ffffff !important;
+  margin-left: 150px;
+  margin-top: 250px;
+}
+
+@media (min-width: 1400px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl,
+  .container-xxl {
+    max-width: 1850px !important;
+  }
+}
+
+.error-field.is-invalid {
+  border-color: #dc3545 !important;
+  padding-right: calc(1.5em + 0.75rem) !important;
+  background-image: url("assets/images/mandatory.svg") !important;
+  background-repeat: no-repeat !important;
+  background-position: right calc(0.375em + 0.1875rem) center !important;
+  background-size: calc(0.75em + 0.375rem) calc(0.75em + 0.375rem) !important;
+}
+
+.phone-input-button-error.is-invalid {
+  border-color: #dc3545 !important;
+}
+
+.media2 {
+  width: fit-content !important;
+}
+.chatbot {
+  background: #ffffff;
+  /* box-shadow: 2px 2px 4px rgba(217, 217, 217, 0.34); */
+  border: #45ffcd;
+  border-radius: 50px;
+}
+
+.closehandle {
+  right: 35px;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+.chatFormInput {
+  /* position: absolute; */
+  /* bottom: 40px; */
+}
+.inputWidth {
+  background-color: #ffffff;
+  border: #ffffff;
+  width: 75rem;
+}
+.chatDialo {
+  margin-top: 2rem;
+  height: 70vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+.chatDialo::-webkit-scrollbar {
+  width: 10px;
+}
+.boxshadow{
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+   border: 1px solid rgba(217, 217, 217, 1);
+   border-radius: 15px;
+   width: fit-content;
+   padding: 10px !important;
+   font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+color:  rgba(0, 0, 0, 1);
+
+   /* color: #ffffff; */
+}
+.round-shape{
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid  #0396FF;
+   border-radius: 50%;
+   /* background: linear-gradient(135deg, #ABDCFF 0%, #0396FF 100%),
+linear-gradient(0deg, #FFFFFF, #FFFFFF); */
+
+  
+   
+}
+
+.chatDialo::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.chatDialo::-webkit-scrollbar-thumb {
+  background-color: #0396ff;
+  border-radius: 5px;
+}
+
+.chatDialo::-webkit-scrollbar-thumb:hover {
+  background-color: #0396ff;
+}
+
+.topic-body {
+  background-color: #fbfdfe;
+}
+.topic-accord .accordion-button {
+  border: none !important;
+  font-size: small;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 35px;
+  padding-left: 35px;
+  background-color: #f0f7fe !important;
+  border-radius: 0px !important;
+}
+.topic-accord .accordion-button:not(.collapsed) {
+  color: #000;
+}
+.topic-accord .accordion-button::after {
+  background-size: 15px!important;
+  background-position: center;
+  color: #000 !important;
+}
+.topic-accord .accordion-button:not(.collapsed)::after {
+  background-size: 15px!important;
+  color: #000 !important;
+  background-position: center;
+}
+.delete-accord {
+  position: absolute;
+  right: 70px;
+}
+.draggable-item {
+  cursor: move;
+  /* background-color: #f0f7fe; */
+  /* box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); */
+}
+.accord-item {
+  border: none!important;
+}
+.topic-accord .accordion-button:focus {
+  outline: 0 !important;
+  box-shadow: 0 0 0 0 rgba(0, 0, 0, 0) !important;
+}
+/* .border-darkblue {
+  border: 1px solid #3b4c99 !important;
+} */
+
+.suggest{
+  background-color:#0890f4;
+  border-radius: 12px;
+  border-color: #0890f4!important;
+  overflow: hidden;
+  color: #ffffff !important;
+}
+.skip-sugest{
+  background-color: white;
+  border-radius: 12px;
+  color: rgba(47, 149, 205, 1) !important;
+  overflow: hidden;
+  border: none;
+  font-weight: bold;
+  font-size: large;
+}
+

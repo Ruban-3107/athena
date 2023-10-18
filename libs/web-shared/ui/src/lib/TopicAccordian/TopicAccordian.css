@@ -1,0 +1,15 @@
+.acc-top-sav {
+    background: #40a9ff;
+    border: 1px solid #40a9ff;
+    border-radius: 16px;
+    color: #fff;
+    font-size: 13px;
+  }
+  .acc-top-cancel {
+    background: #fbfdfe;
+    border: 1px solid #40a9ff;
+    border-radius: 16px;
+    color: #40a9ff;
+    font-size: 13px;
+  }
+  

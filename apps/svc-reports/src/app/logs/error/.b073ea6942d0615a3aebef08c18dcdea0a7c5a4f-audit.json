@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\practice\\microserv\\athena\\apps\\svc-reports\\src\\app\\logs\\error\\.b073ea6942d0615a3aebef08c18dcdea0a7c5a4f-audit.json",
+    "files": [
+        {
+            "date": 1686665892992,
+            "name": "D:\\practice\\microserv\\athena\\apps\\svc-reports\\src\\app\\logs\\error\\2023-06-13.log",
+            "hash": "d1c25f23a7ee9a1bfc2c8b57a643959aeee4c750ab97554c8a3c09719e53f05a"
+        }
+    ],
+    "hashType": "sha256"
+}

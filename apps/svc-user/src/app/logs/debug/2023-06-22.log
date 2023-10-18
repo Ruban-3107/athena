@@ -1,0 +1,208 @@
+2023-06-22 11:23:39 info: ../logs
+2023-06-22 11:23:39 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 11:23:40 info: [0mGET /api/users/notificationPreference/get [32m200[0m 470.530 ms - 757[0m
+2023-06-22 11:23:40 info: [0mGET /api//notificationPreferenceusers/notificationPreference/get [32m200[0m 2.806 ms - 121[0m
+2023-06-22 11:23:40 info: [0mGET /api//notificationPreferenceusers/notificationPrefeerence/get [32m200[0m 15.059 ms - 121[0m
+2023-06-22 11:23:40 info: [0mPUT /api/users/notificationPreference/update [32m200[0m 107.085 ms - 78[0m
+2023-06-22 11:23:40 info: [0mPUT /api//notificationPreferenceusers/notificationPreference/update [32m200[0m 3.299 ms - 121[0m
+2023-06-22 11:23:41 info: [0mPUT /api//notificationPreferenceusers/notificationPrefeerence/update [32m200[0m 2.152 ms - 121[0m
+2023-06-22 11:25:30 info: ../logs
+2023-06-22 11:25:30 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 11:25:30 info: [0mGET /api/users/notificationPreference/get [32m200[0m 485.541 ms - 757[0m
+2023-06-22 11:25:30 info: [0mGET /api//notificationPreferenceusers/notificationPreference/get [32m200[0m 3.222 ms - 121[0m
+2023-06-22 11:25:30 info: [0mGET /api//notificationPreferenceusers/notificationPrefeerence/get [32m200[0m 15.368 ms - 121[0m
+2023-06-22 11:25:30 info: [0mPUT /api/users/notificationPreference/update [32m200[0m 105.171 ms - 78[0m
+2023-06-22 11:25:30 info: [0mPUT /api/users/notificationPreference/update [32m200[0m 17.254 ms - 78[0m
+2023-06-22 11:25:30 info: [0mPUT /api//notificationPreferenceusers/notificationPrefeerence/update [32m200[0m 2.189 ms - 121[0m
+2023-06-22 11:26:50 info: ../logs
+2023-06-22 11:26:50 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 11:26:50 info: [0mGET /api/users/notificationPreference/get [32m200[0m 483.881 ms - 757[0m
+2023-06-22 11:26:50 info: [0mGET /api//notificationPreferenceusers/notificationPreference/get [32m200[0m 3.266 ms - 121[0m
+2023-06-22 11:26:50 info: [0mGET /api//notificationPreferenceusers/notificationPrefeerence/get [32m200[0m 16.632 ms - 121[0m
+2023-06-22 11:26:50 info: [0mPUT /api/users/notificationPreference/update [32m200[0m 77.290 ms - 78[0m
+2023-06-22 11:26:50 info: [0mPUT /api/users/notificationPreference/update [32m200[0m 17.646 ms - 78[0m
+2023-06-22 11:26:50 info: [0mPUT /api//notificationPreferenceusers/notificationPrefeerence/update [32m200[0m 1.956 ms - 121[0m
+2023-06-22 11:39:48 info: ../logs
+2023-06-22 11:39:48 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 11:39:49 info: [0mGET /api/users/notificationPreference/get [32m200[0m 497.917 ms - 757[0m
+2023-06-22 11:39:49 info: [0mGET /api//notificationPreferenceusers/notificationPreference/get [32m200[0m 3.117 ms - 121[0m
+2023-06-22 11:39:49 info: [0mGET /api//notificationPreferenceusers/notificationPrefeerence/get [32m200[0m 14.656 ms - 121[0m
+2023-06-22 11:39:49 info: [0mPUT /api/users/notificationPreference/update [32m200[0m 709.778 ms - 120[0m
+2023-06-22 11:39:49 info: [0mPUT /api/users/notificationPreference/update [32m200[0m 15.673 ms - 78[0m
+2023-06-22 11:39:49 info: [0mPUT /api//notificationPreferenceusers/notificationPrefeerence/update [32m200[0m 2.127 ms - 121[0m
+2023-06-22 14:42:57 info: ../logs
+2023-06-22 14:42:57 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 14:42:59 info: [0mPOST /api/users/employmentHistory [32m200[0m 476.459 ms - 359[0m
+2023-06-22 14:42:59 info: [0mPOST /api/users/employmentHistory [32m200[0m 59.187 ms - 359[0m
+2023-06-22 14:42:59 info: [0mPOST /api/users/employmentHistory/createClien [32m200[0m 7.505 ms - 121[0m
+2023-06-22 14:43:34 info: ../logs
+2023-06-22 14:43:34 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 14:43:35 info: [0mPOST /api/users/employmentHistory [32m200[0m 441.410 ms - 359[0m
+2023-06-22 14:43:35 info: [0mPOST /api/users/employmentHistory [32m200[0m 73.636 ms - 359[0m
+2023-06-22 14:43:35 info: [0mPOST /api/users/employmentHistory/createClien [32m200[0m 20.460 ms - 121[0m
+2023-06-22 14:44:27 info: ../logs
+2023-06-22 14:44:27 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 14:44:28 info: [0mPOST /api/users/employmentHistory [32m200[0m 465.367 ms - 359[0m
+2023-06-22 14:44:28 info: [0mPOST /api/users/employmentHistory/createClien [32m200[0m 8.027 ms - 121[0m
+2023-06-22 14:46:33 info: ../logs
+2023-06-22 14:46:33 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 14:46:33 info: [0mPOST /api/users/employmentHistory [32m200[0m 464.037 ms - 359[0m
+2023-06-22 14:46:33 info: [0mPOST /api/users/employmentHistory/createClien [32m200[0m 3.520 ms - 121[0m
+2023-06-22 14:46:33 info: [0mGET /api/users/employmentHistory/16 [32m200[0m 61.251 ms - -[0m
+2023-06-22 14:46:33 info: [0mGET /api/users/employmentHistory/a [32m200[0m 1.972 ms - 121[0m
+2023-06-22 14:46:34 info: [0mGET /api/ussser/employmentHistory/29 [32m200[0m 2.293 ms - 121[0m
+2023-06-22 14:51:39 info: ../logs
+2023-06-22 14:51:39 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 14:51:39 info: [0mPOST /api/users/employmentHistory [32m200[0m 469.644 ms - 359[0m
+2023-06-22 14:51:39 info: [0mPOST /api/users/employmentHistory/createClien [32m200[0m 4.533 ms - 121[0m
+2023-06-22 14:51:39 info: [0mGET /api/users/employmentHistory/17 [32m200[0m 79.669 ms - -[0m
+2023-06-22 14:51:39 info: [0mGET /api/users/employmentHistory/a [32m200[0m 6.440 ms - 121[0m
+2023-06-22 14:51:40 info: [0mGET /api/ussser/employmentHistory/29 [32m200[0m 2.518 ms - 121[0m
+2023-06-22 14:51:40 info: [0mGET /api/users/employmentHistory [32m200[0m 99.927 ms - -[0m
+2023-06-22 14:51:40 info: [0mGET /api/users/employmentHistory/getAsllClients [32m200[0m 1.984 ms - 121[0m
+2023-06-22 14:51:40 info: [0mPUT /api/users/employmentHistory/17 [32m200[0m 336.008 ms - 360[0m
+2023-06-22 14:51:40 info: [0mPUT /api/users/employmentHistory/updateCliesnt/17 [32m200[0m 6.295 ms - 121[0m
+2023-06-22 14:51:40 info: [0mPOST /api/users/employmentHistory/getClients [32m200[0m 6.432 ms - 121[0m
+2023-06-22 14:51:40 info: [0mPOST /api/users/employmentHistory/getClients [32m200[0m 4.761 ms - 121[0m
+2023-06-22 14:51:40 info: [0mPOST /api/users/employmentHistory/getSSClients [32m200[0m 6.629 ms - 121[0m
+2023-06-22 14:52:00 info: ../logs
+2023-06-22 14:52:00 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 14:52:01 info: [0mPOST /api/users/employmentHistory [32m200[0m 830.541 ms - 359[0m
+2023-06-22 14:52:01 info: [0mPOST /api/users/employmentHistory/createClien [32m200[0m 20.268 ms - 121[0m
+2023-06-22 14:52:02 info: [0mGET /api/users/employmentHistory/18 [32m200[0m 85.045 ms - -[0m
+2023-06-22 14:52:02 info: [0mGET /api/users/employmentHistory/a [32m200[0m 5.958 ms - 121[0m
+2023-06-22 14:52:02 info: [0mGET /api/ussser/employmentHistory/29 [32m200[0m 15.970 ms - 121[0m
+2023-06-22 14:52:02 info: [0mGET /api/users/employmentHistory [32m200[0m 116.576 ms - -[0m
+2023-06-22 14:52:02 info: [0mGET /api/users/employmentHistory/getAsllClients [32m200[0m 4.676 ms - 121[0m
+2023-06-22 14:52:03 info: [0mPUT /api/users/employmentHistory/18 [32m200[0m 765.546 ms - 360[0m
+2023-06-22 14:52:03 info: [0mPUT /api/users/employmentHistory/updateCliesnt/18 [32m200[0m 6.206 ms - 121[0m
+2023-06-22 14:52:03 info: [0mPOST /api/users/employmentHistory/getClients [32m200[0m 11.037 ms - 121[0m
+2023-06-22 14:52:03 info: [0mPOST /api/users/employmentHistory/getClients [32m200[0m 3.404 ms - 121[0m
+2023-06-22 14:52:03 info: [0mPOST /api/users/employmentHistory/getSSClients [32m200[0m 3.912 ms - 121[0m
+2023-06-22 14:52:29 info: ../logs
+2023-06-22 14:52:29 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 14:52:30 info: [0mPOST /api/users/employmentHistory [32m200[0m 431.629 ms - 359[0m
+2023-06-22 14:52:30 info: [0mPOST /api/users/employmentHistory/createClien [32m200[0m 8.869 ms - 121[0m
+2023-06-22 14:52:30 info: [0mGET /api/users/employmentHistory/19 [32m200[0m 70.611 ms - -[0m
+2023-06-22 14:52:30 info: [0mGET /api/users/employmentHistory/a [32m200[0m 3.744 ms - 121[0m
+2023-06-22 14:52:30 info: [0mGET /api/ussser/employmentHistory/29 [32m200[0m 1.633 ms - 121[0m
+2023-06-22 14:52:30 info: [0mGET /api/users/employmentHistory [32m200[0m 151.628 ms - -[0m
+2023-06-22 14:52:30 info: [0mGET /api/users/employmentHistory/getAsllClients [32m200[0m 4.794 ms - 121[0m
+2023-06-22 14:52:31 info: [0mPUT /api/users/employmentHistory/19 [32m200[0m 366.953 ms - 360[0m
+2023-06-22 14:52:31 info: [0mPUT /api/users/employmentHistory/updateCliesnt/19 [32m200[0m 7.369 ms - 121[0m
+2023-06-22 14:55:52 info: ../logs
+2023-06-22 14:55:52 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 14:55:52 info: [0mPOST /api/users/employmentHistory [32m200[0m 475.379 ms - 359[0m
+2023-06-22 14:55:52 info: [0mPOST /api/users/employmentHistory/createClien [32m200[0m 8.006 ms - 121[0m
+2023-06-22 14:55:53 info: [0mGET /api/users/employmentHistory/20 [32m200[0m 52.870 ms - -[0m
+2023-06-22 14:55:53 info: [0mGET /api/users/employmentHistory/a [32m200[0m 4.249 ms - 121[0m
+2023-06-22 14:55:53 info: [0mGET /api/ussser/employmentHistory/29 [32m200[0m 5.211 ms - 121[0m
+2023-06-22 14:55:53 info: [0mGET /api/users/employmentHistory [32m200[0m 115.637 ms - -[0m
+2023-06-22 14:55:53 info: [0mGET /api/users/employmentHistory/getAsllClients [32m200[0m 4.113 ms - 121[0m
+2023-06-22 14:55:53 info: [0mPUT /api/users/employmentHistory/20 [32m200[0m 346.394 ms - 360[0m
+2023-06-22 14:55:53 info: [0mPUT /api/users/employmentHistory/updateCliesnt/20 [32m200[0m 7.754 ms - 121[0m
+2023-06-22 14:55:53 info: [0mDELETE /api/users/employmentHistory/20 [32m200[0m 3.677 ms - 121[0m
+2023-06-22 14:55:53 info: [0mDELETE /api/users/employmentHistory/updateCliesnt/20 [32m200[0m 4.456 ms - 121[0m
+2023-06-22 14:56:42 info: ../logs
+2023-06-22 14:56:42 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 14:56:43 info: [0mPOST /api/users/employmentHistory [32m200[0m 457.868 ms - 359[0m
+2023-06-22 14:56:43 info: [0mPOST /api/users/employmentHistory/createClien [32m200[0m 12.778 ms - 121[0m
+2023-06-22 14:56:43 info: [0mGET /api/users/employmentHistory/21 [32m200[0m 71.811 ms - -[0m
+2023-06-22 14:56:43 info: [0mGET /api/users/employmentHistory/a [32m200[0m 2.195 ms - 121[0m
+2023-06-22 14:56:43 info: [0mGET /api/ussser/employmentHistory/29 [32m200[0m 2.230 ms - 121[0m
+2023-06-22 14:56:43 info: [0mGET /api/users/employmentHistory [32m200[0m 118.401 ms - -[0m
+2023-06-22 14:56:43 info: [0mGET /api/users/employmentHistory/getAsllClients [32m200[0m 6.589 ms - 121[0m
+2023-06-22 14:56:44 info: [0mPUT /api/users/employmentHistory/21 [32m200[0m 360.630 ms - 360[0m
+2023-06-22 14:56:44 info: [0mPUT /api/users/employmentHistory/updateCliesnt/21 [32m200[0m 3.040 ms - 121[0m
+2023-06-22 14:56:44 info: [0mDELETE /api/users/employmentHistory/21 [32m200[0m 3.056 ms - 121[0m
+2023-06-22 14:56:44 info: [0mDELETE /api/users/employmentHistory/updateCliesnt/21 [32m200[0m 3.241 ms - 121[0m
+2023-06-22 14:57:23 info: ../logs
+2023-06-22 14:57:23 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 14:57:24 info: [0mPOST /api/users/employmentHistory [32m200[0m 519.262 ms - 359[0m
+2023-06-22 14:57:24 info: [0mPOST /api/users/employmentHistory/createClien [32m200[0m 9.954 ms - 121[0m
+2023-06-22 14:57:24 info: [0mGET /api/users/employmentHistory/22 [32m200[0m 92.514 ms - -[0m
+2023-06-22 14:57:24 info: [0mGET /api/users/employmentHistory/a [32m200[0m 5.082 ms - 121[0m
+2023-06-22 14:57:24 info: [0mGET /api/ussser/employmentHistory/29 [32m200[0m 1.678 ms - 121[0m
+2023-06-22 14:57:24 info: [0mGET /api/users/employmentHistory [32m200[0m 101.832 ms - -[0m
+2023-06-22 14:57:24 info: [0mGET /api/users/employmentHistory/getAsllClients [32m200[0m 7.999 ms - 121[0m
+2023-06-22 14:57:25 info: [0mPUT /api/users/employmentHistory/22 [32m200[0m 362.625 ms - 360[0m
+2023-06-22 14:57:25 info: [0mPUT /api/users/employmentHistory/updateCliesnt/22 [32m200[0m 7.478 ms - 121[0m
+2023-06-22 14:57:25 info: [0mDELETE /api/users/employmentHistory/22 [32m200[0m 5.308 ms - 121[0m
+2023-06-22 14:57:25 info: [0mDELETE /api/users/employmentHistory/updateCliesnt/22 [32m200[0m 6.856 ms - 121[0m
+2023-06-22 14:58:29 info: ../logs
+2023-06-22 14:58:29 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 14:58:30 info: [0mPOST /api/users/employmentHistory [32m200[0m 451.127 ms - 359[0m
+2023-06-22 14:58:30 info: [0mPOST /api/users/employmentHistory/createClien [32m200[0m 4.178 ms - 121[0m
+2023-06-22 14:58:30 info: [0mDELETE /api/users/employmentHistory/23 [32m200[0m 2.150 ms - 121[0m
+2023-06-22 14:58:30 info: [0mDELETE /api/users/employmentHistory/updateCliesnt/23 [32m200[0m 2.390 ms - 121[0m
+2023-06-22 14:59:09 info: ../logs
+2023-06-22 14:59:09 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 14:59:10 info: [0mPOST /api/users/employmentHistory [32m200[0m 473.848 ms - 359[0m
+2023-06-22 14:59:10 info: [0mPOST /api/users/employmentHistory/createClien [32m200[0m 5.027 ms - 121[0m
+2023-06-22 14:59:10 info: [0mDELETE /api/users/employmentHistory/24 [32m200[0m 2.182 ms - 121[0m
+2023-06-22 14:59:10 info: [0mDELETE /api/users/employmentHistory/updateCliesnt/24 [32m200[0m 2.935 ms - 121[0m
+2023-06-22 14:59:38 info: ../logs
+2023-06-22 14:59:38 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 14:59:39 info: [0mPOST /api/users/employmentHistory [32m200[0m 476.069 ms - 359[0m
+2023-06-22 14:59:39 info: [0mPOST /api/users/employmentHistory/createClien [32m200[0m 10.981 ms - 121[0m
+2023-06-22 14:59:39 info: [0mDELETE /api/users/employmentHistory/25 [32m200[0m 4.392 ms - 121[0m
+2023-06-22 14:59:39 info: [0mDELETE /api/users/employmentHistory/updateCliesnt/25 [32m200[0m 4.933 ms - 121[0m
+2023-06-22 15:00:21 info: ../logs
+2023-06-22 15:00:21 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 15:00:21 info: [0mPOST /api/users/employmentHistory [32m200[0m 444.337 ms - 359[0m
+2023-06-22 15:00:21 info: [0mPOST /api/users/employmentHistory/createClien [32m200[0m 9.013 ms - 121[0m
+2023-06-22 15:00:22 info: [0mDELETE /api/users/employmentHistory/emp/26 [32m200[0m 112.821 ms - 359[0m
+2023-06-22 15:00:22 info: [0mDELETE /api/users/employmentHistory/updateCliesnt/26 [32m200[0m 6.304 ms - 121[0m
+2023-06-22 15:32:33 info: ../logs
+2023-06-22 15:32:33 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 15:32:34 info: [0mGET /api/users/modules/get [32m200[0m 437.866 ms - 86[0m
+2023-06-22 15:32:34 info: [0mGET /api/users/modules/getAsllmodules [32m200[0m 3.749 ms - 121[0m
+2023-06-22 15:34:53 info: ../logs
+2023-06-22 15:34:53 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 15:34:53 info: [0mGET /api/users/modules/get [32m200[0m 419.440 ms - 85[0m
+2023-06-22 15:34:53 info: [0mGET /api/users/modules/getAsllmodules [32m200[0m 4.827 ms - 121[0m
+2023-06-22 17:18:50 info: ../logs
+2023-06-22 17:18:50 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 17:18:53 info: [0mPOST /api/users/roles/createRoles [32m200[0m 468.092 ms - 129[0m
+2023-06-22 17:18:53 info: [0mPOST /api/users/roles/createRoles [32m200[0m 45.576 ms - 129[0m
+2023-06-22 17:18:53 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 3.713 ms - 121[0m
+2023-06-22 17:18:53 info: [0mGET /api/users/roles/undefined [32m200[0m 3.088 ms - 121[0m
+2023-06-22 17:18:53 info: [0mGET /api/users/roles/undefined [32m200[0m 2.530 ms - 121[0m
+2023-06-22 17:18:53 info: [0mGET /api/users/roles/a [32m200[0m 4.282 ms - 121[0m
+2023-06-22 17:18:53 info: [0mGET /api/ussser/roles/29 [32m200[0m 2.236 ms - 121[0m
+2023-06-22 18:18:27 info: ../logs
+2023-06-22 18:18:27 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 18:18:28 info: [0mPOST /api/users/roles/createRoles [32m200[0m 463.773 ms - 129[0m
+2023-06-22 18:18:28 info: [0mPOST /api/users/roles/createRoles [32m200[0m 68.000 ms - 129[0m
+2023-06-22 18:18:28 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 2.717 ms - 121[0m
+2023-06-22 18:18:28 info: [0mGET /api/users/roles/undefined [32m200[0m 2.394 ms - 121[0m
+2023-06-22 18:18:28 info: [0mGET /api/users/roles/undefined [32m200[0m 2.247 ms - 121[0m
+2023-06-22 18:18:28 info: [0mGET /api/users/roles/a [32m200[0m 2.268 ms - 121[0m
+2023-06-22 18:18:28 info: [0mGET /api/ussser/roles/29 [32m200[0m 3.457 ms - 121[0m
+2023-06-22 18:19:02 info: ../logs
+2023-06-22 18:19:02 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 18:19:03 info: [0mPOST /api/users/roles/createRoles [32m200[0m 545.455 ms - 222[0m
+2023-06-22 18:19:04 info: [0mPOST /api/users/roles/createRoles [32m200[0m 70.929 ms - 132[0m
+2023-06-22 18:19:04 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 3.192 ms - 121[0m
+2023-06-22 18:19:04 info: [0mGET /api/users/roles/13 [32m200[0m 85.854 ms - 218[0m
+2023-06-22 18:19:04 info: [0mGET /api/users/roles/13 [32m200[0m 96.233 ms - 218[0m
+2023-06-22 18:19:04 info: [0mGET /api/users/roles/a [32m200[0m 8.618 ms - 121[0m
+2023-06-22 18:19:04 info: [0mGET /api/ussser/roles/29 [32m200[0m 3.909 ms - 121[0m
+2023-06-22 18:19:26 info: ../logs
+2023-06-22 18:19:26 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 18:19:27 info: [0mPOST /api/users/roles/createRoles [32m200[0m 475.845 ms - 132[0m
+2023-06-22 18:19:27 info: [0mPOST /api/users/roles/createRoles [32m200[0m 53.080 ms - 132[0m
+2023-06-22 18:19:27 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 5.225 ms - 121[0m
+2023-06-22 18:19:27 info: [0mGET /api/users/roles/undefined [32m200[0m 2.304 ms - 121[0m
+2023-06-22 18:19:27 info: [0mGET /api/users/roles/undefined [32m200[0m 1.751 ms - 121[0m
+2023-06-22 18:19:27 info: [0mGET /api/users/roles/a [32m200[0m 1.696 ms - 121[0m
+2023-06-22 18:19:27 info: [0mGET /api/ussser/roles/29 [32m200[0m 2.140 ms - 121[0m
+2023-06-22 18:20:11 info: ../logs
+2023-06-22 18:20:11 info: D:\athena-microservice\athena\apps\svc-user\src\app\util
+2023-06-22 18:20:13 info: [0mPOST /api/users/roles/createRoles [32m200[0m 412.448 ms - 132[0m
+2023-06-22 18:20:13 info: [0mPOST /api/users/roles/createRoles [32m200[0m 64.320 ms - 132[0m
+2023-06-22 18:20:13 info: [0mPOST /api/users/roles/crweateRoles [32m200[0m 7.080 ms - 121[0m
+2023-06-22 18:20:13 info: [0mGET /api/users/roles/undefined [32m200[0m 7.546 ms - 121[0m
+2023-06-22 18:20:13 info: [0mGET /api/users/roles/undefined [32m200[0m 2.025 ms - 121[0m
+2023-06-22 18:20:13 info: [0mGET /api/users/roles/a [32m200[0m 3.455 ms - 121[0m
+2023-06-22 18:20:13 info: [0mGET /api/ussser/roles/29 [32m200[0m 3.437 ms - 121[0m

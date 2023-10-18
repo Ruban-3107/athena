@@ -1,0 +1,17 @@
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+  }
+  
+  .Auth-wrapper {
+    background-color: #fff;
+    height: 100vh;
+    position: relative;
+    overflow-x: hidden;
+  }
+  .Auth-form-wrapper {
+    height: calc(100vh - 90px);
+    margin-top: 90px;
+    overflow-y: auto;
+  }
+  
